@@ -1,0 +1,1157 @@
+(dp0
+S's3'
+p1
+(lp2
+VErkner
+p3
+aVWilhelmshagen
+p4
+aVRahnsdorf
+p5
+aVFriedrichshagen
+p6
+aVHirschgarten
+p7
+aVKöpenick
+p8
+aVWuhlheide
+p9
+aVKarlshorst
+p10
+aVBetriebsbf. Rummelsburg
+p11
+aVRummelsburg
+p12
+aVOstkreuz
+p13
+asVU9
+p14
+(lp15
+VOsloer Straße
+p16
+aVNauener Platz
+p17
+aVLeopoldplatz
+p18
+aVAmrumer Straße
+p19
+aVWesthafen
+p20
+aVBirkenstraße
+p21
+aVTurmstraße
+p22
+aVHansaplatz
+p23
+aVZoologischer Garten
+p24
+aVKurfürstendamm
+p25
+aVSpichernstraße
+p26
+aVGüntzelstraße
+p27
+aVBerliner Straße
+p28
+aVBundesplatz
+p29
+aVFriedrich-Wilhelm-Platz
+p30
+aVWalther-Schreiber-Platz
+p31
+aVSchloßstraße
+p32
+aVRathaus Steglitz
+p33
+asVU8
+p34
+(lp35
+VWittenau
+p36
+aVRathaus Reinickendorf
+p37
+aVKarl-Bonhoeffer-Nervenklinik
+p38
+aVLindauer Allee
+p39
+aVParacelsus-Bad
+p40
+aVResidenzstraße
+p41
+aVFranz-Neumann-Platz
+p42
+aVOsloer Straße
+p43
+aVPankstraße
+p44
+aVGesundbrunnen
+p45
+aVVoltastraße
+p46
+aVBernauer Straße
+p47
+aVRosenthaler Platz
+p48
+aVWeinmeisterstraße
+p49
+aVAlexanderplatz
+p50
+aVJannowitzbrücke
+p51
+aVHeinrich-Heine-Straße
+p52
+aVMoritzplatz
+p53
+aVKottbusser Tor
+p54
+aVSchönleinstraße
+p55
+aVHermannplatz
+p56
+aVBoddinstraße
+p57
+asVU5
+p58
+(lp59
+VHönow
+p60
+aVLouis-Lewin-Straße
+p61
+aVHellersdorf
+p62
+aVCottbusser Platz
+p63
+aVNeue Grottkauer Straße
+p64
+aVKaulsdorf-Nord
+p65
+aVWuhletal
+p66
+aVElsterwerdaer Platz
+p67
+aVBiesdorf-Süd
+p68
+aVTierpark
+p69
+aVFriedrichsfelde
+p70
+aVLichtenberg
+p71
+aVMagdalenenstraße
+p72
+aVFrankfurter Allee
+p73
+aVSamariterstraße
+p74
+aVFrankfurter Tor
+p75
+aVWeberwiese
+p76
+aVStrausberger Platz
+p77
+aVSchillingstraße
+p78
+aVAlexanderplatz
+p79
+asVU4
+p80
+(lp81
+VNollendorfplatz
+p82
+aVViktoria-Luise-Platz
+p83
+aVBayerischer Platz
+p84
+aVRathaus Schöneberg
+p85
+aVInnsbrucker Platz
+p86
+asVU7
+p87
+(lp88
+VRathaus Spandau
+p89
+aVAltstadt Spandau
+p90
+aVZitadelle
+p91
+aVHaselhorst
+p92
+aVPaulsternstraße
+p93
+aVRohrdamm
+p94
+aVSiemensdamm
+p95
+aVHalemweg
+p96
+aVJakob-Kaiser-Platz
+p97
+aVJungfernheide
+p98
+aVMierendorffplatz
+p99
+aVRichard-Wagner-Platz
+p100
+aVBismarckstraße
+p101
+aVWilmersdorfer Straße
+p102
+aVAdenauerplatz
+p103
+aVKonstanzer Straße
+p104
+aVFehrbelliner Platz
+p105
+aVBlissestraße
+p106
+aVBerliner Straße
+p107
+aVBayerischer Platz
+p108
+aVEisenacher Straße
+p109
+aVKleistpark
+p110
+aVYorckstraße
+p111
+aVMöckernbrücke
+p112
+aVMehringdamm
+p113
+aVGneisenaustraße
+p114
+aVSüdstern
+p115
+aVHermannplatz
+p116
+aVRathaus Neukölln
+p117
+aVKarl-Marx-Straße
+p118
+aVNeukölln
+p119
+aVGrenzallee
+p120
+aVBlaschkoallee
+p121
+aVParchimer Allee
+p122
+aVBritz-Süd
+p123
+aVJohannisthaler Chaussee
+p124
+aVLipschitzallee
+p125
+aVWutzkyallee
+p126
+aVZwickauer Damm
+p127
+aVRudow
+p128
+asVU6
+p129
+(lp130
+VAlt-Tegel
+p131
+aVBorsigwerke
+p132
+aVHolzhauser Straße
+p133
+aVOtisstraße
+p134
+aVScharnweberstraße
+p135
+aVKurt-Schumacher-Platz
+p136
+aVAfrikanische Straße
+p137
+aVRehberge
+p138
+aVSeestraße
+p139
+aVLeopoldplatz
+p140
+aVWedding
+p141
+aVReinickendorfer Straße
+p142
+aVSchwartzkopffstraße
+p143
+aVNaturkundemuseum
+p144
+aVOranienburger Tor
+p145
+aVFriedrichstraße
+p146
+aVFranzösische Straße
+p147
+aVStadtmitte
+p148
+aVKochstraße
+p149
+aVHallesches Tor
+p150
+aVMehringdamm
+p151
+aVPlatz der Luftbrücke
+p152
+aVParadestraße
+p153
+aVTempelhof
+p154
+aVAlt-Tempelhof
+p155
+aVKaiserin-Augusta-Straße
+p156
+aVUllsteinstraße
+p157
+aVWestphalweg
+p158
+aVAlt-Mariendorf
+p159
+asVU1
+p160
+(lp161
+VWarschauer Straße
+p162
+aVSchlesisches Tor
+p163
+aVGörlitzer Bahnhof
+p164
+aVKottbusser Tor
+p165
+aVPrinzenstraße
+p166
+aVHallesches Tor
+p167
+aVMöckernbrücke
+p168
+aVGleisdreieck
+p169
+aVKurfürstenstraße
+p170
+aVNollendorfplatz
+p171
+aVWittenbergplatz
+p172
+aVKurfürstendamm
+p173
+aVUhlandstraße
+p174
+asVU3
+p175
+(lp176
+VNollendorfplatz
+p177
+aVWittenbergplatz
+p178
+aVAugsburger Straße
+p179
+aVSpichernstraße
+p180
+aVHohenzollernplatz
+p181
+aVFehrbelliner Platz
+p182
+aVHeidelberger Platz
+p183
+aVRüdesheimer Platz
+p184
+aVBreitenbachplatz
+p185
+aVPodbielskiallee
+p186
+aVDahlem-Dorf
+p187
+aVThielplatz
+p188
+aVOskar-Helene-Heim
+p189
+aVOnkel Toms Hütte
+p190
+aVKrumme Lanke
+p191
+asVU2
+p192
+(lp193
+VPankow
+p194
+aVVinetastraße
+p195
+aVSchönhauser Allee
+p196
+aVEberswalder Straße
+p197
+aVSenefelderplatz
+p198
+aVRosa-Luxemburg-Platz
+p199
+aVAlexanderplatz
+p200
+aVKlosterstraße
+p201
+aVMärkisches Museum
+p202
+aVSpittelmarkt
+p203
+aVHausvogteiplatz
+p204
+aVStadtmitte
+p205
+aVMohrenstraße
+p206
+aVPotsdamer Platz
+p207
+aVMendelssohn-Bartholdy-Park
+p208
+aVGleisdreieck
+p209
+aVBülowstraße
+p210
+aVNollendorfplatz
+p211
+aVWittenbergplatz
+p212
+aVZoologischer Garten
+p213
+aVErnst-Reuter-Platz
+p214
+aVDeutsche Oper
+p215
+aVBismarckstraße
+p216
+aVSophie-Charlotte-Platz
+p217
+aVKaiserdamm
+p218
+aVTheodor-Heuss-Platz
+p219
+aVNeu-Westend
+p220
+aVOlympia-Stadion
+p221
+aVRuhleben
+p222
+asS's85'
+p223
+(lp224
+VWaidmannslust
+p225
+aVWittenau
+p226
+aVWilhelmsruh
+p227
+aVSchönholz
+p228
+aVWollankstraße
+p229
+aVBornholmer Straße
+p230
+aVSchönhauser Allee
+p231
+aVPrenzlauer Allee
+p232
+aVGreifswalder Straße
+p233
+aVLandsberger Allee
+p234
+aVStorkower Straße
+p235
+aVFrankfurter Allee
+p236
+aVOstkreuz
+p237
+aVTreptower Park
+p238
+aVPlänterwald
+p239
+aVBaumschulenweg
+p240
+aVSchöneweide
+p241
+aVBetriebsbf. Schöneweide
+p242
+aVAdlershof
+p243
+aVGrünau
+p244
+asS's9'
+p245
+(lp246
+VFlughafen Bln-Schönefeld
+p247
+aVGrünbergallee
+p248
+aVAltglienicke
+p249
+aVAdlershof
+p250
+aVBetriebsbf. Schöneweide
+p251
+aVSchöneweide
+p252
+aVBaumschulenweg
+p253
+aVPlänterwald
+p254
+aVTreptower Park
+p255
+aVOstkreuz
+p256
+aVFrankfurter Allee
+p257
+aVStorkower Straße
+p258
+aVLandsberger Allee
+p259
+aVGreifswalder Straße
+p260
+aVPrenzlauer Allee
+p261
+aVSchönhauser Allee
+p262
+aVBornholmer Straße
+p263
+aVPankow
+p264
+asS's8'
+p265
+(lp266
+VZeuthen
+p267
+aVEichwalde
+p268
+aVGrünau
+p269
+aVAdlershof
+p270
+aVBetriebsbf. Schöneweide
+p271
+aVSchöneweide
+p272
+aVBaumschulenweg
+p273
+aVPlänterwald
+p274
+aVTreptower Park
+p275
+aVOstkreuz
+p276
+aVFrankfurter Allee
+p277
+aVStorkower Straße
+p278
+aVLandsberger Allee
+p279
+aVGreifswalder Straße
+p280
+aVPrenzlauer Allee
+p281
+aVSchönhauser Allee
+p282
+aVBornholmer Straße
+p283
+aVPankow
+p284
+aVPankow-Heinersdorf
+p285
+aVBlankenburg
+p286
+aVMühlenbeck-Mönchmühle
+p287
+aVSchönfließ
+p288
+aVBergfelde (b Bln)
+p289
+aVHohen Neuendorf (b Bln)
+p290
+aVBirkenwerder
+p291
+asVU55
+p292
+(lp293
+VHauptbahnhof
+p294
+aVBundestag
+p295
+aVBrandenburger Tor
+p296
+asS's2'
+p297
+(lp298
+VBlankenfelde (Kr Teltow-Fläming)
+p299
+aVMahlow
+p300
+aVLichtenrade
+p301
+aVSchichauweg
+p302
+aVBuckower Chaussee
+p303
+aVMarienfelde
+p304
+aVAttilastraße
+p305
+aVPriesterweg
+p306
+aVSüdkreuz
+p307
+aVYorckstraße
+p308
+aVAnhalter Bahnhof
+p309
+aVPotsdamer Platz
+p310
+aVBrandenburger Tor
+p311
+aVFriedrichstraße
+p312
+aVOranienburger Straße
+p313
+aVNordbahnhof
+p314
+aVHumboldthain
+p315
+aVGesundbrunnen
+p316
+aVBornholmer Straße
+p317
+aVPankow
+p318
+aVPankow-Heinersdorf
+p319
+aVBlankenburg
+p320
+aVKarow
+p321
+aVBuch
+p322
+aVRöntgental
+p323
+aVZepernick (b Bernau)
+p324
+aVBernau-Friedenstal
+p325
+aVBernau (b Bln)
+p326
+asS's1'
+p327
+(lp328
+VPotsdam Hauptbahnhof
+p329
+aVBabelsberg
+p330
+aVGriebnitzsee
+p331
+aVWannsee
+p332
+aVNikolassee
+p333
+aVSchlachtensee
+p334
+aVMexikoplatz
+p335
+aVZehlendorf
+p336
+aVSundgauer Straße
+p337
+aVLichterfelde West
+p338
+aVBotanischer Garten
+p339
+aVRathaus Steglitz
+p340
+aVFeuerbachstraße
+p341
+aVFriedenau
+p342
+aVSchöneberg
+p343
+aVJulius-Leber-Brücke
+p344
+aVYorckstraße (Großgörschenstraße)
+p345
+aVAnhalter Bahnhof
+p346
+aVPotsdamer Platz
+p347
+aVBrandenburger Tor
+p348
+aVFriedrichstraße
+p349
+aVOranienburger Straße
+p350
+aVNordbahnhof
+p351
+aVHumboldthain
+p352
+aVGesundbrunnen
+p353
+aVBornholmer Straße
+p354
+aVWollankstraße
+p355
+aVSchönholz
+p356
+aVWilhelmsruh
+p357
+aVWittenau
+p358
+aVWaidmannslust
+p359
+aVHermsdorf
+p360
+aVFrohnau
+p361
+aVHohen Neuendorf (b Bln)
+p362
+aVBirkenwerder
+p363
+aVBorgsdorf
+p364
+aVLehnitz
+p365
+aVOranienburg
+p366
+asS's7'
+p367
+(lp368
+VAhrensfelde
+p369
+aVMehrower Allee
+p370
+aVRaoul-Wallenberg-Straße
+p371
+aVMarzahn
+p372
+aVPoelchaustraße
+p373
+aVSpringpfuhl
+p374
+aVFriedrichsfelde Ost
+p375
+aVLichtenberg
+p376
+aVNöldnerplatz
+p377
+aVOstkreuz
+p378
+aVWarschauer Straße
+p379
+aVOstbahnhof
+p380
+aVJannowitzbrücke
+p381
+aVAlexanderplatz
+p382
+aVHackescher Markt
+p383
+aVFriedrichstraße
+p384
+aVHauptbahnhof
+p385
+aVBellevue
+p386
+aVTiergarten
+p387
+aVZoologischer Garten
+p388
+aVSavignyplatz
+p389
+aVCharlottenburg
+p390
+aVWestkreuz
+p391
+aVGrunewald
+p392
+aVNikolassee
+p393
+aVWannsee
+p394
+asS's5'
+p395
+(lp396
+VStrausberg Nord
+p397
+aVStrausberg Stadt
+p398
+aVHegermühle
+p399
+aVStrausberg
+p400
+aVPetershagen Nord
+p401
+aVFredersdorf (b Bln)
+p402
+aVNeuenhagen (b Bln)
+p403
+aVHoppegarten (Mark)
+p404
+aVBirkenstein
+p405
+aVMahlsdorf
+p406
+aVKaulsdorf
+p407
+aVWuhletal
+p408
+aVBiesdorf
+p409
+aVFriedrichsfelde Ost
+p410
+aVLichtenberg
+p411
+aVNöldnerplatz
+p412
+aVOstkreuz
+p413
+aVWarschauer Straße
+p414
+aVOstbahnhof
+p415
+aVJannowitzbrücke
+p416
+aVAlexanderplatz
+p417
+aVHackescher Markt
+p418
+aVFriedrichstraße
+p419
+aVHauptbahnhof
+p420
+aVBellevue
+p421
+aVTiergarten
+p422
+aVZoologischer Garten
+p423
+aVSavignyplatz
+p424
+aVCharlottenburg
+p425
+aVWestkreuz
+p426
+aVMesse Süd (Eichkamp)
+p427
+aVHeerstraße
+p428
+aVOlympiastadion
+p429
+aVPichelsberg
+p430
+aVStresow
+p431
+aVSpandau
+p432
+asS's75'
+p433
+(lp434
+VWartenberg
+p435
+aVHohenschönhausen
+p436
+aVGehrenseestraße
+p437
+aVSpringpfuhl
+p438
+aVFriedrichsfelde Ost
+p439
+aVLichtenberg
+p440
+aVNöldnerplatz
+p441
+aVOstkreuz
+p442
+aVWarschauer Straße
+p443
+aVOstbahnhof
+p444
+aVJannowitzbrücke
+p445
+aVAlexanderplatz
+p446
+aVHackescher Markt
+p447
+aVFriedrichstraße
+p448
+aVHauptbahnhof
+p449
+aVBellevue
+p450
+aVTiergarten
+p451
+aVZoologischer Garten
+p452
+aVSavignyplatz
+p453
+aVCharlottenburg
+p454
+aVWestkreuz
+p455
+asS's45'
+p456
+(lp457
+VFlughafen Bln-Schönefeld
+p458
+aVGrünbergallee
+p459
+aVAltglienicke
+p460
+aVAdlershof
+p461
+aVBetriebsbf. Schöneweide
+p462
+aVSchöneweide
+p463
+aVBaumschulenweg
+p464
+aVKöllnische Heide
+p465
+aVNeukölln
+p466
+aVHermannstraße
+p467
+aVTempelhof
+p468
+aVSüdkreuz
+p469
+asS's46'
+p470
+(lp471
+VKönigs Wusterhausen
+p472
+aVWildau
+p473
+aVZeuthen
+p474
+aVEichwalde
+p475
+aVGrünau
+p476
+aVAdlershof
+p477
+aVBetriebsbf. Schöneweide
+p478
+aVSchöneweide
+p479
+aVBaumschulenweg
+p480
+aVKöllnische Heide
+p481
+aVNeukölln
+p482
+aVHermannstraße
+p483
+aVTempelhof
+p484
+aVSüdkreuz
+p485
+aVSchöneberg
+p486
+aVInnsbrucker Platz
+p487
+aVBundesplatz
+p488
+aVHeidelberger Platz
+p489
+aVHohenzollerndamm
+p490
+aVHalensee
+p491
+aVWestkreuz
+p492
+aVMesse Nord/ICC
+p493
+aVWestend
+p494
+asS's47'
+p495
+(lp496
+VSpindlersfeld
+p497
+aVOberspree
+p498
+aVSchöneweide
+p499
+aVBaumschulenweg
+p500
+aVKöllnische Heide
+p501
+aVNeukölln
+p502
+aVHermannstraße
+p503
+asS's41'
+p504
+(lp505
+VGesundbrunnen
+p506
+aVSchönhauser Allee
+p507
+aVPrenzlauer Allee
+p508
+aVGreifswalder Straße
+p509
+aVLandsberger Allee
+p510
+aVStorkower Straße
+p511
+aVFrankfurter Allee
+p512
+aVOstkreuz
+p513
+aVTreptower Park
+p514
+aVSonnenallee
+p515
+aVNeukölln
+p516
+aVHermannstraße
+p517
+aVTempelhof
+p518
+aVSüdkreuz
+p519
+aVSchöneberg
+p520
+aVInnsbrucker Platz
+p521
+aVBundesplatz
+p522
+aVHeidelberger Platz
+p523
+aVHohenzollerndamm
+p524
+aVHalensee
+p525
+aVWestkreuz
+p526
+aVMesse Nord/ICC
+p527
+aVWestend
+p528
+aVJungfernheide
+p529
+aVBeusselstraße
+p530
+aVWesthafen
+p531
+aVWedding
+p532
+asS's42'
+p533
+(lp534
+VGesundbrunnen
+p535
+aVWedding
+p536
+aVWesthafen
+p537
+aVBeusselstraße
+p538
+aVJungfernheide
+p539
+aVWestend
+p540
+aVMesse Nord/ICC
+p541
+aVWestkreuz
+p542
+aVHalensee
+p543
+aVHohenzollerndamm
+p544
+aVHeidelberger Platz
+p545
+aVBundesplatz
+p546
+aVInnsbrucker Platz
+p547
+aVSchöneberg
+p548
+aVSüdkreuz
+p549
+aVTempelhof
+p550
+aVHermannstraße
+p551
+aVNeukölln
+p552
+aVSonnenallee
+p553
+aVTreptower Park
+p554
+aVOstkreuz
+p555
+aVFrankfurter Allee
+p556
+aVStorkower Straße
+p557
+aVLandsberger Allee
+p558
+aVGreifswalder Straße
+p559
+aVPrenzlauer Allee
+p560
+aVSchönhauser Allee
+p561
+asS's25'
+p562
+(lp563
+VTeltow Stadt
+p564
+aVLichterfelde Süd
+p565
+aVOsdorfer Straße
+p566
+aVLichterfelde Ost
+p567
+aVLankwitz
+p568
+aVSüdende
+p569
+aVPriesterweg
+p570
+aVSüdkreuz
+p571
+aVYorckstraße
+p572
+aVAnhalter Bahnhof
+p573
+aVPotsdamer Platz
+p574
+aVBrandenburger Tor
+p575
+aVFriedrichstraße
+p576
+aVOranienburger Straße
+p577
+aVNordbahnhof
+p578
+aVHumboldthain
+p579
+aVGesundbrunnen
+p580
+aVBornholmer Straße
+p581
+aVWollankstraße
+p582
+aVSchönholz
+p583
+aVAlt-Reinickendorf
+p584
+aVKarl-Bonhoeffer-Nervenklinik
+p585
+aVEichborndamm
+p586
+aVTegel
+p587
+aVSchulzendorf (b Tegel)
+p588
+aVHeiligensee
+p589
+aVHennigsdorf (b Bln)
+p590
+as.

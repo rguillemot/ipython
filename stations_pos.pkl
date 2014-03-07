@@ -77,8 +77,8 @@ aF13.331355
 asVSamariterstraße
 p31
 (lp32
-F52.51466199999999
-aF13.465347
+F52.52016099999999
+aF13.466945
 asVWittenbergplatz
 p33
 (lp34
@@ -112,13 +112,13 @@ aF13.349747
 asVFlughafen Bln-Schönefeld
 p45
 (lp46
-F52.52000659999999
-aF13.404954
+F52.38333333333333
+aF13.5
 asVPotsdam Hauptbahnhof
 p47
 (lp48
-F52.392722
-aF13.067876
+F52.390113
+aF13.065169
 asVRahnsdorf
 p49
 (lp50
@@ -202,8 +202,8 @@ aF13.575562
 asVMühlenbeck-Mönchmühle
 p81
 (lp82
-F52.654605
-aF13.386844
+F52.654076
+aF13.388224
 asVTreptower Park
 p83
 (lp84
@@ -227,8 +227,8 @@ aF13.206763
 asVKurfürstenstraße
 p91
 (lp92
-F52.503763
-aF13.331419
+F52.49981
+aF13.362814
 asVWestphalweg
 p93
 (lp94
@@ -397,8 +397,8 @@ aF13.360635
 asVScharnweberstraße
 p159
 (lp160
-F52.567111
-aF13.311524
+F52.56666666666667
+aF13.3
 asVErnst-Reuter-Platz
 p161
 (lp162
@@ -407,8 +407,8 @@ aF13.322581
 asVPotsdamer Platz
 p163
 (lp164
-F52.50946
-aF13.376468
+F52.509379
+aF13.375988
 asVUllsteinstraße
 p165
 (lp166
@@ -547,8 +547,8 @@ aF13.386351
 asVPichelsberg
 p219
 (lp220
-F52.51015
-aF13.227782
+F52.510393
+aF13.227134
 asVRathaus Spandau
 p221
 (lp222
@@ -587,8 +587,8 @@ aF13.632719
 asVAnhalter Bahnhof
 p235
 (lp236
-F52.503486
-aF13.381362
+F52.504499
+aF13.382355
 asVHalemweg
 p237
 (lp238
@@ -647,8 +647,8 @@ aF13.425763
 asVHauptbahnhof
 p259
 (lp260
-F52.525592
-aF13.369545
+F52.525847
+aF13.368924
 asVLipschitzallee
 p261
 (lp262
@@ -857,8 +857,8 @@ aF13.412625
 asVBernau (b Bln)
 p343
 (lp344
-F52.570177
-aF13.565729
+F52.52000659999999
+aF13.404954
 asVBorsigwerke
 p345
 (lp346
@@ -997,8 +997,8 @@ aF13.356367
 asVMarienfelde
 p399
 (lp400
-F52.423816
-aF13.375022
+F52.423634
+aF13.375127
 asVSpringpfuhl
 p401
 (lp402
@@ -1017,8 +1017,8 @@ aF13.605794
 asVBirkenwerder
 p407
 (lp408
-F52.66887
-aF13.28719
+F52.669072
+aF13.287091
 asVKrumme Lanke
 p409
 (lp410
@@ -1037,8 +1037,8 @@ aF13.353825
 asVOlympia-Stadion
 p415
 (lp416
-F52.51102299999999
-aF13.241578
+F52.517048
+aF13.2505
 asVPankstraße
 p417
 (lp418
@@ -1087,8 +1087,8 @@ aF13.360924
 asVPankow
 p435
 (lp436
-F52.566477
-aF13.41077
+F52.577963
+aF13.429363
 asVMendelssohn-Bartholdy-Park
 p437
 (lp438
@@ -1132,8 +1132,8 @@ aF13.41216
 asVBorgsdorf
 p453
 (lp454
-F52.66887
-aF13.28719
+F52.669072
+aF13.287091
 asVAmrumer Straße
 p455
 (lp456
@@ -1257,8 +1257,8 @@ aF13.381295
 asVStadtmitte
 p503
 (lp504
-F52.51117900000001
-aF13.389827
+F52.511495
+aF13.389719
 asVGehrenseestraße
 p505
 (lp506
@@ -1412,8 +1412,8 @@ aF13.36817
 asVKurt-Schumacher-Platz
 p565
 (lp566
-F52.52000659999999
-aF13.404954
+F52.563483
+aF13.327328
 asVCharlottenburg
 p567
 (lp568
@@ -1552,6 +1552,6 @@ aF13.392866
 asVKlosterstraße
 p621
 (lp622
-F52.52000659999999
-aF13.404954
+F52.517229
+aF13.412455
 as.
