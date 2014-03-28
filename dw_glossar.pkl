@@ -1,0 +1,3325 @@
+(dp0
+Vjemanden/etwas in Mitleidenschaft ziehen
+p1
+(Vjemandem/etwas wird geschadet; jemandem/etwas wird Schaden zugefügt meist ohne Absicht als Folge eines anderen Ereignisses)
+p2
+VDurch den Bombenangriff auf eine Fabrik sind auch die benachbarten Wohnhäuser in Mitleidenschaft gezogen worden.
+p3
+tp4
+sVErmittlung, die
+p5
+(Vdie Untersuchung
+p6
+VFür seine Ermittlungen braucht der Staatsanwalt dringend weitere Beweise.
+p7
+tp8
+sVetwas auf den Prüfstand stellen; etwas kommt auf den Prüfstand*
+p9
+(Vkritisch untersuchen, ob etwas nötig ist, ob etwas funktioniert; etwas infrage stellen
+p10
+VDas Gesetz kommt jetzt auf den Prüfstand.
+p11
+tp12
+sVMittelsmann, der
+p13
+(Veine Person, die zwischen zwei Parteien vermittelt, weil diese nicht direkt miteinander Kontakt haben können oder möchten
+p14
+VDurch einen Mittelsmann hat der Präsident von den Drohungen erfahren.
+p15
+tp16
+sVunmittelbar vor/nach
+p17
+(Vsehr kurze Zeit davor/danach
+p18
+VDie Verhandlungen stehen unmittelbar vor dem Abschluss.
+p19
+tp20
+sVetwas hält an*
+p21
+(Vetwas besteht weiter; etwas dauert an
+p22
+VDer Konflikt zwischen Israel und Palästina hält weiter an.
+p23
+tp24
+sVMinister/-in, der/die
+p25
+(Vjemand, der ein \u2192 Ministerium leitet und Mitglied der Regierung ist
+p26
+Vdie Außenministerin, der Umweltminister
+p27
+tp28
+sVauf die Straße gehen*
+p29
+(Vdemonstrieren
+p30
+VTausende unzufriedene Lehrer sind am Wochenende auf die Straße gegangen.
+p31
+tp32
+sVBehörde, die
+p33
+(Vdas Amt
+p34
+VDie zuständige Behörde möchte noch keine Angaben zu dem Unfall machen.
+p35
+tp36
+sVAuslieferung, die
+p37
+(Vdie Übergabe einer Person an einen anderen Staat, weil die Person dort wegen eines Verbrechens gesucht wird
+p38
+VDie Auslieferung des Verbrechers findet nächste Woche statt.
+p39
+tp40
+sVWirkung zeigen, etwas zeigt Wirkung
+p41
+(Vetwas führt zu bestimmten Ergebnissen; etwas wirkt
+p42
+VDas Verbot zeigt Wirkung.
+p43
+tp44
+sVExperte/Expertin, der/die
+p45
+(Vjemand, der über ein Thema sehr viel weiß
+p46
+VExperten meinen, dass die Zahl der Opfer weiter steigen könnte.
+p47
+tp48
+sVempfindlich*
+p49
+(Vim negativen Sinne:) sehr stark, sehr groß
+p50
+VRentner haben mit empfindlichen Einbußen zu rechnen.
+p51
+tp52
+sVRandalierer, der
+p53
+(Vjemand, der aggressiv ist und etwas kaputt macht
+p54
+VVor dem Fußballstadion kam es zu zahlreichen Kämpfen zwischen der Polizei und Randalierern.
+p55
+tp56
+sVetwas ist nicht in Sicht
+p57
+(Vetwas kann noch) nicht gesehen werden; etwas wird noch) nicht passieren
+p58
+VEine Verbesserung der Situation ist nicht in Sicht.
+p59
+tp60
+sVetwas zu Protokoll geben
+p61
+(Vetwas öffentlich sagen z. B. in einer Sitzung); etwas sagen, das ins \u2192 Protokoll geschrieben wird
+p62
+VEr gibt zu Protokoll, dass er mit der Entscheidung nicht einverstanden ist.
+p63
+tp64
+sVBlauhelm-Soldat, der
+p65
+(Vein Soldat der Vereinten Nationen UNO), der in \u2192 Krisengebieten den Frieden sichern soll
+p66
+VDie UN beschließt einen Blauhelm-Einsatz in Somalia.
+p67
+tp68
+sVLohnnebenkosten, die (Pl.)
+p69
+(Vdas Geld, das ein \u2192 Arbeitgeber außer dem Gehalt für die Angestellten noch bezahlen muss, vor allem Zahlungen für die Kranken-, Renten- und Arbeitslosenversicherung
+p70
+VSie fordern eine Senkung der Lohnnebenkosten.
+p71
+tp72
+sVZensur, die*
+p73
+(Vdie Situation, in der Medien und persönliche Daten kontrolliert und bestimmte Inhalte nicht veröffentlicht werden dürfen
+p74
+VIn vielen Staaten leiden die Menschen unter einer strengen Zensur.
+p75
+tp76
+sVTerrorismus, der
+p77
+(Vdas Erreichen politischer Ziele durch Gewalt
+p78
+VDer internationale Terrorismus ist eines der größten Probleme des 21. Jahrhunderts.
+p79
+tp80
+sVEinen Vorbehalt gegen jemanden/etwas haben
+p81
+(VBedenken gegenüber jemandem/etwas haben; etwas/jemanden nicht vollständig positiv beurteilen
+p82
+VDie Bundesländer haben Vorbehalte gegen die Gesetzesänderung.
+p83
+tp84
+sVinnovativ
+p85
+(Vvöllig neu, z. B. Ideen, Erfindungen
+p86
+VSie stellt ein innovatives Konzept vor.
+p87
+tp88
+sVantifaschistische Schutzwall, der
+p89
+(Vdie Bezeichnung der DDR-Regierung für die Berliner Mauer, die angeblich die eigenen Bürger vor den Diktaturen außerhalb schützen sollte
+p90
+V Manche DDR-Bürger versuchten, über den antifaschistischen Schutzwall zu fliehen.
+p91
+tp92
+sVHöchststand, der
+p93
+(Vder höchste Wert von etwas
+p94
+VDie Zahl der Arbeitslosen hat einen neuen Höchststand erreicht.
+p95
+tp96
+sVdie Quittung für etwas erhalten*
+p97
+(Vfür ein bestimmtes Verhalten bestraft werden; negative Folgen spüren
+p98
+VDie Partei erhielt bei der letzten Wahl die Quittung für ihre Fehler.
+p99
+tp100
+sVwohlauf sein
+p101
+(Vgesund sein; unverletzt sein
+p102
+VAlle Passagiere sind wohlauf.
+p103
+tp104
+sVverheerend
+p105
+(Vsehr schlimm; katastrophal
+p106
+VDer Klimawandel hat verheerende Folgen.
+p107
+tp108
+sVPutsch, der
+p109
+(Veine meist gewaltsame Aktion, mit der versucht wird, die Macht im Staat zu übernehmen
+p110
+VDie gewählte Regierung wurde durch einen Putsch gestürzt.
+p111
+tp112
+sVabbauen*
+p113
+(Vverringern
+p114
+VIn der Finanzkrise müssen viele Unternehmen zahlreiche Arbeitsplätze abbauen.
+p115
+tp116
+sVdas Sagen haben
+p117
+(Vdie Möglichkeit haben, etwas bestimmen zu können
+p118
+VKeiner weiß, wer in der Firma derzeit das Sagen hat.
+p119
+tp120
+sVMeinungsumfrage, die
+p121
+(Veine Untersuchung, bei der viele Menschen nach ihrer Meinung gefragt werden
+p122
+VDie Ergebnisse der Meinungsumfrage zeigen die Unzufriedenheit der Bevölkerung mit der Regierung.
+p123
+tp124
+sVLösegeld, das
+p125
+(Vdas Geld, das als Gegenleistung zur Freilassung einer entführten Person gefordert wird
+p126
+VDie Terroristen verlangten 2 Millionen Euro Lösegeld für die Freilassung der Journalisten.
+p127
+tp128
+sVArmee, die
+p129
+(Valle Soldaten eines Landes
+p130
+VDer Präsident möchte seine Armee aus dem Land abziehen.
+p131
+tp132
+sVEmbargo, das
+p133
+(Vdas Verbot, mit einem bestimmten Land Handel zu treiben
+p134
+VDie EU verhängte 1989 ein Waffen-Embargo gegen China.
+p135
+tp136
+sVKrisenherd, der
+p137
+(Vein Gebiet, in dem es häufig zu Konflikten kommt; in dem gekämpft wird
+p138
+VAfghanistan ist seit vielen Jahren ein Krisenherd.
+p139
+tp140
+sVeinen Stein aus dem Weg räumen*
+p141
+(Vein Problem lösen; eine Schwierigkeit überwinden
+p142
+VBevor ein neues Gesetz beschlossen werden kann, müssen noch viele Steine aus dem Weg geräumt werden.
+p143
+tp144
+sVAgrarstaat, der
+p145
+(Vein Staat, dessen Wirtschaft vor allem von der Landwirtschaft abhängt; \u2194 Industriestaat
+p146
+VDie meisten Staaten Afrikas sind Agrarstaaten
+p147
+tp148
+sVfatal
+p149
+(Vmit schlimmen Folgen
+p150
+VDie Folgen des Unfalls sind fatal: Es gab 30 Todesopfer.
+p151
+tp152
+sVBinnenmarkt, der
+p153
+(Vbegrenztes Wirtschaftsgebiet mit freiem Handel und festen Regeln
+p154
+Vder Binnenmarkt der Europäischen Union
+p155
+tp156
+sVStadtstaat, der*
+p157
+(Veines der drei \u2192 Länder Berlin, Hamburg, Bremen, die nur aus einer Stadt bzw. zwei Städten Bremen) bestehen
+p158
+VDie Arbeitslosigkeit in Berlin ist höher als in den anderen Stadtstaaten.
+p159
+tp160
+sVim Gegenzug*
+p161
+(Vals Reaktion auf etwas
+p162
+VDie Angestellten verzichten auf mehr Gehalt, und im Gegenzug verspricht die Firma den Erhalt der Arbeitsplätze.
+p163
+tp164
+sVmutmaßlich
+p165
+(Vwahrscheinlich, vermutlich
+p166
+VEs handelte sich mutmaßlich um einen terroristischen Anschlag.
+p167
+tp168
+sVeskalieren, etwas eskaliert
+p169
+(Vsich verschlimmern
+p170
+VDie Kämpfe zwischen der Polizei und den Demonstranten drohen zu eskalieren.
+p171
+tp172
+sVkreditwürdig
+p173
+(Vso, dass man geliehenes Geld wahrscheinlich zuverlässig zurückzahlen kann
+p174
+VDie Bank leiht der Firma kein Geld mehr, weil sie nicht kreditwürdig ist.
+p175
+tp176
+sVMinisterpräsident/-in, der/die
+p177
+(Vder/die Chef/Chefin der Regierung eines \u2192 Landes
+p178
+VDer Ministerpräsident von Brandenburg ist zurückgetreten.
+p179
+tp180
+sVMaßnahme, die
+p181
+(Veine Handlung, um ein bestimmtes Ziel zu erreichen
+p182
+VDie bisherigen Maßnahmen zur Senkung der Arbeitslosigkeit waren erfolglos.
+p183
+tp184
+sVBeauftragte, der/die
+p185
+(Veine Person, die für eine bestimmte Aufgabe verantwortlich ist
+p186
+VDen Firmenbeauftragten für Sicherheit stört das \u2192 fahrlässige Verhalten seiner Mitarbeiter.
+p187
+tp188
+sVVisum, das (Plural: Visa)
+p189
+(Vein Dokument, das man braucht, um in einen Staat einzureisen
+p190
+VWegen der Wahlen nächsten Monat ist es derzeit sehr schwer, ein Visum für das Land zu bekommen.
+p191
+tp192
+sVGeschäftsführer, der
+p193
+(Vder Chef einer Firma
+p194
+VDer Geschäftsführer möchte keine Angaben zu der Schuldenhöhe seiner Firma machen.
+p195
+tp196
+sVMachtkampf, der
+p197
+(Veine \u2192 Konfrontation, bei der man dem Gegner die eigene Stärke zeigen möchte
+p198
+VDie Parteien liefern sich einen Machtkampf.
+p199
+tp200
+sVManager/in, der/die
+p201
+(Vjemand, der eine Firma führt
+p202
+VViele Politiker möchten die Löhne der Manager senken.
+p203
+tp204
+sVVolksparteien, die
+p205
+(Vdie beiden größten deutschen Parteien, die CDU und die SPD
+p206
+VZur Zeit streiten sich die beiden Volksparteien über die Gesundheitsreform.
+p207
+tp208
+sVpolitische Bühne, die
+p209
+(Vdas politische Leben in der Öffentlichkeit
+p210
+VDer 25-Jährige betritt die politische Bühne.
+p211
+tp212
+sVam Scheideweg stehen
+p213
+(Vvor der Entscheidung stehen, wie etwas weitergeht; sich vor einer grundsätzlichen Veränderung befinden
+p214
+VDer Irak steht am Scheideweg.
+p215
+tp216
+sVvorerst
+p217
+(Verst einmal; vorläufig; zunächst
+p218
+VDas Unternehmen ist vorerst gerettet.
+p219
+tp220
+sVMinisterium, das
+p221
+(Vdie höchste Behörde im Staat oder in einem \u2192 Land, die für ein bestimmtes Aufgabengebiet verantwortlich ist
+p222
+Vdas Bundesministerium für Bildung und Forschung
+p223
+tp224
+sVNPD
+p225
+(VAbkürzung für "Nationaldemokratische Partei Deutschlands"; die bekannteste rechtsextreme und ausländerfeindliche Partei in Deutschland
+p226
+VDas Gericht hat eine NPD-Demonstration verboten.
+p227
+tp228
+sVrichtungsweisend (auch: richtungweisend)
+p229
+(Vdie weitere Entwicklung bestimmend
+p230
+VMit Spannung wird das Ergebnis der richtungsweisenden Wahl erwartet.
+p231
+tp232
+sVKongress, der*
+p233
+(Veine offizielles Treffen von Fachleuten/Experten zu einem bestimmten Thema
+p234
+VIn Berlin findet ein Ärztekongress zum Thema Aids statt.
+p235
+tp236
+sVsich für etwas verantworten müssen
+p237
+(Vfür etwas die Verantwortung übernehmen
+p238
+VDer Betriebsleiter muss sich für den Betrug verantworten.
+p239
+tp240
+sVAmt, das*
+p241
+(Veine offizielle Aufgabe, die jemand in einer Partei oder einer Institution hat
+p242
+VDie nächsten Wahlen entscheiden darüber, wer das Amt des Wirtschaftsministers übernehmen wird.
+p243
+tp244
+sVBilanz, die*
+p245
+(Vdie Einnahmen und Ausgaben einer Firma
+p246
+VDieses Jahr fällt die Bilanz des Betriebs positiv aus.
+p247
+tp248
+sVEinzug, der*
+p249
+(Vdie Tatsache, dass man nach Wahlen einen Sitz im Parlament bekommt
+p250
+VDie Partei feiert ihren Einzug ins deutsche Parlament.
+p251
+tp252
+sVlaut werden, etwas wird laut*
+p253
+(Vetwas wird öffentlich gesagt oder gefordert
+p254
+VForderungen nach mehr Lohn werden laut.
+p255
+tp256
+sVVorsitzende, der/die
+p257
+(Vjemand, der eine Organisation leitet
+p258
+VDer Vorsitzende der Organisation möchte noch keine Informationen über das neue Projekt veröffentlichen.
+p259
+tp260
+sVjemanden unterdrücken
+p261
+(Vjemanden ungerecht behandeln
+p262
+VImmer noch werden in vielen Ländern Dunkelhäutige unterdrückt.
+p263
+tp264
+sVauf Konfrontationskurs gehen
+p265
+(Vseine Meinung oder seine Forderung beibehalten und dadurch Streit mit anderen riskieren
+p266
+VDie Gewerkschaften gehen auf Konfrontationskurs.
+p267
+tp268
+sVstrittig
+p269
+(Vso, dass es verschiedene Meinungen zu etwas gibt und etwas zu Diskussionen führt
+p270
+VBei den Verhandlungen gibt es viele strittige Punkte.
+p271
+tp272
+sVPaukenschlag, der*
+p273
+(Veine sehr überraschende, unerwartete Tat oder Aussage; ein sehr überraschendes Ereignis
+p274
+VDie Sitzung begann mit einem Paukenschlag.
+p275
+tp276
+sVTagung, die
+p277
+(Veine Versammlung von Experten, die mehrere Tage dauert
+p278
+VDie Ergebnisse der dreitägigen Tagung waren für viele enttäuschend.
+p279
+tp280
+sVjemanden diskriminieren
+p281
+(Vjemanden wegen bestimmter Merkmale z. B. Hautfarbe, Geschlecht, Nationalität) schlechter behandeln als andere
+p282
+VAusländer werden häufig diskriminiert.
+p283
+tp284
+sVAmtsrichter, der
+p285
+(Vjemand, der im Gericht die Entscheidungen trifft
+p286
+VDer Amtsrichter befand den Angeklagten für schuldig.
+p287
+tp288
+sVKonzern, der
+p289
+(Vein Großunternehmen, das aus mehreren einzelnen Unternehmen besteht, aber zentral geleitet wird
+p290
+VDer Konzern macht in diesem Jahr erstmals wieder Gewinn.
+p291
+tp292
+sVMarktlücke, die
+p293
+(Vein Produkt, das es noch nicht auf dem Markt gibt
+p294
+VMit dieser Produktidee wird er eine Marklücke füllen.
+p295
+tp296
+sVderzeit, derzeitig
+p297
+(Vin der Gegenwart, gegenwärtig
+p298
+VDie derzeitige Situation ist schwierig.
+p299
+tp300
+sVExil, das
+p301
+(Vdas Land, in dem man lebt, weil man seine Heimat aus politischen Gründen verlassen musste
+p302
+VSeit einigen Jahren lebt der Schriftsteller im Exil, weil er in seiner Heimat verfolgt wurde.
+p303
+tp304
+sVDritte Welt, die
+p305
+(Valle \u2192 Entwicklungsländer
+p306
+VDie Armut in der Dritten Welt nimmt weiter zu.
+p307
+tp308
+sVetwas dementieren
+p309
+(Vetwas als falsch bezeichnen; etwas korrigieren
+p310
+VDie Firma wollte die Gerüchte weder bestätigen noch dementieren.
+p311
+tp312
+sVStandort, der*
+p313
+(Vder Ort, an dem sich Unternehmen befinden
+p314
+VArbeitgeber sehen den Standort Deutschland in Gefahr.
+p315
+tp316
+sVetwas beilegen*
+p317
+(Vetwas friedlich beenden
+p318
+VDer Konflikt zwischen den beiden Staaten wurde beigelegt.
+p319
+tp320
+sVFDP
+p321
+(VAbkürzung für "Freie Demokratische Partei", eine politische Partei, setzt sich besonders für Wirtschaftspolitik \u2192 Arbeitgeber) ein, Farbe: Gelb
+p322
+Vz. B. der ehemalige Außenminister Hans-Dietrich Genscher
+p323
+tp324
+sVInvestor, der
+p325
+(Vjemand, der \u2192 investiert
+p326
+VDer Verein sucht einen Investor.
+p327
+tp328
+sVetwas absetzen
+p329
+(Vetwas verkaufen
+p330
+VViele Firmen haben Probleme, alle ihre Waren abzusetzen.
+p331
+tp332
+sVsich zu etwas bekennen
+p333
+(Vbestätigen, etwas getan zu haben
+p334
+VDie Taliban haben sich zu dem Anschlag in Kabul bekannt.
+p335
+tp336
+sVJobaussichten, die (Plural)
+p337
+(Vdie Chance, eine Arbeit zu bekommen
+p338
+VIm Moment sind die Jobaussichten für Ärzte sehr gut.
+p339
+tp340
+sVstellvertretend
+p341
+(Van zweiter Stelle
+p342
+VSeit zwei Jahren ist er stellvertretender Betriebsleiter.
+p343
+tp344
+sVsich auflösen*
+p345
+(Vdie Existenz einer Gruppe oder Organisation beenden
+p346
+VLetzte Woche löste sich die Gruppe wegen Geldproblemen auf.
+p347
+tp348
+sVkurzfristig
+p349
+(V1. kurz zuvor; ohne Ankündigung Die kurzfristige Änderung hat für Aufregung gesorgt.); 2. in sehr kurzer Zeit; schnell
+p350
+VEs müssen kurzfristig Lösungen gefunden werden.
+p351
+tp352
+sVBetriebswirt/in, der/die
+p353
+(Veine Person, die sich um die wirtschaftlichen Angelegenheiten einer Firma kümmert
+p354
+VDerzeit werden in Deutschland viele Betriebswirte gesucht.
+p355
+tp356
+sVKonvention, die
+p357
+(Vein Vertrag zwischen mehreren Staaten
+p358
+VAm Morgen unterschrieben die Staatschefs die Konvention.
+p359
+tp360
+sVdie Weichen stellen für etwas
+p361
+(Vetwas tun, damit ein Vorhaben eine bestimmte Richtung nimmt
+p362
+VDie Regierung hat die Weichen für eine Reform der Krankenversicherung gestellt.
+p363
+tp364
+sVin die Politik gehen
+p365
+(Vpolitisch aktiv werden
+p366
+VVor Jahren ging er in die Politik, um die Situation der Arbeitnehmer zu verbessern.
+p367
+tp368
+sVin Kraft treten, etwas tritt in Kraft
+p369
+(Vetwas wird gültig; etwas wird wirksam
+p370
+VDas Gesetz tritt Anfang nächsten Jahres in Kraft.
+p371
+tp372
+sVetwas ist (noch) offen*
+p373
+(Vetwas ist noch) nicht entschieden; etwas ist schwierig zu beurteilen
+p374
+VDer Ausgang des Treffens ist offen.
+p375
+tp376
+sVumstritten
+p377
+(Vso, dass es verschiedene Meinungen über jemanden/etwas gibt; unklar
+p378
+VDie Entstehung der Welt ist ein sehr umstrittenes Thema.
+p379
+tp380
+sVBeamte/Beamtin, der/die
+p381
+(Vjemand, der im Dienst des Staates oder der \u2192 Länder arbeitet und bestimmte Rechte und Pflichten hat
+p382
+VDer Politiker forderte, dass Lehrer keine Beamte mehr sein sollen.
+p383
+tp384
+sVVermarktung, die
+p385
+(Vdie Werbung
+p386
+VDie Firma möchte in Zukunft mehr Geld für die Vermarktung ihrer Produkte ausgeben.
+p387
+tp388
+sVNachrichtensperre, die
+p389
+(Vdas Verbot, die Öffentlichkeit über bestimmte Ereignisse zu informieren
+p390
+VDie Polizei verhängt eine Nachrichtensperre.
+p391
+tp392
+sVüberwältigend*
+p393
+(Vsehr groß; sehr stark
+p394
+VEr wurde mit überwältigender Mehrheit gewählt.
+p395
+tp396
+sVden Weg freimachen für etwas
+p397
+(VProbleme in Bezug auf etwas lösen; die Grundlage für etwas schaffen
+p398
+VDie Stadt macht den Weg frei für den Bau eines neuen Kraftwerks.
+p399
+tp400
+sVGefecht, das*
+p401
+(V1. ein kurzer militärischer Kampf Bei den schweren Gefechten in der letzten Woche sind zwei Soldaten getötet worden.); 2. ein Streit mit Worten; eine harte Diskussion
+p402
+VDie beiden Präsidentschaftskandidaten lieferten sich Wortgefecht.
+p403
+tp404
+sVWachstum, das
+p405
+(Vdie Tatsache, dass etwas immer mehr wird
+p406
+VDas Land erlebt derzeit großes wirtschaftliches Wachstum.
+p407
+tp408
+sVetwas außer Kraft setzen/etwas in Kraft setzen
+p409
+(Vbewirken, dass etwas nicht mehr gültig ist/dass etwas gültig wird
+p410
+VDie Verfassung wird außer Kraft gesetzt.
+p411
+tp412
+sVDie Linke
+p413
+(Vpolitische Partei, setzt sich besonders für Sozialpolitik ein, Farbe: Rot
+p414
+Vz. B. ehemalige Vorsitzende Gregor Gysi
+p415
+tp416
+sVStudie, die
+p417
+(Veine wissenschaftliche Untersuchung
+p418
+VLaut der Studie der Universität Bonn machen Kinder zu wenig Sport.
+p419
+tp420
+sVAsyl, das
+p421
+(Vdie Tatsache, dass jemand für eine bestimmte Zeit in einem anderen Land bleiben darf, weil er in seiner Heimat in Gefahr ist oder verfolgt wird
+p422
+VJährlich beantragen tausende Menschen Asyl, um in einem anderen Land Schutz zu suchen.
+p423
+tp424
+sVArbeitgeber, der
+p425
+(Veine Person oder Firma aber auch der Staat oder die \u2192 Länder), die Arbeiter oder Angestellte beschäftigt
+p426
+VDie Arbeitgeber fordern eine Verlängerung der Arbeitszeiten.
+p427
+tp428
+sVGröße, die*
+p429
+(Veine bekannte Person, Persönlichkeit; ein anerkannter Fachmann
+p430
+VDer Wissenschaftler ist eine Größe auf seinem Gebiet.
+p431
+tp432
+sVfraglich
+p433
+(Vunsicher; zweifelhaft
+p434
+VNoch ist fraglich, wie das Ergebnis der Parlamentswahlen sein wird.
+p435
+tp436
+sVUnternehmen, das
+p437
+(V die Firma
+p438
+S''
+p439
+tp440
+sVBruttosozialprodukt, das
+p441
+(Vder Gesamtwert aller Produkte, die in einer Volkswirtschaft innerhalb eines Jahres hergestellt werden
+p442
+VDas Bruttosozialprodukt Deutschlands stieg dieses Jahr um 1.3%.
+p443
+tp444
+sVumkommen
+p445
+(Vdurch einen Unfall, ein Unglück oder im Krieg das Leben verlieren
+p446
+VBei dem Bombenangriff sind 30 Menschen umgekommen.
+p447
+tp448
+sVin Lebensgefahr schweben
+p449
+(Vin großer Gefahr sein
+p450
+VDie junge Frau schwebt nach ihrem Autounfall in Lebensgefahr.
+p451
+tp452
+sVTarif, der
+p453
+(V1. ein bestimmter, festgelegter Preis für etwas Die Bahn beschließt eine Tariferhöhung.); 2. die Höhe der Löhne, über die \u2192 Arbeitgeber und \u2192 Gewerkschaften verhandeln
+p454
+VDie Tarifverhandlungen blieben ohne Ergebnis.
+p455
+tp456
+sVVorgänger/in, der/die
+p457
+(Vjemand/etwas, der/das vorher da gewesen ist
+p458
+VDer Vorgänger des jetzigen Firmenchefs hat viele Schulden gemacht.
+p459
+tp460
+sVdie breite Masse
+p461
+(Vdie Mehrheit der Menschen in einer Gesellschaft
+p462
+VPolitiker achten bei ihren Entscheidungen auf die Meinung der breiten Masse.
+p463
+tp464
+sVMarathon, der
+p465
+(Vein Wettlauf, der etwa 42 Kilometer lang ist
+p466
+VBeim Marathon in Köln letzte Woche gab es einen Todesfall.
+p467
+tp468
+sVMenschenrechtler/in, der/die
+p469
+(Veine Person, die für die Rechte der Menschen arbeitet
+p470
+VRegelmäßig werden Menschenrechtler bedroht.
+p471
+tp472
+sVSubvention, die
+p473
+(Vdie finanzielle Unterstützung des Staates für eine Firma oder eine Branche
+p474
+VDie Bauern in der Europäischen Union erhalten hohe Subventionen.
+p475
+tp476
+sVPrognose, die
+p477
+(Veine Aussage darüber, wie sich etwas entwickeln wird; eine Vorhersage
+p478
+VDie Prognosen zur wirtschaftlichen Entwicklung sind düster.
+p479
+tp480
+sVauf etwas pochen
+p481
+(Venergisch auf etwas bestehen; etwas fordern
+p482
+VDer Bundespräsident pocht auf weitere Reformen.
+p483
+tp484
+sVAußenminister/in, der/die
+p485
+(Vder/die Minister/in, der/die für internationale Politik eines Landes verantwortlich ist
+p486
+VAufgrund der aktuellen Ereignisse reiste der deutsche Außenminister sofort ab.
+p487
+tp488
+sVetwas investieren (in etwas)*
+p489
+(VGeld für etwas ausgeben, um damit später Gewinn zu machen
+p490
+VDie Firma investiert Millionen in die Forschung.
+p491
+tp492
+sVWahlgeschenk, das
+p493
+(Veine politische Entscheidung vor einer Wahl, mit der die Stimmen bestimmter Wähler gewonnen werden sollen
+p494
+VDie letzte Rentenerhöhung war ein Wahlgeschenk für die Rentner.
+p495
+tp496
+sVTalfahrt, die*
+p497
+(Veine schnelle negative Entwicklung, ein starkes Sinken meist im wirtschaftlichen Zusammenhang gebraucht)
+p498
+VDie Talfahrt des Dollars dauert an.
+p499
+tp500
+sVMindestlohn, der
+p501
+(Vgesetzlich bestimmtes Minimaleinkommen
+p502
+VViele Parteien fordern einen Mindestlohn für alle Arbeiter.
+p503
+tp504
+sVsich verschärfen, etwas verschärft sich
+p505
+(Vetwas wird schlimmer; etwas wird gefährlicher Die Situation im Krisengebiet verschärft sich.); hierzu auch: etwas verschärft etwas
+p506
+VSeine Äußerungen verschärfen die Situation.
+p507
+tp508
+sVlokal
+p509
+(Vam Ort; örtlich; regional
+p510
+VLokale Nachrichtensender berichten von andauernden Kämpfen.
+p511
+tp512
+sVStatistik, die
+p513
+(Veine Liste von Zahlen, die zeigt, wie häufig bestimmte Dinge vorkommen
+p514
+VDie Statistik zeigt, dass die Anzahl der Diebstähle im letzten Jahr gestiegen ist.
+p515
+tp516
+sVvakant
+p517
+(Vfrei; nicht besetzt
+p518
+VDie Stelle des Geschäftsleiters ist momentan vakant.
+p519
+tp520
+sVKonferenz, die
+p521
+(Veine Versammlung; ein Treffen von mehreren Personen, um über bestimmte Themen zu reden
+p522
+VAuf der UN-Konferenz wurden die Folgen des Klimawandels diskutiert.
+p523
+tp524
+sVGuerilla, die
+p525
+(Veine kleine bewaffnete Gruppe, die aus einem Versteck heraus gegen einen Gegner kämpft
+p526
+VIn einigen Ländern kommt es regelmäßig zu Überfällen durch die Guerilla.
+p527
+tp528
+sVjemanden mundtot machen
+p529
+(Vverhindern, dass jemand seine Meinung sagen kann
+p530
+VIhm wird vorgeworfen, seine Kritiker mundtot machen zu wollen.
+p531
+tp532
+sVetwas einstellen*
+p533
+(Vetwas stoppen
+p534
+VLetzte Woche stellte die Firma meines Vaters ihre Produktion ein.
+p535
+tp536
+sVWidersacher, der
+p537
+(Vder Gegner; der Feind
+p538
+VEr ist der größte politische Widersacher des Präsidenten.
+p539
+tp540
+sVKredit, der
+p541
+(Vdas Geld, das eine Bank einem Kunden leiht
+p542
+VIn der Finanzkrise vergeben viele Banken keine Kredite.
+p543
+tp544
+sVKommune, die
+p545
+(Veine Stadt oder Gemeinde, die eine eigene Verwaltung hat
+p546
+VZuletzt gab es einige politische Veränderungen in der Kommune.
+p547
+tp548
+sVMikrokredit, der
+p549
+(Veine kleinere Geldsumme, die man sich für niedrige \u2192 Zinsen leihen kann
+p550
+VViele Organisationen in Afrika versuchen, die arme Bevölkerung mit Mikrokrediten zu unterstützen.
+p551
+tp552
+sVvor Gericht ziehen
+p553
+(Vjemanden oder etwas vor Gericht anklagen
+p554
+VDie ältere Dame zog wegen dem ständigen Lärm ihres Nachbars vor Gericht.
+p555
+tp556
+sVIntegration, die*
+p557
+(Vdie Tatsache, dass eine fremde Person in einer Gruppe oder Gesellschaft geachtet wird
+p558
+VDie Integration von Ausländern ist für ein friedliches Miteinander in der Gesellschaft wichtig.
+p559
+tp560
+sVZwischenfall, der
+p561
+(Vein plötzliches, meist negatives Ereignis; eine Störung
+p562
+VIn dem Atomkraftwerk ist es gestern zu einem Zwischenfall gekommen.
+p563
+tp564
+sVVier-Augen-Gespräch, das
+p565
+(Vein Gespräch zwischen genau zwei Personen
+p566
+VDie Bundeskanzlerin trifft den US-Präsidenten zu einem Vier-Augen-Gespräch.
+p567
+tp568
+sVrechtsextrem
+p569
+(Vpolitisch nationalistisch orientiert; so, dass man Ausländer ablehnt
+p570
+VRechtsextreme Gruppen stehen unter besonderer Beobachtung der Polizei.
+p571
+tp572
+sVGewerkschaft, die
+p573
+(VOrganisation, die sich für die \u2192 Arbeitnehmer bzw. eine bestimmten Gruppe von Arbeitnehmern einsetzt
+p574
+VDie Gewerkschaft der Polizei fordert fünf Prozent mehr Gehalt.
+p575
+tp576
+sVillegal
+p577
+(Vgegen das Gesetz; verboten
+p578
+VDie Zahl der illegalen Einwanderer ist gestiegen.
+p579
+tp580
+sV-tägig
+p581
+(Vdie genannte Zahl von Tagen dauernd
+p582
+VNach dreitägigen Verhandlungen einigten sich die Parteien auf einen Kompromiss.
+p583
+tp584
+sVFührungskraft, die
+p585
+(Veine Person, die in einer Firma eine sehr hohe Position und viel Verantwortung hat
+p586
+VViele Politiker meinen, dass Führungskräfte in Deutschland zu viel verdienen.
+p587
+tp588
+sVReform, die
+p589
+(Vdie Erneuerung; die Veränderung
+p590
+VViele Politiker fordern eine Reform des deutschen Gesundheitssystems.
+p591
+tp592
+sVTauziehen um etwas, das*
+p593
+(Vein Streit, ein Kampf um etwas
+p594
+VDas Tauziehen um die Steuerreform ist beendet.
+p595
+tp596
+sVGipfel, der*
+p597
+(Vein Treffen der wichtigsten Personen aus einem Bereich, meist: eine Konferenz der \u2192 führenden Politiker aus mehreren Staaten
+p598
+VDer G8-Gipfel endete ergebnislos.
+p599
+tp600
+sVRegime, das
+p601
+(Vdie Herrschaft; die Regierung
+p602
+VViele Menschen protestieren gegen das undemokratische Regime.
+p603
+tp604
+sVZivildienst, der
+p605
+(Vdie soziale Arbeit, die ein junger Mann statt des \u2192 Wehrdienstes leisten kann
+p606
+VDer Zivildienst wird bei jungen Männern immer beliebter.
+p607
+tp608
+sVFraktion, die*
+p609
+(Vdie Gruppe von Abgeordneten aus derselben Partei im Parlament
+p610
+VDie Bundestagsfraktion der SPD stimmte geschlossen gegen die Regelung.
+p611
+tp612
+sVKompromiss, der
+p613
+(Veine Einigung in einem Streit oder einer Verhandlung, bei der beide Seiten jeweils bestimmte Positionen der anderen Seite annehmen
+p614
+VNach langen Verhandlungen einigte sich die Parteien auf einen Kompromiss.
+p615
+tp616
+sVangeschlagen*
+p617
+(Vin keinem guten Zustand
+p618
+VDas Unternehmen ist angeschlagen.
+p619
+tp620
+sVeffektiv
+p621
+(Vso, dass etwas Erfolg hat; wirkungsvoll
+p622
+VDas Treffen der Abgeordneten war sehr effektiv.
+p623
+tp624
+sVStaatsoberhaupt, das
+p625
+(Vdie Person, die die höchste Position im Staat einnimmt
+p626
+VDas Staatsoberhaupt in Deutschland ist der Bundespräsident.
+p627
+tp628
+sVFormsache, die*
+p629
+(Veine Sache, die völlig problemlos ist; die als sicher \u2192 gilt
+p630
+VDie Zustimmung des Parlaments gilt als Formsache.
+p631
+tp632
+sVetwas beziehen*
+p633
+(Vetwas meist Geld) bekommen; erhalten
+p634
+VMehr Menschen als im letzten Jahr beziehen Arbeitslosengeld.
+p635
+tp636
+sVetwas verabschieden*
+p637
+(Vetwas z. B. ein Gesetz) offiziell beschließen
+p638
+VDas Parlament verabschiedete die Steuerreform mit großer Mehrheit.
+p639
+tp640
+sVEinsatz, der*
+p641
+(Veine Aktion z. B. von Militär, Polizei oder Feuerwehr
+p642
+VBei dem Polizeieinsatz wurden 15 Demonstranten verletzt.
+p643
+tp644
+sVPressefreiheit, die
+p645
+(Vdas Recht, in Zeitung, Radio, Internet oder Fernsehen über alles zu berichten, was passiert
+p646
+VIn vielen Ländern wird die Pressefreiheit nicht geachtet.
+p647
+tp648
+sVBerichterstattung, die
+p649
+(Vdas, was die Presse über etwas oder jemanden schreibt
+p650
+VIn vielen Ländern gibt es keine freie Berichterstattung.
+p651
+tp652
+sVBußgeld, das
+p653
+(Vdas Geld, das jemand bezahlen muss, der gegen ein Gesetz verstößt
+p654
+VWeil er einen Autounfall verursachte, muss der 30-Jährige nun 200 Euro Bußgeld bezahlen.
+p655
+tp656
+sVjemand/etwas liegt auf den hinteren Plätzen
+p657
+(Vjemand ist im Vergleich zu den anderen schlecht
+p658
+VIm Vergleich mit den anderen Bundesländern liegt Berlin mit seinem Schulsystem auf den hinteren Plätzen.
+p659
+tp660
+sVMedaille, die
+p661
+(Vein rundes Metallstück aus Gold, Silber oder Bronze, das für besondere Leistungen vergeben wird z. B. bei Sportwettbewerben)
+p662
+VDie Volleyballdamen gewannen die erste Medaille für Deutschland.
+p663
+tp664
+sVBundesminister/-in, der/die
+p665
+(VLeiter der höchsten Behörden im Staat, der Ministerien
+p666
+VInnenminister; Umweltministerin
+p667
+tp668
+sVWiderstand, der
+p669
+(Vder Kampf gegen etwas
+p670
+VViele Menschen leisten Widerstand gegen die undemokratische Regierung.
+p671
+tp672
+sVOpposition, die
+p673
+(Vdie politischen Parteien, die nicht an der Regierung sind
+p674
+VDie Opposition stimmte gegen die Pläne der Regierung.
+p675
+tp676
+sVStellvertreter/in, der/die
+p677
+(Veine Person, die eine andere Person in ihrer Position vertritt
+p678
+VWeil er auf Dienstreise war, schickte der Firmenleiter seinen Stellvertreter zu den Verhandlungen.
+p679
+tp680
+sVKonsum, der
+p681
+(Vder Verbrauch; das Kaufen eines Produkts
+p682
+VIn der Weihnachtszeit steigt der Konsum von Büchern und CDs stark an.
+p683
+tp684
+sVes wie jemand halten*
+p685
+(Vetwas genauso machen wie jemand anderes
+p686
+VEr hält es wie sein Vorgänger.
+p687
+tp688
+sVCDU, die
+p689
+(VAbkürzung für "Christlich Demokratische Union", eine große politische Partei, eher konservativ, Farbe: Schwarz
+p690
+Vz. B. Bundeskanzlerin Angela Merkel
+p691
+tp692
+sVfordern*, etwas fordert (Opfer)
+p693
+(Vetwas führt zum Tod von Menschen
+p694
+VDer Krieg forderte Millionen Menschenleben.
+p695
+tp696
+sVknapp*
+p697
+(Vetwas weniger als; etwas kürzer als; nicht ganz
+p698
+VIn knapp drei Wochen wird ein neues Parlament gewählt.
+p699
+tp700
+sVSPD
+p701
+(VAbkürzung für "Sozialdemokratische Partei Deutschlands", eine große politische Partei, politisch eher links von der \u2192 CDU
+p702
+Vz. B. der ehemalige Bundeskanzler Gerhard Schröder
+p703
+tp704
+sVjuristisch
+p705
+(Vauf das Recht  Rechtswissenschaft, Rechtsprechung) bezogen; rechtlich
+p706
+VEr droht mit juristischen Konsequenzen.
+p707
+tp708
+sVjemanden abschieben
+p709
+(Vjemanden, der Asyl sucht, in seine Heimat zurückschicken
+p710
+VJährlich werden 50.000 Menschen aus Deutschland in ihre Heimatländer abgeschoben.
+p711
+tp712
+sVRückzug, der*
+p713
+(Vdas Verlassen eines bestimmten Bereiches oder Gebietes, z. B. eines militärischen Kampfgebietes oder eines Bereiches des gesellschaftlichen Lebens
+p714
+VSein Rückzug aus dem politischen Leben hat alle überrascht.
+p715
+tp716
+sVSchwarzhändler/in, der/die
+p717
+(Vjemand, der mit illegalen Waren handelt
+p718
+VIn dieser Region gibt es große Probleme mit Schwarzhändlern.
+p719
+tp720
+sVVerwüstung, die
+p721
+(Vdie Zerstörung; Chaos und zahlreiche Schäden nach einem Krieg, einer Naturkatastrophe, etc.
+p722
+VDas Erdbeben im Juli hinterließ eine Spur der Verwüstung.
+p723
+tp724
+sVGrundgesetz, das
+p725
+(Vdie Verfassung der Bundesrepublik Deutschland; die wichtigsten Regeln im Staat
+p726
+VDie Regierung plant eine Grundgesetzänderung.
+p727
+tp728
+sVBundestag, der
+p729
+(V das Parlament der Bundesrepublik Deutschland
+p730
+g439
+tp731
+sVnach wie vor
+p732
+(Vimmer noch
+p733
+VEs ist nach wie vor keine Lösung in Sicht.
+p734
+tp735
+sVMilitärputsch, der
+p736
+(Veine gewaltsame Aktion des \u2192 Militärs, um die Macht im Staat zu übernehmen
+p737
+VDie Lage im Land nach dem Militärputsch ist instabil.
+p738
+tp739
+sVantiautoritär
+p740
+(Vkritisch gegenüber bestehenden Machtverhältnissen; so, dass man gegen Zwänge und Verbote ist
+p741
+VBesonders in den 70er Jahren gab es in Deutschland eine starke antiautoritäre Bewegung.
+p742
+tp743
+sVMenschen mit Migrationshintergrund
+p744
+(Valle Personen, die entweder selbst aus ihrer Heimat in ein anderes Land gekommen sind oder deren Eltern zugewandert sind
+p745
+VIn Deutschland leben etwa 15 Millionen Menschen mit Migrationshintergrund.
+p746
+tp747
+sVMittelschicht, die
+p748
+(Vder Teil der Bevölkerung, der gebildet ist und dem es finanziell gut geht
+p749
+VBei den Wahlen hofft die Partei besonders auf die Stimmen der Mittelschicht.
+p750
+tp751
+sVMilitär, das
+p752
+(Vdie Soldaten eines Landes; die Armee
+p753
+VDas amerikanische Militär hat im Süden Afghanistans zwei Terrorverdächtige festgenommen.
+p754
+tp755
+sVbrutto
+p756
+(Vder Geldwert bevor Steuern und Sozialversicherung abgezogen werden
+p757
+VMonatlich verdient der Abteilungsleiter 4000 Euro brutto.
+p758
+tp759
+sVzukunftsweisend
+p760
+(Vso, dass gezeigt wird, wie etwas in der Zukunft aussehen wird
+p761
+VDie neue Erfindung des Wissenschaftlers ist zukunftsweisend.
+p762
+tp763
+sVBranche, die
+p764
+(Valle Betriebe und Geschäfte, die die gleichen Waren herstellen oder mit ihnen handeln
+p765
+VDie Krise in der Elektrobranche dauert an.
+p766
+tp767
+sVGräueltat, die
+p768
+(Vein besonders grausames Verbrechen
+p769
+VDie Gräueltaten der Nationalsozialisten dürfen nicht vergessen werden.
+p770
+tp771
+sVprobat
+p772
+(Vgeeignet; so, dass etwas bereits ausprobiert wurde
+p773
+VEs gibt kein probates Mittel gegen die Krise.
+p774
+tp775
+sVmultikulturell
+p776
+(Vso, das Menschen aus verschiedenen Kulturen miteinander in einer Gesellschaft leben
+p777
+VNew York ist eine sehr multikulturelle Stadt.
+p778
+tp779
+sVBundesverdienstkreuz, das
+p780
+(Vein Kreuz aus Metall, das Menschen in Deutschland für besondere Leistungen bekommen
+p781
+VDer Bundespräsident Deutschlands kann besonderen Menschen das Bundesverdienstkreuz verleihen.
+p782
+tp783
+sVetwas/jemanden für etwas/jemanden halten
+p784
+(Veine bestimmte Ansicht, Meinung über etwas/jemanden haben
+p785
+VDie Partei hält das Gesetz für einen Fehler.
+p786
+tp787
+sVImmunität, die*
+p788
+(Vder Schutz von \u2192 Abgeordneten oder \u2192 Diplomaten vor strafrechtlicher Untersuchung
+p789
+VBundestagsabgeordnete genießen politische Immunität.
+p790
+tp791
+sVGremium, das
+p792
+(Vdas Komitee; der Ausschuss
+p793
+VDas Gremium hat gerade seine Arbeit beendet.
+p794
+tp795
+sVBürgerrechte, die (Pl.)
+p796
+(Vdie gesetzlichen Rechte, welche die Bürger/innen eines bestimmten Staates haben
+p797
+VDas Recht auf freie, gleiche und geheime Wahlen ist eines der Bürgerrechte.
+p798
+tp799
+sVEinwanderer, der
+p800
+(Vder Immigrant; ein Mensch, der seine Heimat verlassen hat, um in einem anderen Land zu leben
+p801
+VAn der Grenze entdeckt die Polizei oft Einwanderer, die keine Erlaubnis haben.
+p802
+tp803
+sVPatent, das
+p804
+(Vdas Schützen einer Erfindung durch Anmeldung in einem staatlichen Verzeichnis
+p805
+VDie Firma erhielt ein Patent für ihr neues Medikament.
+p806
+tp807
+sVGrünen, die (Pl.)
+p808
+(V \u2192 Bündnis 90/Die Grünen
+p809
+g439
+tp810
+sVAtomenergie, die
+p811
+(Velektrische Energie, die aus radioaktiven Stoffen z. B. Uran) gemacht wird
+p812
+VJedes Jahr demonstrieren tausende Menschen gegen Atomenergie.
+p813
+tp814
+sVReichstag, der
+p815
+(Vdas Reichstagsgebäude; das Gebäude, in dem sich das deutsche Parlament in Berlin trifft
+p816
+VDer Reichstag wurde während des Zweiten Weltkriegs stark beschädigt.
+p817
+tp818
+sVHungersnot, die
+p819
+(Vdie Tatsache, dass in einem Land viele Menschen nichts zu essen haben
+p820
+VDurch den Krieg gibt es in der Region eine große Hungersnot.
+p821
+tp822
+sVpopulistisch
+p823
+(Vseine politischen Ziele so darstellen, dass es den Menschen gefällt
+p824
+VBesonders vor Wahlen machen viele Politiker populistische Versprechen.
+p825
+tp826
+sVgelten*, etwas/jemand gilt als etwas/jemand
+p827
+(Vviele Menschen haben eine bestimmte Meinung über jemanden/etwas; etwas/jemand hat nach allgemeiner Einschätzung eine bestimmte Eigenschaft
+p828
+VEr gilt als guter Redner.
+p829
+tp830
+sVetwas erstatten
+p831
+(Vdie Kosten für etwas übernehmen
+p832
+VDie Reisekosten des Politikers werden erstattet.
+p833
+tp834
+sVsubstanziell
+p835
+(Vwesentlich; grundlegend
+p836
+VEr fordert eine substanzielle Veränderung des politischen Systems.
+p837
+tp838
+sVein Blutbad anrichten
+p839
+(Vsehr viele Menschen töten
+p840
+VDer Täter richtete unter den Schülern ein Blutbad an.
+p841
+tp842
+sVetwas aufnehmen*
+p843
+(Vetwas beginnen
+p844
+VNach dem Unfall hat die Polizei sofort die Untersuchungen aufgenommen.
+p845
+tp846
+sVHaushalt, der*
+p847
+(Vdie Ein- und Ausgaben eines Staates, Landes oder einer Gemeinde
+p848
+VDer Bundestag berät über den Haushalt des laufenden Jahres.
+p849
+tp850
+sVKabinett, das*
+p851
+(Valle \u2192 Minister der Regierung
+p852
+VDas Kabinett beschließt die Verlängerung des Afghanistan-Einsatzes.
+p853
+tp854
+sVAufsehen erregen
+p855
+(Vviel Aufmerksamkeit bekommen
+p856
+VMit seiner Bemerkung erregte der Politiker viel Aufsehen.
+p857
+tp858
+sVAbstimmung, die
+p859
+(Vhier: die Wahl
+p860
+V Die Abstimmung der Abgeordneten sorgte für viele Diskussionen.
+p861
+tp862
+sVnachdrücklich
+p863
+(Vdeutlich; energisch
+p864
+VDie Wissenschaftlerin warnte nachdrücklich vor den Folgen der Entscheidung.
+p865
+tp866
+sVinnerdeutsch
+p867
+(Vinnerhalb Deutschlands; besonders: zwischen der BRD und der ehemaligen DDR
+p868
+VDie innerdeutsche Grenze wurde1989 geöffnet.
+p869
+tp870
+sVTreibhausgase, die (Pl.)
+p871
+(Vbestimmte Gase in der Luft, die zur Erwärmung der Erde beitragen
+p872
+VDer Ausstoß von Treibhausgasen muss verringert werden, um die Erde zu schützen.
+p873
+tp874
+sVEntwicklungsland, das
+p875
+(Vein Land, das sich wirtschaftlich, politisch und sozial auf einem niedrigen Stand befindet; \u2192 die Dritte Welt
+p876
+VDie Situation der meisten afrikanischen Entwicklungsländer hat sich verschlechtert.
+p877
+tp878
+sVkonkret*
+p879
+(Vsehr genau
+p880
+VEs existieren noch keine konkreten Pläne.
+p881
+tp882
+sVZusammenstöße, die (Pl.)
+p883
+(Voft gewaltsame Auseinandersetzungen; Kämpfe
+p884
+VEs hat mehrere Zusammenstöße zwischen Demonstranten und Polizei gegeben.
+p885
+tp886
+sVAbrüstung, die
+p887
+(Vdie Reduzierung der Waffen in einem Staat
+p888
+VEuropäische Länder wollen die internationale Abrüstung verstärken.
+p889
+tp890
+sVBundeskanzler/-in, der/die
+p891
+(Vder/die Chef/Chefin der deutschen Regierung, wird vom \u2192 Bundestag gewählt und bestimmt die \u2192 Bundesminister
+p892
+VBundeskanzler Schröder; Bundeskanzlerin Merkel
+p893
+tp894
+sVLand, das*
+p895
+(VTeilstaat, der zusammen mit anderen die Bundesrepublik bildet, auch "Bundesland" genannt
+p896
+VDas Land Nordrhein-Westfalen hat die meisten Einwohner, aber Bayern ist das größte Bundesland.
+p897
+tp898
+sVamtierend
+p899
+(Vjetzt im Amt, zurzeit im Amt
+p900
+VDer amtierende Bundespräsident Wulff ist der zehnte Bundespräsident in der Geschichte der BRD.
+p901
+tp902
+sVAusschreitungen, die (Pl.)
+p903
+(VKämpfe; Schlägereien
+p904
+VDie Polizei konnte die schweren Ausschreitungen vor dem Fußballstadion nicht verhindern.
+p905
+tp906
+sVeinflussreich
+p907
+(Vso, dass jemand viel Macht hat
+p908
+VDer Präsident dieses Landes ist sehr einflussreich
+p909
+tp910
+sVetwas auf Eis legen
+p911
+(Vetwas auf einen späteren Zeitpunkt schieben; an einer Sache nicht mehr weiterarbeiten
+p912
+VDie Pläne wurden vorerst auf Eis gelegt.
+p913
+tp914
+sVVerband, der
+p915
+(Vdie Organisation
+p916
+VNach Informationen des Sportverbandes betragen die Ticketpreise für den Wettkampf 30 Euro.
+p917
+tp918
+sVKonfrontation, die
+p919
+(Vhier: das Aufeinandertreffen unterschiedlicher Ansichten
+p920
+VTäglich kommt es zu Konfrontationen zwischen der Regierung und der Opposition.
+p921
+tp922
+sVfahrlässig
+p923
+(Vunvorsichtig; verantwortungslos
+p924
+VDer Umgang des Chefs mit seinen Mitarbeitern ist fahrlässig.
+p925
+tp926
+sVjemanden/etwas verurteilen*
+p927
+(Vjemanden/etwas stark kritisieren, seine Ablehnung deutlich zeigen
+p928
+VEr verurteilte den Bombenangriff.
+p929
+tp930
+sVflexibel*
+p931
+(Vin der Lage, auf plötzliche Veränderungen zu reagieren
+p932
+VDie Partei reagiert flexibel auf die veränderte Situation.
+p933
+tp934
+sVMigrant, der
+p935
+(Vjemand, der aus seiner Heimat in ein anderes Land kommt, um dort zu leben
+p936
+VDie größte Migrantengruppe in Deutschland kommt aus der Türkei.
+p937
+tp938
+sVAutorität, die
+p939
+(Vder große Einfluss, den jemand auf andere hat
+p940
+VDer Parteivorsitzende ist auch außerhalb seiner Fraktion eine Autorität.
+p941
+tp942
+sVetwas ratifizieren
+p943
+(Vein Abkommen im juristischen Sinne bestätigen; einem Vertrag offiziell zustimmen
+p944
+VDer Bundestag hat den EU-Vertrag ratifiziert.
+p945
+tp946
+sVpraktikabel
+p947
+(Vbrauchbar; so, dass etwas realisiert werden kann
+p948
+VDie Regelung ist für uns nicht praktikabel.
+p949
+tp950
+sVErfolgskurs, der
+p951
+(Vpositive Ergebnisse, die für eine längere Zeit andauern
+p952
+VNach einer schweren Zeit befindet sich die Wirtschaft nun wieder auf Erfolgskurs.
+p953
+tp954
+sVAusfuhr, die
+p955
+(Vder Verkauf von Waren im Ausland; der \u2192 Export
+p956
+VDie Ausfuhr der Waren verlief ohne Probleme.
+p957
+tp958
+sVBündnis 90/Die Grünen
+p959
+(Veine politische Partei, setzt sich besonders für Umweltpolitik ein, eher "links"
+p960
+Vz. B. der ehemalige Außenminister Joschka Fischer
+p961
+tp962
+sVLohnkosten, die (Plural)
+p963
+(Vdas Geld, das ein \u2192 Unternehmen für seine Mitarbeiter ausgibt
+p964
+VIm nächsten Jahr möchte die Firma ihre Lohnkosten senken.
+p965
+tp966
+sVLandtag, der
+p967
+(Vdas Parlament eines \u2192 Landes
+p968
+VIn einem Monat wird der sächsische Landtag neu gewählt.
+p969
+tp970
+sVHamas, die
+p971
+(Veine islamistische Terror-Organisation, die die Unabhängigkeit Palästinas von Israel fordert
+p972
+VSeit 2007 regiert die Hamas im Gazastreifen.
+p973
+tp974
+sVWahlbeteiligung, die
+p975
+(Vdie Anzahl der Menschen, die wählen geht
+p976
+VDie Wahlbeteiligung bei den Europawahlen war in vielen Staaten sehr niedrig.
+p977
+tp978
+sVetwas thematisieren
+p979
+(Vüber etwas sprechen; etwas zum Thema machen
+p980
+VDie Bundeskanzlerin will bei dem Treffen vor allem die Menschenrechte thematisieren.
+p981
+tp982
+sVMedien, die*(Pl.)
+p983
+(Vetwas, womit Informationen weitergegeben werden, z. B. Zeitungen, Fernsehen, Radio oder Internet häufig im Plural gebraucht)
+p984
+VDie Medien berichteten ausführlich über den Skandal.
+p985
+tp986
+sVDisziplin, die*
+p987
+(Vdie Sportart
+p988
+VBei den Olympischen Winterspielen treten die Sportler in 15 verschiedenen Disziplinen gegeneinander an.
+p989
+tp990
+sVMenschenwürde, die
+p991
+(Vdie Tatsache, dass jede Person ein Recht darauf hat, menschlich behandelt zu werden
+p992
+VIn vielen Ländern wird die Menschenwürde verletzt.
+p993
+tp994
+sVArbeitnehmer, der
+p995
+(Vjemand, der bei einem \u2192 Arbeitgeber beschäftigt bzw. angestellt ist
+p996
+VDie Arbeitnehmer fordern eine Lohnerhöhung.
+p997
+tp998
+sVStipendium, das
+p999
+(VGeld, das sehr gute Schüler oder Studenten z. B. vom Staat) für ihre Ausbildung bekommen
+p1000
+VDie Regierung vergibt jedes Jahr viele Stipendien für gute Studenten.
+p1001
+tp1002
+sVKundgebung, die
+p1003
+(Vdie Demonstration
+p1004
+VMindestens 4.000 Menschen nahmen an der Kundgebung in Köln teil.
+p1005
+tp1006
+sVIndustriestaat, der
+p1007
+(Vein Staat, dessen Wirtschaft technisch hoch entwickelt ist und in dem die Industrie wichtiger als die Landwirtschaft ist
+p1008
+VDeutschland ist ein Industriestaat.
+p1009
+tp1010
+sVUN, die (englisch)
+p1011
+(Veine Abkürzung für: United Nations; die Vereinten Nationen
+p1012
+VEin wichtiges Ziel der UN ist die Sicherung des Weltfriedens.
+p1013
+tp1014
+sVBotschafter/-in, der/die
+p1015
+(Vder/die höchste Vertreter/-in eines Landes in einem anderen Land; \u2192 der/die Diplomat/-in
+p1016
+VDer Präsident empfängt den neuen US-Botschafter in Berlin.
+p1017
+tp1018
+sVetwas steht unter der Schirmherrschaft von jemandem
+p1019
+(Vetwas eine Veranstaltung oder eine Aktion) wird von einer wichtigen Persönlichkeit oder Einrichtung gefördert und unterstützt
+p1020
+VDie Veranstaltung steht unter der Schirmherrschaft des Bundespräsidenten.
+p1021
+tp1022
+sVetwas verschleiern*
+p1023
+(Vverhindern, dass etwas allgemein bekannt wird
+p1024
+VDie Wahrheit über den Krieg wird verschleiert.
+p1025
+tp1026
+sVCharta, die
+p1027
+(V ein Schriftstück, eine Urkunde, die meist eine politische \u2192 Verfassung beschreibt (Die Charta der Vereinten Nationen wurde bisher  von 192 Staaten unterzeichnet.)\u000a\u000aöffentliche Dienst, der 
+p1028
+g439
+tp1029
+sVSchmuggler/in, der/die
+p1030
+(Veine Person, die heimlich Waren über die Grenze bringt
+p1031
+VLetzte Woche konnte die Polizei in den Niederlanden eine große Schmugglergruppe festnehmen.
+p1032
+tp1033
+sVMahnmal, das
+p1034
+(Vein Bauwerk, das an ein schlimmes Ereignis erinnern soll, damit ein solches Ereignis nicht wieder passiert
+p1035
+VIn Berlin wird ein weiteres Holocaust-Mahnmal gebaut.
+p1036
+tp1037
+sVAkte, die
+p1038
+(Veine Sammlung von Dokumenten zu einem Thema oder Ereignis
+p1039
+VEin Blick in die Akten der Firma zeigte, wieviel Gewinn sie im letzten Jahr erzielte.
+p1040
+tp1041
+sVrechtskräftig
+p1042
+(Vvon einem Gericht endgültig entschieden
+p1043
+VDas Urteil gegen die 42-Jährige ist rechtskräftig.
+p1044
+tp1045
+sVSymptom, das*
+p1046
+(Vein Zeichen, das auf etwas Bestimmtes hinweist
+p1047
+VErste Symptome für eine Wirtschaftskrise sind deutlich zu erkennen.
+p1048
+tp1049
+sVStreik, der
+p1050
+(Veine gemeinsame Aktion von vielen Arbeitern, die für eine längere Zeit nicht mehr arbeiten, damit bestimmte Forderungen erfüllt werden
+p1051
+VDer Streik bei der Post dauert an.
+p1052
+tp1053
+sVauf lange Sicht
+p1054
+(Vfür eine lange Zeit; langfristig
+p1055
+VÖl bleibt auf lange Sicht teuer.
+p1056
+tp1057
+sVUnion, die*
+p1058
+(V die \u2192 CDU
+p1059
+g439
+tp1060
+sVums Leben kommen
+p1061
+(Vdurch einen Unfall, einen Krieg usw. sterben
+p1062
+VBei der Katastrophe sind 200 Menschen ums Leben gekommen.
+p1063
+tp1064
+sVEntgelt, das
+p1065
+(Vder Lohn, das Einkommen
+p1066
+VViele Verkäuferinnen klagen oftmals über ihr zu geringes Entgelt.
+p1067
+tp1068
+sVRücktritt, der
+p1069
+(Vder Austritt aus dem Beruf
+p1070
+VDer Chef des Unternehmens gab gestern seinen Rücktritt bekannt.
+p1071
+tp1072
+sVexpandieren, etwas expandiert
+p1073
+(VWirtschaft: schnell größer werden, wachsen
+p1074
+VDie Firma expandiert weiter.
+p1075
+tp1076
+sVSteueroase, die
+p1077
+(Vein Staat oder Gebiet, in dem die Steuern auf Einkommen und Besitz sehr niedrig sind
+p1078
+VViele reiche Menschen legen ihr Geld gerne in Steueroasen an.
+p1079
+tp1080
+sVnach Schätzung
+p1081
+(Vwie ungefähr bestimmt oder beurteilt wurde
+p1082
+VNach Schätzung des Arbeitsamtes gab es in diesem Monat etwa vier Millionen Arbeitslose.
+p1083
+tp1084
+sVnach Angaben von/(Gen.)*
+p1085
+(Vwie berichtet wird; den Informationen zufolge
+p1086
+VNach Angaben der Bundesregierung besteht keine Gefahr.
+p1087
+tp1088
+sVTerroranschlag, der
+p1089
+(Vein Versuch, Menschen zu töten oder etwas zu zerstören, um Angst zu verbreiten und bestimmte Ziele zu erreichen
+p1090
+VBei dem Terroranschlag letzte Woche in Kabul wurden 30 Menschen getötet.
+p1091
+tp1092
+sVZentralrat, der
+p1093
+(Veine Organisation, die sich für die Interessen einer bestimmten Gruppe einsetzt
+p1094
+VDer deutsche Zentralrat der Juden hat sehr viel Einfluss auf politische Entscheidungen.
+p1095
+tp1096
+sVPrüfstein, der
+p1097
+(Veine schwierige Situation, in der jemand sein Können zeigen muss; eine Situation, bei der sich zeigt, ob etwas funktioniert
+p1098
+VDie Gesundheitsreform ist ein Prüfstein für die Koalition.
+p1099
+tp1100
+sVscharf*
+p1101
+(Vstark; heftig; streng
+p1102
+VTrotz scharfer Kritik hält die Partei an ihren Plänen fest.
+p1103
+tp1104
+sVverfassungswidrig
+p1105
+(Vso, dass etwas gegen die Verfassung gegen das deutsche Grundgesetz) ist
+p1106
+VDas Gericht überprüft noch, ob das neue Gesetz verfassungswidrig ist.
+p1107
+tp1108
+sVSponsor, der
+p1109
+(Vein Mensch oder eine Firma, der/die Geld für ein Projekt ausgibt
+p1110
+VDank eines großzügigen Sponsors konnte die Universität neue Computer anschaffen.
+p1111
+tp1112
+sVjemandem droht etwas
+p1113
+(Vjemand muss vor etwas Angst haben
+p1114
+VWährend einer Wirtschaftskrise droht vielen Firmen das Aus.
+p1115
+tp1116
+sVGlobalisierung, die
+p1117
+(Vdie Ausweitung von etwas z. B. eines wirtschaftlichen Systems) auf die ganze Welt durch verstärkte internationale Zusammenarbeit
+p1118
+VDie Globalisierungskritiker wollen die sozialen Rechte der Menschen verteidigen.
+p1119
+tp1120
+sVParteiflügel, der
+p1121
+(Vein Teil einer Partei, der eine bestimmte Meinung hat, der eine bestimmte politische Richtung vertritt
+p1122
+VDie SPD-Politikerin gehört zum rechten Parteiflügel.
+p1123
+tp1124
+sVHartz IV (sprich: Hartz vier)
+p1125
+(V seit 2005 geltendes Gesetz zur Reform des Arbeitsmarktes; umgangssprachlich häufig als Bezeichnung für das \u2192 Arbeitslosengeld II gebraucht
+p1126
+g439
+tp1127
+sVetwas steht nicht zur Debatte
+p1128
+(Vetwas ist kein Thema, über etwas wird nicht diskutiert
+p1129
+VEine Steuererhöhung steht nicht zur Debatte.
+p1130
+tp1131
+sVGeisel, die
+p1132
+(VGefangene/r einer Gruppe oder Person
+p1133
+VLetzte Woche wurde in Kolumbien eine deutsche Frau als Geisel genommen.
+p1134
+tp1135
+sVdüster*
+p1136
+(Vnicht gut, negativ
+p1137
+VDie Aussichten für das nächste Jahr sind düster.
+p1138
+tp1139
+sVEinbußen, die
+p1140
+(Vgroße Geld-)Verluste
+p1141
+VDie Firma fürchtet schwere Einbußen.
+p1142
+tp1143
+sVführend*
+p1144
+(Van erster Stelle; am besten; beste/-r
+p1145
+VSie ist die führende Expertin auf diesem Gebiet.
+p1146
+tp1147
+sVden Rotstift ansetzen
+p1148
+(Vweniger Geld für etwas ausgeben; für die Zukunft mit weniger Geld planen, um zu sparen
+p1149
+VDie Firma muss den Rotstift ansetzen.
+p1150
+tp1151
+sVetwas entschärfen
+p1152
+(Vetwas beruhigen
+p1153
+VDie Situation wird sich bald entschärfen.
+p1154
+tp1155
+sVÜbergriff, der
+p1156
+(Vder Angriff
+p1157
+VBei dem Übergriff der Polizei auf die Wohnung des Täters kam es zu vielen Verletzten.
+p1158
+tp1159
+sVzufolge (mit Dat.)
+p1160
+(Vwie jemand gesagt hat; wie von jemandem/etwas bekannt gemacht wurde
+p1161
+VMedienberichten zufolge sollen 200 Angestellte entlassen werden.
+p1162
+tp1163
+sVSteuerhinterziehung, die
+p1164
+(Veine \u2192 illegale Handlung, bei der man keine Steuern an den Staat zahlt
+p1165
+VEr ist wegen Steuerhinterziehung angeklagt.
+p1166
+tp1167
+sVExtremist/in, der/die
+p1168
+(Vjemand, der eine extreme politische Meinung vertritt und extreme Mittel einsetzt
+p1169
+VImmer wieder gibt es Probleme zwischen der Polizei und Extremisten.
+p1170
+tp1171
+sVgelegen kommen, etwas kommt (jemandem) gelegen
+p1172
+(Vetwas geschieht zu einer passenden Zeit; etwas ist für jemanden nützlich
+p1173
+VDer Streit innerhalb der SPD kommt der CDU  sehr gelegen
+p1174
+tp1175
+sVgut*
+p1176
+(Vetwa; ungefähr; etwas mehr als
+p1177
+VGut 25 Prozent der Bürger sind nicht zur Wahl gegangen.
+p1178
+tp1179
+sVGastarbeiter, der
+p1180
+(Vjemand, der in ein anderes Land geht, um dort zu arbeiten
+p1181
+VGastarbeiter werden in der deutschen Wirtschaft dringend gebraucht.
+p1182
+tp1183
+sVBundesland, das
+p1184
+(V das \u2192 Land
+p1185
+g439
+tp1186
+sVReferendum, das
+p1187
+(Vein Volksentscheid; eine Volksabstimmung
+p1188
+VIn einem Referendum hat sich das Volk gegen den Vertrag entschieden.
+p1189
+tp1190
+sVWM, die
+p1191
+(VAbkürzung für: Weltmeisterschaft; ein Sportereignis, bei dem die Mannschaften/Sportler aller teilnehmenden Länder um den Sieg kämpfen
+p1192
+VDie Tickets für die Fußball-WM sind schon alle ausverkauft.
+p1193
+tp1194
+sVBundeswehr, die
+p1195
+(VName für das deutsche Militär
+p1196
+VEinige Truppen der Bundeswehr sind derzeit in Afghanistan eingesetzt.
+p1197
+tp1198
+sVgemeinnützig
+p1199
+(Vsozial; nützlich für die ganze Gesellschaft
+p1200
+VStatt einer Gefängnisstrafe leistete der 16-Jährige gemeinnützige Arbeit in einem Altenheim.
+p1201
+tp1202
+sVetwas ist in eine Sackgasse geraten; etwas befindet sich in einer Sackgasse
+p1203
+(Vetwas verursacht so große Probleme, dass es nicht weitergeht und keine Lösung gefunden wird
+p1204
+VDie Verhandlungen sind in eine Sackgasse geraten.
+p1205
+tp1206
+sVso gut wie*
+p1207
+(Vfast, beinahe
+p1208
+VMit diesem Ergebnis hat so gut wie niemand gerechnet.
+p1209
+tp1210
+sVetwas konsolidieren
+p1211
+(Vetwas festigen; etwas stabilisieren
+p1212
+VDie öffentlichen Finanzen müssen konsolidiert werden.
+p1213
+tp1214
+sVInsolvenz, die
+p1215
+(Vdie Zahlungsunfähigkeit, der Bankrott
+p1216
+VIn diesem Jahr meldeten schon mehr als 120 Firmen Insolvenz an.
+p1217
+tp1218
+sVMinderheit, die*
+p1219
+(Veine kleine Gruppe von Menschen in einem Staat, die sich von den anderen z. B. in ihrer Religion) unterscheidet
+p1220
+VIn vielen Staaten werden Minderheiten gewaltsam aus dem Land vertrieben.
+p1221
+tp1222
+sVNichtregierungsorganisation, die (Abkürzung: NRO, engl.: NGO)
+p1223
+(Veine Organisation, die unabhängig vom Staat handelt und keinen finanziellen Gewinn anstrebt
+p1224
+VDas Rote Kreuz ist eine bekannte Nichtregierungsorganisation.
+p1225
+tp1226
+sVsich auf etwas einigen
+p1227
+(Vdurch Verhandlungen eine gemeinsame Position finden; zu einer gemeinsamen Lösung finden
+p1228
+VIn dem Treffen einigten sich die Politiker auf eine Lösung.
+p1229
+tp1230
+sVverschuldet
+p1231
+(Vso, dass man mehr Geld ausgegeben hat, als man besitzt
+p1232
+VDurch die Senkung der Steuern hat der Staat sich hoch verschuldet.
+p1233
+tp1234
+sVzu etwas aufrufen
+p1235
+(Vjemanden, meist eine große Gruppe von Personen auffordern, etwas zu tun
+p1236
+VDie Opposition ruft zu Protesten auf.
+p1237
+tp1238
+sVProtokoll, das*
+p1239
+(Vein Text, in dem alles steht, was bei einem Treffen oder einer Sitzung gesagt wurde
+p1240
+VSie forderten, die Aussagen im Protokoll aufzunehmen.
+p1241
+tp1242
+sVlangfristig
+p1243
+(V1. eine lange Zeit dauernd oder gültig Sie suchen nach einer langfristigen Regelung.); 2. in einem längeren Zeitraum; auf lange Sicht
+p1244
+VLangfristig muss etwas verändert werden.
+p1245
+tp1246
+sVPrivileg, das
+p1247
+(Vein Vorteil, den nur bestimmte Personen oder Gruppen haben; das Vorrecht
+p1248
+VBeamte genießen viele Privilegien.
+p1249
+tp1250
+sVZinsen, die (Plural)
+p1251
+(Vdas Geld, das man bezahlen muss, wenn man sich zum Beispiel bei der Bank Geld leiht
+p1252
+VWährend der Wirtschaftskrise senken viele Banken die Höhe der Zinsen.
+p1253
+tp1254
+sVAntisemitismus, der
+p1255
+(Vfeindliches Denken und Handeln gegenüber Juden
+p1256
+VImmer noch ist Antisemitismus in vielen Teilen der Welt stark verbreitet.
+p1257
+tp1258
+sVNahe Osten, der
+p1259
+(Vdas Gebiet östlich von Europa z. B. Israel, Palästina, Iran, Irak usw.)
+p1260
+VDer Minister reist morgen in den Nahen Osten, um an der Friedenskonferenz teilzunehmen.
+p1261
+tp1262
+sVFinanzkrise, die
+p1263
+(Vdie sehr schwierige wirtschaftliche Situation auf dem Finanzmarkt
+p1264
+VDie Finanzkrise könnte schon bald zu einer großen Gefahr für viele Arbeitnehmer werden.
+p1265
+tp1266
+sVRat, der*
+p1267
+(Veine Gruppe von Personen, die bestimmte Probleme diskutiert und Entscheidungen trifft
+p1268
+VMorgen treffen sich die Mitglieder des Rates, um über eine Lösung zu diskutieren.
+p1269
+tp1270
+sVArbeitsamt, das (offiziell: die Agentur für Arbeit)
+p1271
+(Vdie \u2192 Behörde, die zum Beispiel bei der Arbeitssuche hilft oder in bestimmten Fällen Geld zahlt, wenn jemand arbeitslos ist
+p1272
+VTäglich melden sich zahlreiche Menschen beim Arbeitsamt arbeitslos.
+p1273
+tp1274
+sVgravierend
+p1275
+(Vso, dass etwas schwere Folgen hat
+p1276
+VDies ist ein sehr gravierendes Problem.
+p1277
+tp1278
+sVMandat, das
+p1279
+(Vdie Tatsache, dass man nach einer Wahl genug Wählerstimmen hat, um in ein Parlament einzuziehen
+p1280
+VDer Politiker hat ein Mandat für den Bundestag.
+p1281
+tp1282
+sVlegal
+p1283
+(Vgesetzlich; dem Gesetz entsprechend
+p1284
+VDie Partei ist auf legalem Weg an die Macht gekommen.
+p1285
+tp1286
+sVHolocaust-Leugner, der
+p1287
+(Vjemand, der behauptet, dass der Mord an den europäischen Juden durch die Nationalsozialisten nicht stattgefunden hat
+p1288
+VImmer noch gibt es in der deutschen Gesellschaft viele Holocaust-Leugner.
+p1289
+tp1290
+sVCSU, die
+p1291
+(V Abkürzung für "Christlich Soziale Union", eine politische Partei, die es nur in Bayern gibt, ähnlich wie die \u2192 CDU, bildet mit dieser die \u2192 Fraktion CDU/CSU
+p1292
+g439
+tp1293
+sVheftig*
+p1294
+(Vsehr stark; mit großer Kraft
+p1295
+VDie Wirtschaftskrise hat zu einem heftigen Streit zwischen den Parteien geführt.
+p1296
+tp1297
+sVWehrdienst, der/Wehrpflicht, die
+p1298
+(Vder Dienst, den junge Männer für eine bestimmte Zeit beim Militär leisten müssen
+p1299
+VDas Parlament diskutiert über die Abschaffung des Wehrdienstes.
+p1300
+tp1301
+sVzuvor
+p1302
+(Vvorher
+p1303
+VDas Klima erwärmt sich schneller als je zuvor.
+p1304
+tp1305
+sVmassiv*
+p1306
+(Vsehr stark; heftig
+p1307
+VDas Gesetz wurde trotz massiver Kritik beschlossen.
+p1308
+tp1309
+sVAktivist/in, der/die
+p1310
+(Veine Person, die viel dafür tut, ein bestimmtes politisches) Ziel zu erreichen
+p1311
+VLetzte Woche demonstrierten viele Aktivisten gegen das neue Gesetz.
+p1312
+tp1313
+sVeine Position vertreten
+p1314
+(Veine bestimmte Meinung zu einem Thema öffentlich äußern
+p1315
+VWelche Position vertritt die Bundesregierung dazu?
+p1316
+tp1317
+sVGeneralsekretär/in, der/die*
+p1318
+(Veine Person, die die Verwaltung einer Partei leitet
+p1319
+VDer Generalsekretär gab gestern die neuen Haushaltszahlen der Partei bekannt.
+p1320
+tp1321
+sVDiplomat/-in, der/die*
+p1322
+(Vein/-e offizieller Vertreter/-in eines Staates in einem anderen Staat; \u2192 Botschafter/-in
+p1323
+VDer Iran hat einen deutschen Diplomaten aufgefordert, das Land zu verlassen.
+p1324
+tp1325
+sVLegislaturperiode, die
+p1326
+(Vdie Dauer, für die die Mitglieder eines Parlaments gewählt sind
+p1327
+VEine Legislaturperiode dauert in Deutschland vier Jahre.
+p1328
+tp1329
+sVAußerparlamentarische Opposition (APO), die
+p1330
+(V Menschen, die gegen die Regierung protestieren, aber nicht in einer Partei oder im Parlament sind
+p1331
+g439
+tp1332
+sVArbeitslosengeld II
+p1333
+(Vdas Geld, das eine Person ohne Arbeit oder mit sehr geringem Gehalt bekommt, wenn sie kein Arbeitslosengeld I erhält \u2192 "Hartz IV")
+p1334
+VEr hat Anspruch auf Arbeitslosengeld II.
+p1335
+tp1336
+sVLeichtathletik, die
+p1337
+(VSammelbezeichnung für verschiedene Lauf-, Sprung- und Wurf-Sportarten
+p1338
+VGestern begann in Rom die Leichtathletik-Europameisterschaft.
+p1339
+tp1340
+sVStudiengebühren, die
+p1341
+(Vdie Gebühr, die man für ein Studium bezahlen muss
+p1342
+VDas Land möchte die Studiengebühren im nächsten Jahr leicht anheben.
+p1343
+tp1344
+sVetwas liegt auf der Hand*
+p1345
+(Vetwas ist offensichtlich; etwas ist für jeden deutlich zu erkennen
+p1346
+VDas Problem liegt auf der Hand.
+p1347
+tp1348
+sVAusländeranteil, der
+p1349
+(Vdie Zahl der Ausländer in einem bestimmten Ort oder Gebiet
+p1350
+VViele Gebiete an der Grenze haben einen hohen Ausländeranteil.
+p1351
+tp1352
+sVTurbulenzen, die (Pl.)*
+p1353
+(Vmehrere plötzliche Ereignisse, durch die eine Situation schnell verändert wird
+p1354
+VDie Nachricht führte zu Turbulenzen an den internationalen Finanzmärkten.
+p1355
+tp1356
+sVErstwähler, der
+p1357
+(Vein junger) Mensch, der zum ersten Mal wählen geht
+p1358
+VVor den Wahlen versuchen die Parteien besonders die Stimmen der Erstwähler zu gewinnen.
+p1359
+tp1360
+sVBundesrat, der
+p1361
+(Vdie Vertretung der \u2192 Länder gegenüber dem Bund, die bei einigen Aufgaben des \u2192 Bundestages mitwirkt
+p1362
+VDer Bundesrat muss der Gesetzesänderung noch zustimmen.
+p1363
+tp1364
+sVAmoklauf, der
+p1365
+(Vdas Herumlaufen und Schießen mit einer Waffe, um möglichst viele Menschen zu töten
+p1366
+VBei dem Amoklauf in Süddeutschland gab es zwölf Opfer.
+p1367
+tp1368
+sVGeschäftsklima, das
+p1369
+(Vdie wirtschaftliche Situation in einem Unternehmen oder einer \u2192 Branche
+p1370
+VIn der Autobranche verbesserte sich das Geschäftsklima im letzen Monat leicht.
+p1371
+tp1372
+sVetwas billigen
+p1373
+(Vetwas positiv beurteilen und akzeptieren; auch: durch ein Gericht genehmigen
+p1374
+VDas Gericht billigte das Vorhaben der Bundesregierung.
+p1375
+tp1376
+sVbefürworten
+p1377
+(Vetwas gut finden; etwas unterstützen
+p1378
+VViele Menschen befürworten das neue Gesetz.
+p1379
+tp1380
+sVan die Macht kommen
+p1381
+(Vdie Macht übernehmen
+p1382
+VLetzte Woche ist ein neuer Präsident an die Macht gekommen.
+p1383
+tp1384
+sVaus etwas scheiden
+p1385
+(Vmit einer Tätigkeit aufhören; ein Amt aufgeben
+p1386
+VDie Ministerin scheidet zum Ende des Jahres aus ihrem Amt.
+p1387
+tp1388
+sVerneut
+p1389
+(Vnoch einmal; wieder
+p1390
+VDie Arbeitslosigkeit ist erneut gestiegen.
+p1391
+tp1392
+sVetwas begrüßen*
+p1393
+(Vetwas als positiv ansehen
+p1394
+VDie Bundeskanzlerin begrüßte die Entscheidung.
+p1395
+tp1396
+sVAnklage gegen jemanden erheben
+p1397
+(Vjemanden vor Gericht bestimmter Verbrechen beschuldigen
+p1398
+VDer Staatsanwalt erhebt wegen versuchten Mordes Anklage gegen den 34-Jährigen.
+p1399
+tp1400
+sVWirtschaftswunder, das*
+p1401
+(Vder schnelle Wiederaufbau und wirtschaftliche Erfolg Deutschlands in den 1950er und 1960er Jahren
+p1402
+VDie Einführung der Deutschen Mark 1948 war der Beginn des deutschen Wirtschaftswunders.
+p1403
+tp1404
+sVdeutschlandweit
+p1405
+(Vin ganz Deutschland
+p1406
+VHeute findet ein deutschlandweiter \u2192 Streik der Mitarbeiter der Deutschen Bahn statt.
+p1407
+tp1408
+sVMonopol, das
+p1409
+(Veine wirtschaftliche Situation, in der es keine Konkurrenz gibt und deswegen ein Einzelner z. B. ein Unternehmen oder der Staat) die absolute Kontrolle ausüben kann
+p1410
+VDas Postmonopol in Deutschland ist abgeschafft worden.
+p1411
+tp1412
+sVparteiintern
+p1413
+(Vinnerhalb der Partei; nur die Partei betreffend
+p1414
+VMit seinen Aussagen hat er eine parteiinterne Diskussion ausgelöst.
+p1415
+tp1416
+sVetwas auf die Seite schaffen*/etwas beiseiteschaffen
+p1417
+(Vetwas heimlich für sich behalten; etwas wegnehmen
+p1418
+VIn den letzten drei Jahren soll er zwei Millionen Euro auf die Seite geschafft haben.
+p1419
+tp1420
+sVBundesversammlung, die
+p1421
+(V Versammlung, die den Bundespräsidenten wählt. Sie besteht aus den Mitgliedern des Bundestages und einer gleichen Anzahl von Mitgliedern, die von den Parlamenten der Länder gewählt werden.
+p1422
+g439
+tp1423
+sVmit dem Säbel rasseln
+p1424
+(Vjemandem drohen besonders militärisch); jemanden einschüchtern
+p1425
+VAtomstreit mit dem Iran: Die USA rasseln mit dem Säbel.
+p1426
+tp1427
+sVBündnis, das
+p1428
+(Vder Zusammenschluss
+p1429
+VDie beiden Parteien haben sich für ein Bündnis entschieden, um mehr Wählerstimmen zu erhalten.
+p1430
+tp1431
+sVSiegerehrung, die
+p1432
+(Vdie Feier, bei der die drei besten Sportler ihre \u2192 Medaillen bekommen
+p1433
+VBei der Siegerehrung kamen der Siegerin die Tränen.
+p1434
+tp1435
+sVKorrespondent/-in, der/ die
+p1436
+(Vein/-e Journalist/-in, der/die aus einem bestimmten Land bzw. einer bestimmten Stadt berichtet
+p1437
+VEr ist seit zwei Jahren Korrespondent in Washington.
+p1438
+tp1439
+sVVölkerverständigung, die
+p1440
+(Vdas Kennenlernen und Verstehen verschiedener Nationen und Kulturen untereinander
+p1441
+VDie UN möchte die Völkerverständigung fördern.
+p1442
+tp1443
+sVsoziale Brennpunkt, der
+p1444
+(Vein Ort mit vielen sozialen Problemen und hoher Arbeitslosigkeit
+p1445
+VDieses Stadtviertel ist ein sozialer Brennpunkt.
+p1446
+tp1447
+sVAbkommen, das
+p1448
+(Vein Vertrag meist) zwischen Staaten
+p1449
+VDas Schengener Abkommen wurde 1985 von Deutschland unterzeichnet.
+p1450
+tp1451
+sVGeheimdienst, der
+p1452
+(Veine Organisation, die zum Beispiel Informationen zum Schutz des Staates sammelt z. B. CIA)
+p1453
+VDer amerikanische Geheimdienst hat einige Terrorverdächtige festgenommen.
+p1454
+tp1455
+sVerheblich
+p1456
+(V1. Adj.: groß Menge, Ausmaß); beträchtlich Die Aufgabe bereitete ihr erhebliche Probleme.); 2. Adv.: viel; wesentlich
+p1457
+VDie Aufgabe war erheblich schwieriger als gedacht.
+p1458
+tp1459
+sVKonjunktur, die
+p1460
+(Vder Aufschwung in der Wirtschaft; der Boom
+p1461
+VNoch ist kein Ende der Konjunktur abzusehen.
+p1462
+tp1463
+sVKriminalitätsrate, die
+p1464
+(Vdie Anzahl von Verbrechen
+p1465
+VIn dieser Region ist die Kriminalitätsrate in diesem Jahr stark gestiegen.
+p1466
+tp1467
+sVOECD, die
+p1468
+(Vdie Organisation für wirtschaftliche Zusammenarbeit und Entwicklung
+p1469
+VDie OECD hat derzeit 30 Mitgliedsländer.
+p1470
+tp1471
+sVsich formieren
+p1472
+(V hier: zusammenhalten; zusammenarbeiten
+p1473
+V(Die SPD und CDU formierten sich, um das Problem gemeinsam zu lösen.)
+p1474
+tp1475
+sVFöderalismus, der
+p1476
+(Vdie Organisation eines Staates, bei der die einzelnen Regionen oder \u2192 Länder innerhalb des Staates ziemlich unabhängig sind
+p1477
+VIn Deutschland ist der Föderalismus ein Teil des politischen Systems.
+p1478
+tp1479
+sVSanktion, die*
+p1480
+(Veine strafende Reaktion auf eine bestimmte Verhaltensweise
+p1481
+VDie Vereinten Nationen drohen Nordkorea wegen seiner Atomtests mit harten Sanktionen.
+p1482
+tp1483
+sVzivil*
+p1484
+(Vbürgerlich; nicht militärisch
+p1485
+VEr betonte die hohe Bedeutung von zivilen Konfliktlösungen.
+p1486
+tp1487
+sVQuerele, die
+p1488
+(Vmeist im Pl.) eine kleine, unangenehme Auseinandersetzung; ein Streit; eine Klage
+p1489
+VDie Regierung hat ihre Querelen endlich beendet.
+p1490
+tp1491
+sVBundespräsident/-in, der/die
+p1492
+(Vhöchstes Amt in der Bundesrepublik; vertritt Deutschland vor allem öffentlich, hat aber keine große politische Macht. Der B. wird von der \u2192 Bundesversammlung gewählt.
+p1493
+VBundespräsident Rau; Bundespräsident Köhler
+p1494
+tp1495
+sVAktiengesellschaft, die
+p1496
+(Veine bestimmte Form eines Unternehmens; wenn viele verschiedene Personen kleine Teile einer Firma besitzen
+p1497
+VDie Aktiengesellschaft berät sich über die Zukunft der Firma.
+p1498
+tp1499
+sVzurücktreten
+p1500
+(Vein Amt abgeben
+p1501
+VDer Bankchef möchte Anfang des nächsten Jahres zurücktreten.
+p1502
+tp1503
+sVstagnieren, etwas stagniert
+p1504
+(Vetwas entwickelt sich nicht weiter; etwas bleibt stehen
+p1505
+VDie Wirtschaft stagniert seit drei Jahren.
+p1506
+tp1507
+sVunzählige
+p1508
+(Vsehr viele
+p1509
+VDas Unglück forderte unzählige Opfer.
+p1510
+tp1511
+sVweitgehend*
+p1512
+(Vzum größten Teil; fast
+p1513
+VDie neuen Regelungen sind weitgehend unbekannt.
+p1514
+tp1515
+sVHochburg, die*
+p1516
+(Veine Region, eine Stadt, in der eine bestimmte politische, religiöse oder kulturelle Richtung sehr stark vertreten ist
+p1517
+VDas Ruhrgebiet ist eine Hochburg der SPD.
+p1518
+tp1519
+sVein schweres Erbe antreten*
+p1520
+(Vin einer schwierigen Situation die Position die Stelle, das Amt, die Aufgabe usw.) von jemanden übernehmen
+p1521
+VDer Präsident tritt ein schweres Erbe an.
+p1522
+tp1523
+sVGenerationenvertrag, der
+p1524
+(Vdie Regelung in Deutschland, dass die jungen, arbeitenden Menschen die Rente der älteren Menschen bezahlen
+p1525
+VDie Bundeskanzlerin betonte die Wichtigkeit des Generationenvertrages.
+p1526
+tp1527
+sVIntegrationsbeauftragte/r, die/der
+p1528
+(Vjemand, der die Aufgabe hat, es Ausländern leichter zu machen, Teil einer Gesellschaft zu werden
+p1529
+VNach Informationen des Integrationsbeauftragten haben viele Ausländer Probleme, die deutsche Sprache zu lernen.
+p1530
+tp1531
+sVPISA-Studie, die
+p1532
+(Veine Untersuchung, die die Bildungssysteme vieler Länder vergleicht
+p1533
+VDas Ergebnis Deutschlands in der PISA-Studie wurde von vielen kritisiert.
+p1534
+tp1535
+sVrepräsentativ*
+p1536
+(Vso, dass durch die Untersuchung eines ausgewählten Teils einer Gesellschaft Aussagen über die gesamte Gesellschaft möglich sind
+p1537
+VWie eine repräsentative Umfrage zeigt, lehnt die Mehrheit der Deutschen das Gesetz ab.
+p1538
+tp1539
+sVsich abzeichnen, etwas zeichnet sich ab
+p1540
+(Vetwas wird allmählich deutlich, erkennbar
+p1541
+VNach dem Gespräch zeichneten sich erste Fortschritte ab.
+p1542
+tp1543
+sVentbrennen, etwas entbrennt*
+p1544
+(Vetwas fängt plötzlich an
+p1545
+VZwischen den Parteien ist ein Streit entbrannt.
+p1546
+tp1547
+sVUmsatz, der
+p1548
+(Vdas Geld, das man durch den Verkauf von etwas insgesamt verdient; der finanzielle Gewinn
+p1549
+VDer Umsatz der Firma ist in diesem Monat leicht gefallen.
+p1550
+tp1551
+sVpleite
+p1552
+(Vso, dass man kein Geld mehr hat
+p1553
+VDurch ihre vielen Ausgaben in der letzten Zeit ist die Firma nun pleite.
+p1554
+tp1555
+sVin die Kritik geraten
+p1556
+(Vöffentlich kritisiert werden
+p1557
+VWegen seiner unhöflichen Bemerkungen letzte Woche geriet der Politiker bei vielen in die Kritik.
+p1558
+tp1559
+sVUmfeld, das
+p1560
+(Vdie Umgebung
+p1561
+VEr fühlt sich wohl in diesem Umfeld.
+p1562
+tp1563
+sVEklat, der
+p1564
+(Vein öffentlicher Streit; eine sehr unpassende Aktion; ein Skandal
+p1565
+VDie Rede führte zu einem Eklat im Bundestag.
+p1566
+tp1567
+sVDiplomatie, die
+p1568
+(V1. die offiziellen) Bemühungen um gute Beziehungen zwischen den Staaten; 2. allgemein: der kluge, vorsichtige Umgang mit Menschen
+p1569
+VDiplomatie gehört nicht zu seinen Stärken.
+p1570
+tp1571
+sVbundesweit
+p1572
+(Vin der gesamten Bundesrepublik Deutschland
+p1573
+VDas Rauchen in Restaurants ist bundesweit verboten.
+p1574
+tp1575
+sVAbsatz, der*
+p1576
+(Vdie Menge der Waren, die eine Firma verkauft
+p1577
+V2008 hatten viele Firmen einen höheren Absatz als 2009.
+p1578
+tp1579
+sVBürgerkrieg, der
+p1580
+(Vein Krieg zwischen verschiedenen Gruppen in einem Land
+p1581
+VWegen des Bürgerkriegs ist die wirtschaftliche Situation im Land sehr schlecht.
+p1582
+tp1583
+sVGesetzgebung, die
+p1584
+(Vdas geltende Gesetz
+p1585
+VDie deutsche Gesetzgebung verbietet das Rauchen in Krankenhäusern.
+p1586
+tp1587
+sVDurchbruch, der*
+p1588
+(Vder Erfolg, der Triumph
+p1589
+VEin Durchbruch in dem Gespräch zwischen Regierung und Opposition wird nicht erwartet.
+p1590
+tp1591
+sVChancengleichheit, die
+p1592
+(Vdieselben Möglichkeiten für jeden in Ausbildung und Beruf
+p1593
+VDie Partei fordert Chancengleichheit für alle Kinder.
+p1594
+tp1595
+sVetwas Nachdruck verleihen (mit Dat.)
+p1596
+(Vdeutlich machen, dass man etwas für sehr wichtig hält
+p1597
+VDie Ministerin verlieh ihrer Forderung nach mehr Gleichberechtigung Nachdruck.
+p1598
+tp1599
+sVunter Federführung von jemandem
+p1600
+(Vunter der Leitung von jemandem; unter der Verantwortung von jemandem
+p1601
+VDer Vertrag wurde unter Federführung von Bundeskanzlerin Merkel beschlossen.
+p1602
+tp1603
+sVFlüchtling, der
+p1604
+(Vjemand, der wegen sozialer, politischer, wirtschaftlicher oder religiöser Verfolgung aus seinem Land flieht
+p1605
+VDie Zahl der Flüchtlinge aus Afrika ist in diesem Jahr stark angestiegen.
+p1606
+tp1607
+sVanhalten, etwas hält an*
+p1608
+(Vetwas besteht weiter; etwas dauert an
+p1609
+VDie Gewalt im Nahen Osten hält an.
+p1610
+tp1611
+sVMarktführerschaft, die
+p1612
+(Vdie alleinige Führung in einem bestimmten Bereich der Wirtschaft
+p1613
+VDas Energieunternehmen hat die Marktführerschaft übernommen.
+p1614
+tp1615
+sVungeachtet (mit Gen.)
+p1616
+(Vtrotz
+p1617
+VDie Pläne sollen ungeachtet der vielen Proteste realisiert werden.
+p1618
+tp1619
+sVunterdessen
+p1620
+(Vinzwischen; mittlerweile
+p1621
+VUnterdessen wächst die Kritik am Verhalten der Bundesregierung.
+p1622
+tp1623
+sVauslaufen, etwas läuft aus*
+p1624
+(Vetwas geht zu Ende
+p1625
+VDer Vertrag läuft am Ende des nächsten Jahres aus.
+p1626
+tp1627
+sVMarketing, das
+p1628
+(Vdie Werbung, die eine Firma macht, um ein Produkt bekannt zu machen
+p1629
+VDank ihres guten Marketings hat die Firma viele Produkte verkauft.
+p1630
+tp1631
+sVDebatte, die
+p1632
+(Vdie öffentliche Diskussion
+p1633
+VDie Debatte um einen Mindestlohn geht weiter.
+p1634
+tp1635
+sVflorieren, etwas floriert
+p1636
+(VWirtschaft: etwas hat Erfolg; etwas funktioniert gut
+p1637
+VDer Handel mit Rohstoffen floriert.
+p1638
+tp1639
+sVRente, die
+p1640
+(Vdas Geld, das jemand nach Beendigung seiner Berufskarriere erhält
+p1641
+VViele ältere Menschen beschweren sich über ihre niedrige Rente.
+p1642
+tp1643
+sVetwas vertagen
+p1644
+(Vetwas auf einen späteren Zeitpunkt verschieben
+p1645
+VDie Entscheidung wurde vertagt.
+p1646
+tp1647
+sVrenommiert
+p1648
+(Vberühmt; mit einem guten Ruf
+p1649
+Vein renommiertes Unternehmen
+p1650
+tp1651
+sVzunehmend
+p1652
+(Vimmer mehr; immer häufiger
+p1653
+VDie Wirtschaft leidet zunehmend unter den steigenden Ölpreisen.
+p1654
+tp1655
+sVZivilist, der
+p1656
+(Vjemand, der nicht zum Militär gehört
+p1657
+VBei dem Angriff sind 12 Zivilisten getötet worden.
+p1658
+tp1659
+sVetwas umsetzen
+p1660
+(Vetwas realisieren
+p1661
+VDer Firmenleiter konnte seine Pläne aus dem letzten Jahr nicht alle umsetzen.
+p1662
+tp1663
+sVschleppend*
+p1664
+(Vsehr langsam und mit viel Mühe
+p1665
+VDie Verhandlungen kommen nur schleppend voran.
+p1666
+tp1667
+sVliberal
+p1668
+(Vso, dass man die Freiheiten der Menschen möglichst wenig einschränken will
+p1669
+VDie liberale Partei Deutschlands hat gute Chancen, bei der nächsten Wahl viele Stimmen zu erhalten.
+p1670
+tp1671
+sVAugenzeuge, der
+p1672
+(Veine Person, die ein Geschehen beobachtet
+p1673
+VDie Polizei befragt den Augenzeugen.
+p1674
+tp1675
+sVZugeständnis, das
+p1676
+(Vetwas, das man jemandem z. B. bei Verhandlungen) gibt oder erlaubt
+p1677
+VKeine der beiden Parteien ist zu Zugeständnissen bereit.
+p1678
+tp1679
+sVhumanitäre Hilfe, die
+p1680
+(VHilfe, die nötig ist, wenn die Menschenrechte nicht beachtet werden
+p1681
+VViele afrikanische Länder benötigen dringend humanitäre Hilfe.
+p1682
+tp1683
+sVfremdenfeindlich
+p1684
+(Vso, dass man Ausländer ablehnt
+p1685
+VIm Internet gibt es viele fremdenfeindliche Seiten.
+p1686
+tp1687
+sVVerfassung, die*
+p1688
+(Vdie schriftlich festgehaltenen, grundsätzlichen Regeln in einem Staat
+p1689
+VDie deutsche Verfassung heißt Grundgesetz.
+p1690
+tp1691
+sVhochrangig
+p1692
+(Vin einer hohen Position in Politik oder Gesellschaft
+p1693
+VHochrangige Regierungsvertreter aus 17 Ländern beraten über eine friedliche Lösung der Krise.
+p1694
+tp1695
+sVumweltfreundlich
+p1696
+(Vso, dass man mit seinem Verhalten die Natur schützt
+p1697
+VViele Politiker fordern die Herstellung umweltfreundlicherer Autos.
+p1698
+tp1699
+sVAktie, die
+p1700
+(Vein Wertpapier, das man kaufen kann, um einen Anteil an einer Gesellschaft zu bekommen
+p1701
+VDurch die Finanzkrise ist der Wert vieler Aktien stark gefallen.
+p1702
+tp1703
+sVOffensive, die
+p1704
+(V1. der militärische) Angriff; 2. aktiv werden, um ein bestimmtes Ziel zu erreichen
+p1705
+VDie Partei geht im Wahlkampf in die Offensive.
+p1706
+tp1707
+sVunisono*
+p1708
+(Vitalienisch: so, dass alle dieselbe Meinung äußern
+p1709
+VRegierung und Opposition betonen unisono die Notwendigkeit von Reformen.
+p1710
+tp1711
+sVPressekonferenz, die
+p1712
+(Vein Treffen, bei dem jemand den \u2192 Medien Informationen zu aktuellen Ereignissen gibt
+p1713
+VAuf der Pressekonferenz am letzten Montag erklärte er den Journalisten seine Pläne.
+p1714
+tp1715
+sVSozialamt, das
+p1716
+(Vdie \u2192 Behörde, die für Menschen ohne Geld zuständig ist
+p1717
+VMenschen in Armut erhalten regelmäßig Hilfe vom Sozialamt.
+p1718
+tp1719
+sVHandelskammer, die
+p1720
+(Vdie Organisation der wirtschaftlichen Verwaltung
+p1721
+VDie Handelskammer möchte Unternehmen in Ostdeutschland stärker unterstützen.
+p1722
+tp1723
+sVmächtig
+p1724
+(Vso, dass man viel Macht hat; stark
+p1725
+VDerzeit ist die CDU die mächtigste Partei in Deutschland.
+p1726
+tp1727
+sVInvestition, die
+p1728
+(V1. das, was \u2192 investiert wird; 2. etwas, in das \u2192 investiert wird
+p1729
+VGold ist eine lohnende Investition.
+p1730
+tp1731
+sVneue Bundesländer, die (Pl.)
+p1732
+(Vdie fünf \u2192 Länder auf dem Gebiet der ehemaligen DDR in Ostdeutschland z. B. Sachsen, Mecklenburg-Vorpommern); \u2194 alte Bundesländer
+p1733
+VDie Arbeitslosigkeit in den neuen Bundesländern ist weiterhin hoch.
+p1734
+tp1735
+sVdramatisch*
+p1736
+(Vso, dass sich etwas sehr stark und schnell negativ entwickelt
+p1737
+VDie Zahl der Arbeitslosen ist dramatisch gestiegen.
+p1738
+tp1739
+sVkandidieren
+p1740
+(VKandidat bei einer Wahl sein
+p1741
+VDer Politiker kandidiert für einen Sitz im Stadtrat.
+p1742
+tp1743
+sVBetriebsratvorsitzende, der/die
+p1744
+(Vder/die Chef/in einer Organisation, die in einer Firma die Interessen der Arbeitnehmer vertritt
+p1745
+VDer Betriebsratvorsitzende möchte die Löhne der Arbeiter anheben.
+p1746
+tp1747
+sVUmfrage, die
+p1748
+(Veine Untersuchung, bei der viele Menschen die gleiche Frage gestellt bekommen
+p1749
+VEine Umfrage zeigt, dass viele Menschen lieber mit dem Auto als mit der Bahn fahren.
+p1750
+tp1751
+sVjemanden verfolgen*
+p1752
+(Vjemanden aus einer Gesellschaft ausschließen und ihm Gewalt androhen
+p1753
+VIn einigen Ländern werden Menschen aus religiösen Gründen verfolgt.
+p1754
+tp1755
+sVetwas bekräftigen
+p1756
+(Vnoch einmal bestätigen, was schon gesagt wurde
+p1757
+VSie bekräftigte ihre Absicht, für das Amt zu kandidieren.
+p1758
+tp1759
+sVimmens
+p1760
+(Vsehr groß
+p1761
+VDer Aufwand ist immens.
+p1762
+tp1763
+sVjüngst
+p1764
+(Vvor kurzer Zeit; neulich
+p1765
+VDie jüngst veröffentlichten Ergebnisse zeigen, dass sich die Situation nicht verbessert hat.
+p1766
+tp1767
+sVArbeitslosengeld I
+p1768
+(Vdas Geld, das eine Person ohne Arbeit unter bestimmten Voraussetzungen über eine bestimmte Zeit hinweg bekommt
+p1769
+VÄltere Arbeitslose erhalten wieder länger Arbeitslosengeld I.
+p1770
+tp1771
+sVResolution, die*
+p1772
+(Veine Forderung oder ein Beschluss als Ergebnis einer Versammlung
+p1773
+VDie USA fordern eine neue UN-Resolution.
+p1774
+tp1775
+sVLändersache, die
+p1776
+(Vso, dass die einzelnen 16 deutschen \u2192 Bundesländer für eine bestimmte Politik zuständig sind
+p1777
+VReformen im Schulsystem sind in Deutschland Ländersache.
+p1778
+tp1779
+sVlaut*
+p1780
+(Vnach Angaben von; wie jemand gesagt hat
+p1781
+VLaut dem Umweltminister besteht keine Gefahr.
+p1782
+tp1783
+sVsich radikalisieren
+p1784
+(Vzu stärkeren und gewalttätigeren Mitteln greifen als vorher
+p1785
+VNach dem Mord an einem ihrer Anhänger radikalisierte sich die Gruppe.
+p1786
+tp1787
+sVStandard, der*
+p1788
+(Veine Regelung, die für alle gleich ist
+p1789
+VDie Europäische Union führt für die Mitgliedsstaaten immer mehr Standards ein.
+p1790
+tp1791
+sVQuantensprung, der*
+p1792
+(Vein sehr großer Fortschritt in der Entwicklung; eine grundlegende Änderung
+p1793
+VSie bezeichnete die Einigung als politischen Quantensprung.
+p1794
+tp1795
+sVKommunismus, der
+p1796
+(Veine politische Richtung, die sich nach Karl Marx und Friedrich Engels richtet
+p1797
+VLenin führte in Russland den Kommunismus ein.
+p1798
+tp1799
+sVhitzig
+p1800
+(Vsehr erregt; leidenschaftlich
+p1801
+VWegen der geplanten Steuererhöhung kam es gestern zu einer hitzigen Diskussion im Parlament.
+p1802
+tp1803
+sVInfektionsrate, die
+p1804
+(Vdie Anzahl der Menschen, die die Krankheit bekommen haben
+p1805
+VWegen der schlechten medizinischen Versorgung ist die Infektionsrate in dieser Region sehr hoch.
+p1806
+tp1807
+sVVerbraucher, der
+p1808
+(Veine Person, die Produkte für die eigene Nutzung kauft
+p1809
+VViele Verbraucher beschweren sich über die hohen Benzinpreise.
+p1810
+tp1811
+sVKoalition, die*
+p1812
+(Veine feste Zusammenarbeit von politischen Parteien, um eine Regierung zu bilden
+p1813
+Vals Bundes- oder Landesregierung in Deutschland gab es bisher: Große Koalition: CDU, SPD; Rot-Grüne Koalition: SPD, Bündnis 90/Die Grünen; Schwarz-Gelbe Koalition: CDU, FDP; Sozialliberale Koalition: SPD, FDP; Ampelkoalition: SPD, FDP, Bündnis 90/Die Grünen; Rot-Rote Koalition: SPD, Die Linke; Schwarz-Grüne Koalition: CDU, Bündnis 90/Die Grünen
+p1814
+tp1815
+sVExport, der
+p1816
+(Vder Verkauf von Waren im Ausland
+p1817
+VDie deutschen Exportzahlen sind in letzter Zeit stark angestiegen.
+p1818
+tp1819
+sVqualifiziert sein für etwas*
+p1820
+(Vgeeignet sein für etwas
+p1821
+VFür dieses Amt ist er hoch qualifiziert.
+p1822
+tp1823
+sVAnschlag, der*
+p1824
+(Vein Versuch, jemanden zu töten oder etwas zu zerstören
+p1825
+VDer Terroranschlag vom 11. September 2001 hat die Welt verändert.
+p1826
+tp1827
+sVgrünes Licht für etwas geben
+p1828
+(Vetwas erlauben; den Beginn von etwas möglich machen
+p1829
+VDer Bürgermeister gibt grünes Licht für den Bau einer neuen Schule.
+p1830
+tp1831
+sVjemand/etwas macht Schlagzeilen
+p1832
+(Vso, dass über jemanden/etwas in den Medien viel berichtet wird
+p1833
+VDer Tod des Sportlers machte viele Schlagzeilen.
+p1834
+tp1835
+sVjemanden/ etwas abziehen*
+p1836
+(Vjemanden/etwas entfernen
+p1837
+VIn den nächsten Jahren möchte die USA ihre Truppen aus dem Irak abziehen.
+p1838
+tp1839
+sVSchwellenland, das
+p1840
+(Vein Land, das nicht mehr als \u2192 Entwicklungsland angesehen wird, weil es auf dem Weg zur Industrialisierung ist
+p1841
+VSchwellenländer haben sich wirtschaftlich stark weiterentwickelt.
+p1842
+tp1843
+sVZoll, der*
+p1844
+(Vdas Amt, das den Export und Import von Waren an der Staatsgrenze kontrolliert
+p1845
+VDer Zoll hat zahlreiche gefährliche Waren in dem LKW entdeckt.
+p1846
+tp1847
+sVInfrastruktur, die
+p1848
+(Valles, was für das Funktionieren der Wirtschaft in einem Gebiet notwendig sind, z. B. Verkehrswege, öffentliche Einrichtungen, Energieversorgung
+p1849
+VDer ländliche Raum braucht eine bessere Infrastruktur.
+p1850
+tp1851
+sVAbgeordnete, der/die
+p1852
+(Vein gewähltes Mitglied in einem Parlament
+p1853
+V120 Abgeordnete stimmten mit Nein.
+p1854
+tp1855
+sVetwas verschärfen
+p1856
+(Vetwas strenger machen
+p1857
+VDie Kontrollen an den Grenzen sollen verschärft werden.
+p1858
+tp1859
+sVOperation, die*
+p1860
+(Vein großer geplanter Kampfeinsatz
+p1861
+VDie militärische Operation hatte keinen Erfolg.
+p1862
+tp1863
+sVFall der Mauer, der
+p1864
+(Vdie Öffnung der Grenze zwischen Ost- und Westdeutschland 1989)
+p1865
+VDer Fall der Mauer ereignete sich am 9. November 1989.
+p1866
+tp1867
+sVEinschätzung, die
+p1868
+(Vdie Meinung; die Beurteilung
+p1869
+VDie Gefahr wird sich nach Einschätzung von Experten vergrößern.
+p1870
+tp1871
+sVdesigniert
+p1872
+(Vernannt; zukünftig; gewählt, aber noch nicht im Amt
+p1873
+VDer designierte Wirtschaftsminister
+p1874
+tp1875
+sVBundesregierung
+p1876
+(Vausführende Gewalt im Staat; besteht aus Bundeskanzler/-in und den Minister/-innen
+p1877
+VDie Bundesregierung beschließt eine Erhöhung des Kindergeldes.
+p1878
+tp1879
+sVdienstälteste
+p1880
+(Vwenn jemand länger als alle anderen in seinem Amt/seiner Firma ist
+p1881
+VDer dienstälteste Minister geht in Rente.
+p1882
+tp1883
+sVöffentliches Verkehrsmittel, das
+p1884
+(Vein Verkehrsmittel, das jeder benutzen kann z. B. Bus, Bahn)
+p1885
+VDie Menschen sollten öfter öffentliche Verkehrsmittel benutzen, um die Natur zu schützen.
+p1886
+tp1887
+sVpazifistisch
+p1888
+(Vso, dass man sich für den Frieden einsetzt
+p1889
+VWegen seines pazifistischen Handelns erhielt er einen Friedensnobelpreis.
+p1890
+tp1891
+sVTrendwende, die
+p1892
+(Vdie Umkehr; der Wechsel
+p1893
+VAuch der Juli brachte keine Trendwende in der Wirtschaft: Die Arbeitslosenzahl stieg weiter an.
+p1894
+tp1895
+s.
