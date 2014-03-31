@@ -1,0 +1,1213 @@
+(lp0
+(lp1
+VLe \u005cBOLD{nouveau} ministre de la Défense est un \u005cBOLD{ancien} général.
+p2
+aVDer \u005cHIDE{neue} Verteidigungsminister ist ein \u005cHIDE{ehemaliger} General.
+p3
+aa(lp4
+VL'opposition conteste \u005cBOLD{la nomination} d'un ancien militaire.
+p5
+aVDie Opposition beanstandet \u005cHIDE{die Ernennung} eines ehemaligen Militärs.
+p6
+aa(lp7
+V\u005cBOLD{Dans une démocratie}, la politique doit être séparée de l'armée.
+p8
+aV\u005cHIDE{In einer Demokratie} sollen Politik und Militär getrennt werden.
+p9
+aa(lp10
+VUne \u005cBOLD{partie considérable} des jeunes étudiants se sent désorientée.
+p11
+aVEin \u005cHIDE{beträchtlicher Anteil} der jungen Studenten fühlt sich verunsichert.
+p12
+aa(lp13
+VNous voulons aussi écouter \u005cBOLD{nos collaborateurs inexpérimentés}.
+p14
+aVWir wollen auch \u005cHIDE{unsere unerfahrenen Mitarbeiter} anhören.
+p15
+aa(lp16
+V\u005cBOLD{Ces jeunes} politiciens se font manipuler.
+p17
+aV\u005cHIDE{Diese jungen} Politiker lassen sich manipulieren.
+p18
+aa(lp19
+V\u005cBOLD{Quelques jeunes politiciens} se font manipuler.
+p20
+aV\u005cHIDE{Einige junge Politiker} lassen sich manipulieren.
+p21
+aa(lp22
+VCe livre, \u005cBOLD{dont} j'ai malheureusement oublié \u005cBOLD{le titre}, est absolument recommandable.
+p23
+aVDieses Buch, \u005cHIDE{dessen Titel} ich leider vergessen habe, ist absolut empfehlenswert.
+p24
+aa(lp25
+VIl fit un long discours \u005cBOLD{dont} je n'ai pas saisi \u005cBOLD{le sens}.
+p26
+aVEr hielt eine lange Rede, \u005cHIDE{deren Sinn} ich nicht begriffen habe.
+p27
+aa(lp28
+VL'ingénieur \u005cBOLD{avec lequel} je collabore est absent demain.
+p29
+aVDer Ingenieur, \u005cHIDE{mit dem} ich zusammenarbeite, ist morgen abwesend.
+p30
+aa(lp31
+V\u005cBOLD{Quel idiot} a-t-il mis mon ordinateur sens dessus-dessous ?
+p32
+aV\u005cHIDE{Welcher Idiot} hat meinen Computer durcheinander gebracht?
+p33
+aa(lp34
+VJ'aimerais savoir de \u005cBOLD{quel genre} il est.
+p35
+aVIch würde gerne wissen, \u005cHIDE{von welcher Art} er ist.
+p36
+aa(lp37
+VJe négocierai directement \u005cBOLD{avec lui}.
+p38
+aVIch werde \u005cHIDE{mit ihm} direkt verhandeln.
+p39
+aVJe négocierai directement \u005cBOLD{avec eux}.
+p40
+aVIch werde \u005cHIDE{mit ihnen} direkt verhandeln.
+p41
+aa(lp42
+V\u005cBOLD{Dans trois jours}, je partirai avec elles.
+p43
+aV\u005cHIDE{In drei Tagen} werde ich mit ihnen verreisen.
+p44
+aa(lp45
+VJe dois \u005cBOLD{les} rencontrer \u005cBOLD{tous} encore aujourd'hui.
+p46
+aVIch muss \u005cHIDE{sie alle} heute noch treffen.
+p47
+aa(lp48
+VTu dois te demander si ta stratégie est \u005cBOLD{la bonne}.
+p49
+aVDu musst dich fragen, ob deine Strategie \u005cHIDE{die Richtige} ist.
+p50
+aa(lp51
+VDonnez la lettre \u005cHIDE{à ce monsieur}.
+p52
+aVGeben Sie \u005cHIDE{dem Herrn} diesen Brief.
+p53
+aa(lp54
+VL'opinion \u005cBOLD{de cet expert} peut être contestée.
+p55
+aVDie Meinung \u005cHIDE{dieses Experten} kann beanstandet werden.
+p56
+aa(lp57
+VLa position \u005cBOLD{du prince de Monaco} est \u005cBOLD{celle d'un} monarque constititionnelle.
+p58
+aVDie Position \u005cHIDE{des Fürsten von Monako} ist \u005cHIDE{die eines} konstitutionellen Monarchen.
+p59
+aa(lp60
+VLe pouvoir \u005cBOLD{du président de la RFA} est restreint.
+p61
+aVDie Macht \u005cHIDE{des Bundespräsidenten} ist beschränkt.
+p62
+aa(lp63
+VEn ce domaine, la Constitution \u005cBOLD{de la France contemporaine} fait figure d'exception.
+p64
+aVAuf diesem Gebiet stellt die Verfassung \u005cHIDE{des heutigen Frankreichs} eine Ausnahme dar.
+p65
+aa(lp66
+VDans ce livre, il s'agit de l'infrastructure \u005cBOLD{du New York moderne}.
+p67
+aVIn diesem Buch handelt es sich um die Infrastruktur \u005cHIDE{des modernen New York}.
+p68
+aa(lp69
+VDe nombreuses régions \u005cBOLD{de la Chine septentrionale} sont menacées de désertification.
+p70
+aVZahlreiche Gebiete \u005cHIDE{des nördlichen Chinas} sind von der Versteppung bedroht.
+p71
+aa(lp72
+VCertains responsables italiens évoquent \u005cBOLD{le « problème du Mezzogiorno »}.
+p73
+aVGewisse Verantwortliche Italiens erwähnenen \u005cHIDE{das « Problem des Mezzogiorno »}.
+p74
+aa(lp75
+VLa guerre de Troie fut déclenchée \u005cBOLD{par l'enlèvement d'Hélène}.
+p76
+aVDer Krieg von Troja wurde \u005cHIDE{durch Helenas Entführung (ou durch die Entführung der Helena)} ausgelöst.
+p77
+aa(lp78
+VL'Iliade est une oeuvre \u005cBOLD{d'Homère|du grand poète épique Homère}.
+p79
+aVDie Ilias ist ein Werk \u005cHIDE{Homers|des großen epischen Dichters Homer}.
+p80
+aa(lp81
+VLa malheureuse Marie-Antoinette fut une fille \u005cBOLD{de Marie-Thérèse}.
+p82
+aVDie unglückliche Marie-Antoinette war eine Tochter \u005cHIDE{Maria Theresias}.
+p83
+aa(lp84
+VL oeuvre \u005cBOLD{de Maurice Ravel} passe pour accessible.
+p85
+aVDas Werk \u005cHIDE{des Franzosen Maurice Ravel} gilt als zugänglich.
+p86
+aa(lp87
+VLa clinique \u005cBOLD{du docteur Hans Müller} compte parmi les plus chères de la région.
+p88
+aVDie Klinik \u005cHIDE{des Doktors Hans Müller} zählt zu den teuersten der Gegend.
+p89
+aa(lp90
+VLa voiture \u005cBOLD{de Madame Baumann} a été endommagée par des vandales.
+p91
+aV\u005cHIDE{Frau Baumanns} Auto wurde von Wandalen (ou Vandalen) beschädigt.
+p92
+aa(lp93
+VLe discours \u005cBOLD{de Monsieur Mayer} n'a pas plu au directeur.
+p94
+aV\u005cHIDE{Herrn Mayers} Rede hat dem Direktor nicht gefallen.
+p95
+aa(lp96
+VMes relations \u005cBOLD{avec les voisins} ne sont pas toujours faciles.
+p97
+aVMeine Beziehungen \u005cHIDE{zu den Nachbarn} sind nicht immer leicht.
+p98
+aa(lp99
+VNous redoutons tous la puissance économique \u005cBOLD{de la Chine future}.
+p100
+aVWir fürchten alle die wirtschaftliche Macht \u005cHIDE{des zukünftigen Chinas}.
+p101
+aa(lp102
+VL'invention \u005cBOLD{de l'ingénieur Joachim Mayer} devient la propriété de notre entreprise.
+p103
+aVDie Erfindung \u005cHIDE{des Ingenieurs Joachim Mayer} geht in den Besitz unserer Firma über.
+p104
+aa(lp105
+VLa largeur \u005cBOLD{du Rhin} est impressionnante.
+p106
+aVDie Breite \u005cHIDE{des Rheins} ist beeindruckend.
+p107
+aa(lp108
+VLa largeur \u005cBOLD{du Mékong} est impressionnante.
+p109
+aVDie Breite \u005cHIDE{des Mekong} ist beeindruckend.
+p110
+aa(lp111
+V\u005cBOLD{La vie de Marie Stuart} se termina tragiquement.
+p112
+aV\u005cHIDE{Maria Stuarts Leben (ou Das Leben der Maria Stuart)} endete tragisch.
+p113
+aa(lp114
+VNous admirons les vestiges \u005cBOLD{de la Rome antique}.
+p115
+aVWir bewundern die Ruinen \u005cHIDE{des alten Roms}.
+p116
+aa(lp117
+VJe me fais soigner par le successeur \u005cBOLD{du célèbre docteur Dupont}.
+p118
+aVIch lasse mich vom Nachfolger \u005cHIDE{des berühmten Doktors Dupont} behandeln.
+p119
+aa(lp120
+VJohn Clark aimerait bien être \u005cBOLD{maire de New York}.
+p121
+aVJohn Clark wäre gern \u005cHIDE{New Yorks Bürgermeister}.
+p122
+aa(lp123
+VCet ordinateur était \u005cBOLD{un bon achat}.
+p124
+aVDieser Computer war \u005cHIDE{ein guter Kauf}.
+p125
+aa(lp126
+VHans Mayer passe \u005cBOLD{pour compétent et fiable}.
+p127
+aVHans Mayer gilt \u005cHIDE{als kompetent und zuverlässig}.
+p128
+aa(lp129
+VHans Mayer est \u005cBOLD{un technicien compétent}.
+p130
+aVHans Mayer ist \u005cHIDE{ein kompetenter Techniker}.
+p131
+aa(lp132
+VHeinrich Müller \u005cBOLD{devient de plus en plus connu} dans les milieux de la recherche informatique.
+p133
+aVHeinrich Müller \u005cHIDE{wird immer bekannter} in den Kreisen der Informatik-Forschung.
+p134
+aa(lp135
+VJe ne suis \u005cBOLD{pas un spécialiste} de la Grèce antique.
+p136
+aVIch bin \u005cHIDE{kein Spezialist} des antiken Griechenlands.
+p137
+aa(lp138
+VLe résultat des opérations \u005cBOLD{est à peu près celui} que nous avons prévu.
+p139
+aVDas Resultat der Operationen ist \u005cHIDE{das, was} wir erwartet haben.
+p140
+aa(lp141
+VCette jeune dame \u005cBOLD{semble fatiguée}.
+p142
+aVDiese junge Dame \u005cHIDE{scheint müde zu sein}.
+p143
+aa(lp144
+VCes difficultés \u005cBOLD{s'avèrent particulièrement sérieuses}.
+p145
+aVDiese Schwierigkeiten \u005cHIDE{erweisen sich als besonders ernst}.
+p146
+aa(lp147
+VNotre nouveau directeur \u005cBOLD{n'est pas un bon communicateur}, mais il passe pour un grand ingénieur.
+p148
+aVUnser neuer Direktor \u005cHIDE{ist kein guter Manager}, gilt aber als großer Ingenieur
+p149
+aa(lp150
+VVérone est \u005cBOLD{un noeud ferroviaire souvent saturé}.
+p151
+aVVerona ist ein \u005cHIDE{oft (ou häufig) saturierter Eisenbahnknotenpunkt}.
+p152
+aa(lp153
+VLa directrice du service marketing \u005cBOLD{me semble plutôt dynamique}.
+p154
+aVDie Direktorin der Marketingabteilung \u005cHIDE{scheint mir dynamisch zu sein}.
+p155
+aa(lp156
+VNotre époque est marquée \u005cBOLD{par une crise économique durable}.
+p157
+aVUnsere Epoche ist \u005cHIDE{von einer dauerhaften Wirtschaftskrise} geprägt.
+p158
+aa(lp159
+VL'esprit de notre époque est marqué \u005cBOLD{par le culte des apparences}.
+p160
+aVUnser Zeitgeist ist \u005cHIDE{vom Kult der Erscheinung} geprägt.
+p161
+aa(lp162
+VLa vue est \u005cBOLD{sublime}.
+p163
+aVDie Aussicht \u005cHIDE{ist überwältigend}.
+p164
+aa(lp165
+VJe trouve cette affirmation \u005cBOLD{exagérée}.
+p166
+aVIch finde diese Behauptung \u005cHIDE{übertrieben}.
+p167
+aa(lp168
+VLe champ de compétences \u005cBOLD{du directeur commercial} doit être mieux délimité.
+p169
+aVDer Kompetenzbereich \u005cHIDE{des kaufmännischen Direktors} muss besser abgegrenzt werden.
+p170
+aa(lp171
+VCeci n'est pas compatible avec les principes \u005cBOLD{d'une constitution démocratique}.
+p172
+aVDies ist mit den Grundsätzen \u005cHIDE{einer demokratischen Verfassung} unvereinbar.
+p173
+aa(lp174
+V\u005cBOLD{Un jour}, la situation explosera.
+p175
+aV\u005cHIDE{Eines Tages} wird die Situation explodieren.
+p176
+aa(lp177
+V\u005cBOLD{Un beau matin}, Müller apprit que l'entreprise de son père était en faillite.
+p178
+aV\u005cHIDE{Eines Morgens} erfuhr Müller, dass die Firma seines Vaters pleite war.
+p179
+aa(lp180
+VJe préfère m'abstenir \u005cBOLD{de tout commentaire}.
+p181
+aVIch ziehe es vor, mich \u005cHIDE{jeden Kommentars} zu enthalten.
+p182
+aa(lp183
+VJe veux bien m'occuper \u005cBOLD{de cette affaire délicate}.
+p184
+aVIch will mich gerne \u005cHIDE{dieser heiklen Sache} annehmen.
+p185
+aa(lp186
+VCe n'est pas le rôle de notre banque d'avoir pitié \u005cBOLD{d'un client insolvable}.
+p187
+aVEs gehört nicht zur Rolle unserer Bank, sich \u005cHIDE{eines insolventen Kunden} zu erbarmen.
+p188
+aa(lp189
+VCette décision \u005cBOLD{du} gouvernement sera contestée \u005cBOLD{par les} syndicats.
+p190
+aVDiese Entscheidung \u005cHIDE{der} Regierung wird \u005cHIDE{von den} Gewerkschaften beanstandet werden.
+p191
+aa(lp192
+VNous sommes réunis ici pour commémorer \u005cBOLD{certains événements tragiques}.
+p193
+aVWir sind hier versammelt, um \u005cHIDE{gewisser tragischer Ereignisse} zu gedenken.
+p194
+aa(lp195
+V\u005cBOLD{Un soir}, il découvrit à la télévision le Musée d'art contemporain de Prague.
+p196
+aV\u005cHIDE{Eines Abends} entdeckte er im Fernsehen das Prager Museum für moderne Kunst.
+p197
+aa(lp198
+VE. Hillary est considéré comme \u005cBOLD{le vainqueur du mont Everest}.
+p199
+aVE. Hillary gilt als \u005cHIDE{der Bezwinger des Mount Everest}.
+p200
+aa(lp201
+V\u005cBOLD{Les ressources nécessaires} nous manquent pour nous engager dans ce projet.
+p202
+aVWir entbehren \u005cHIDE{der nötigen Mittel}, um uns für dieses Projekt zu engagieren.
+p203
+aa(lp204
+VNous pouvons considérer son geste comme \u005cBOLD{un signe de gratitude}.
+p205
+aVWir können seine Geste als \u005cHIDE{Zeichen der Dankbarkeit} auffassen (ou werten).
+p206
+aa(lp207
+VJe me souviens \u005cBOLD{d'un cas semblable}.
+p208
+aVIch entsinne mich \u005cHIDE{eines ähnlichen Falles}.
+p209
+aa(lp210
+VL'opinion \u005cBOLD{de telles personnes} ne nous intéresse pas.
+p211
+aVDie Meinung \u005cHIDE{solcher Leute} interessiert uns nicht.
+p212
+aa(lp213
+VIl travaille \u005cBOLD{chaque dimanche}.
+p214
+aVEr arbeitet \u005cHIDE{jeden Sonntag}.
+p215
+aa(lp216
+VEn revanche, \u005cBOLD{chaque deuxième} jeudi et \u005cBOLD{chaque troisième} vendredi du mois, il est en congé.
+p217
+aVDagegen hat er \u005cHIDE{jeden zweiten} Donnerstag und \u005cHIDE{jeden dritten} Freitag frei.
+p218
+aa(lp219
+VIl va \u005cBOLD{tous les jours} au théâtre pour voir la même pièce.
+p220
+aVEr geht \u005cHIDE{jeden Tag} ins Theater, um das gleiche (selbe) Stück zu sehen.
+p221
+aa(lp222
+VIl connaît \u005cBOLD{sans doute} la pièce par coeur.
+p223
+aV\u005cHIDE{Ohne Zweifel} kennt er das Stück auswendig.
+p224
+aa(lp225
+V\u005cBOLD{Lundi}, il faisait chaud, comme \u005cBOLD{tout le mois de juillet}.
+p226
+aV\u005cHIDE{(Am) Montag} war es heiß, wie \u005cHIDE{den ganzen Juli}.
+p227
+aa(lp228
+VJe déteste l'été, parce que \u005cBOLD{tous les jours}, il fait chaud.
+p229
+aVIch hasse den Sommer, weil es \u005cHIDE{jeden Tag} heiß ist.
+p230
+aa(lp231
+VComme \u005cBOLD{tous les ans à cette période}, les lycéens et étudiants font grève.
+p232
+aVWie \u005cHIDE{jedes Jahr zu (!) dieser Zeit} streiken die Gymnasiasten und Studenten.
+p233
+aa(lp234
+V\u005cBOLD{Ce mois-ci}, nous devons nous attendre à de nouvelles grèves.
+p235
+aV\u005cHIDE{Diesen Monat} müssen wir neue (weitere) Streiks erwarten.
+p236
+aa(lp237
+V(Datation d'une lettre) Paris, \u005cBOLD{le} 31 août 2006.
+p238
+aVParis, \u005cHIDE{den 31.} August 2006.
+p239
+aa(lp240
+V\u005cBOLD{Pendant un mois entier}, je me suis occupé de ce projet.
+p241
+aV\u005cHIDE{Einen ganzen Monat (lang)} habe ich mich um dieses Projekt gekümmert.
+p242
+aa(lp243
+VMa mission dure environ \u005cBOLD{la moitié d'un mois}.
+p244
+aVMeine Mission dauert ungefähr \u005cHIDE{einen halben Monat}.
+p245
+aa(lp246
+VJe ne vois pas de solution \u005cBOLD{à cette crise}.
+p247
+aVIch sehe keine Lösung \u005cHIDE{für diese Krise}.
+p248
+aa(lp249
+VMayer peut réparer l'ordinateur \u005cBOLD{de manière provisoire}.
+p250
+aVMayer kann den Computer \u005cHIDE{provisorisch} reparieren.
+p251
+aa(lp252
+VL'appareil fonctionnera alors \u005cBOLD{pendant deux mois}.
+p253
+aVDer Apparat wird dann \u005cHIDE{zwei Monate (lang)} funktionieren.
+p254
+aa(lp255
+V\u005cBOLD{Pendant trois longues années}, nous étions absents.
+p256
+aV\u005cHIDE{Drei lange Jahre} waren wir abwesend.
+p257
+aa(lp258
+V\u005cBOLD{Le premier mois}, il avait du mal à s'habituer au climat.
+p259
+aV\u005cHIDE{Den ersten Monat} hatte er es schwer, sich an das Klima zu gewöhnen.
+p260
+aa(lp261
+V\u005cBOLD{Le premier mois}, vous suivrez un stage de communication.
+p262
+aV\u005cHIDE{Den ersten Monat} werden Sie einen Lehrgang in Kommunikation absolvieren.
+p263
+aa(lp264
+V\u005cBOLD{Ce mois-ci}, nous nous reverrons.
+p265
+aV\u005cHIDE{Diesen Monat} werden wir uns wiedersehen.
+p266
+aa(lp267
+VNous nous reverrons \u005cBOLD{le mois prochain}.
+p268
+aVWir werden uns \u005cHIDE{nächsten Monat} wiedersehen.
+p269
+aa(lp270
+VNous nous reverrons \u005cBOLD{le mois prochain}.
+p271
+aVWir werden uns \u005cHIDE{nächsten Monat} treffen.
+p272
+aa(lp273
+VNous nous rencontrerons \u005cBOLD{lundi prochain}.
+p274
+aVWir werden uns \u005cHIDE{(am) Montag} treffen.
+p275
+aa(lp276
+VJe ne peux pas \u005cBOLD{vous} aider.
+p277
+aVIch kann \u005cHIDE{Ihnen} nicht helfen.
+p278
+aa(lp279
+VMon oncle ressemble \u005cBOLD{au dernier} empereur de Chine.
+p280
+aVMein Onkel ähnelt \u005cHIDE{dem letzten} Kaiser von China.
+p281
+aa(lp282
+VDevenir moine ou religieuse signifie renoncer \u005cBOLD{au monde}.
+p283
+aVMönch oder Nonne werden bedeutet \u005cHIDE{der Welt} zu entsagen.
+p284
+aa(lp285
+VCe château appartient \u005cBOLD{à un aristocrate ruiné}.
+p286
+aVDieses Schloss gehört \u005cHIDE{einem ruinierten Adligen|Aristokraten}.
+p287
+aa(lp288
+VLe président a félicité \u005cBOLD{le ministre des Affaires étrangères}.
+p289
+aVDer Präsident hat \u005cBOLD{dem Außenminister} gratuliert.
+p290
+aa(lp291
+VLa direction envisage de licencier \u005cBOLD{l'ingénieur Müller}.
+p292
+aVDie Direktion zieht in Betracht, \u005cHIDE{dem Ingenieur Mayer} zu kündigen (ou \u005cHIDE{den Ingenieur Mayer} zu entlassen).
+p293
+aa(lp294
+VNous avons échappé \u005cBOLD{à un grand désastre}.
+p295
+aVWir sind \u005cHIDE{einem Desaster} entkommen.
+p296
+aa(lp297
+VVous pouvez \u005cBOLD{me} menacer autant que vous voulez, je ne \u005cBOLD{vous} obéirai pas.
+p298
+aVSie können \u005cHIDE{mir} drohen, wie Sie wollen, ich gehorche \u005cHIDE{Ihnen} nicht.
+p299
+aa(lp300
+VIl est intéressant de regarder \u005cBOLD{ce spectacle}.
+p301
+aVEs ist interessant, \u005cHIDE{diesem Schauspiel} zuzusehen.
+p302
+aa(lp303
+VIl est inutile de flatter \u005cBOLD{les incorruptibles}.
+p304
+aVEs ist zwecklos, \u005cHIDE{den (dat. pluriel) Unbestechlichen} zu schmeicheln.
+p305
+aa(lp306
+VLes faits contredisent \u005cBOLD{la théorie classique} de l'inflation.
+p307
+aVDie Tatsachen widersprechen \u005cHIDE{der klassischen Theorie} der Inflation.
+p308
+aa(lp309
+VLa commission d'enquête a approuvé \u005cBOLD{les comptes} de l'entreprise.
+p310
+aVDie Untersuchungskommission hat \u005cHIDE{der Abrechnung} des Unternehmens zugestimmt.
+p311
+aa(lp312
+VLa direction n'a pas suivi \u005cBOLD{les recommandations} de la commission d'experts.
+p313
+aVDie Direktion ist den Empfehlungen \u005cHIDE{der Sachverständigenkommission} nicht gefolgt.
+p314
+aa(lp315
+VIl est fatigant d'assister \u005cBOLD{à cette cérémonie interminable}.
+p316
+aVEs ist ermüdend, \u005cHIDE{dieser endlosen Zeremonie} beizuwohnen.
+p317
+aa(lp318
+VDe telles plaisanteries ne plaisent pas \u005cBOLD{à tout le monde}.
+p319
+aVSolche Scherze gefallen nicht \u005cHIDE{jedem}.
+p320
+aa(lp321
+VNous \u005cBOLD{vous} apportons une excellente nouvelle.
+p322
+aVWir bringen \u005cHIDE{Ihnen} eine ausgezeichnete Nachricht.
+p323
+aa(lp324
+VGrâce à un vice de forme, il a échappé \u005cBOLD{à la condamnation}.
+p325
+aVDank eines Formfehlers entkam\u005cBOLD{entging er \u005cHIDE{der (dat.) Verurteilung}.}entging er \u005cHIDE{der (dat.) Verurteilung}.
+p326
+aa(lp327
+VJe \u005cBOLD{vous} remercie de vos précieuses remarques.
+p328
+aVIch danke \u005cHIDE{Ihnen (dat.)} für Ihre wertvollen Bemerkungen.
+p329
+aa(lp330
+VNous pensons souvent \u005cBOLD{à vous} (forme de politesse, sing.).
+p331
+aVWir denken oft \u005cHIDE{an (!) Sie}.
+p332
+aa(lp333
+VIl travaille \u005cBOLD{à un projet prometteur}.
+p334
+aVEr arbeitet \u005cHIDE{an (!) einem vielversprechendem Projekt}.
+p335
+aa(lp336
+VVous devez aussi faire attention \u005cBOLD{à des petits détails}.
+p337
+aVSie müssen auch \u005cHIDE{auf kleine Einzelheiten} Acht geben.
+p338
+aa(lp339
+VDurant les négociations, des tensions entre les délégations chinoise et vietnamienne \u005cBOLD{ont percé au grand jour}.
+p340
+aVWährend der Verhandlungen sind Spannungen zwischen der chinesischen und der vietnamesischen Delegation \u005cHIDE{zum Vorschein gekommen}.
+p341
+aa(lp342
+VMalgré la bonne volonté de la direction, les délégués du personnel refusent \u005cBOLD{pour l'instant} tout compromis.
+p343
+aVTrotz des guten Willens der Unternehmensleitung verweigern der Betriebsrat \u005cHIDE{jeglichen} Kompromiss.
+p344
+aa(lp345
+VTout cela est arrivé \u005cBOLD{à cause de la mauvaise organisation du congrès}.
+p346
+aVAll das ist wegen \u005cHIDE{der schlechten Organisation des Kongresses} passiert.
+p347
+aa(lp348
+VNous nous sommes suffisamment disputés \u005cBOLD{à propos de ce sujet pénible}.
+p349
+aVWir haben uns \u005cHIDE{über dieses leidige Thema} genug gestritten.
+p350
+aa(lp351
+VDans nos réunions, le directeur de la distribution est habituellement assis \u005cBOLD{en face du chef comptable}.
+p352
+aVWährend unserer Konferenzen sitzt der Vertriebsdirektor meistens \u005cHIDE{dem Chefbuchhalter gegenüber}.
+p353
+aa(lp354
+VIl s'agit non pas \u005cBOLD{de la perte} de ce client, mais \u005cBOLD{de votre propre incompétence}.
+p355
+aVEs geht hier nicht \u005cHIDE{um den Verlust} eines Kunden, sondern \u005cHIDE{um ihre eigene} Unfähigkeit.
+p356
+aa(lp357
+VJe ne suis pas contre ce projet \u005cBOLD{en soi}. Mais sans un minimum de mesures de précaution, l'échec est inévitable.
+p358
+aVIch bin nicht gegen dieses Projekt \u005cHIDE{als solches}. Aber ohne ein Minimum von Vorsichtsmassnahmen wäre das Scheitern unvermeidlich.
+p359
+aa(lp360
+VLe trésorier parlera \u005cBOLD{après le secrétaire général}.
+p361
+aVDer Schatzmeister wird \u005cHIDE{nach dem Generalsekretär} sprechen.
+p362
+aa(lp363
+VJe \u005cBOLD{n'ai jamais} entendu parler \u005cBOLD{de} cette entreprise.
+p364
+aVIch habe \u005cHIDE{noch nie etwas von} diesem Unternehmen gehört.
+p365
+aa(lp366
+VIl regrette sincèrement l'attitude qu'il est obligé d'observer \u005cBOLD{vis-à-vis de vous}.
+p367
+aVEr bedauert aufrichtig die Haltung, die er \u005cHIDE{Ihnen gegenüber} zeigen muss.
+p368
+aa(lp369
+V\u005cBOLD{Plus qu'un ordinateur plus performant}, nous aurions besoin de collaborateurs motivés et Imaginatifs.
+p370
+aV\u005cHIDE{Anstelle eines neuen, leistungsfähigeren Computers} brauchen wir eher motivierte und einfallsreiche Mitarbeiter.
+p371
+aa(lp372
+VDepuis notre fusion avec la société USW, les effectifs se montrent méfiants \u005cBOLD{à l'égard de la direction}.
+p373
+aVSeit unserer Fusion mit der Gesellschaft USW zeigt sich die Belegschaft \u005cHIDE{der Direktion gegenüber} misstrauisch.
+p374
+aa(lp375
+VJe ne sais pas si je peux collaborer \u005cBOLD{avec ce monsieur}.
+p376
+aVIch weiß nicht, ob ich \u005cHIDE{mit diesem Herrn} zusammenarbeiten kann.
+p377
+aa(lp378
+VMalgré des conditions atmosphériques défavorables, le syndicat des vignerons de la région s'attend \u005cBOLD{à une année extraordinaire}.
+p379
+aVTrotz \u005cHIDE{ungünstiger Wetterbedingungen} verspricht sich der Winzerverband der Gegend \u005cHIDE{einen guten Jahrgang}.
+p380
+aa(lp381
+VJe l'ai appris \u005cBOLD{par l'intermédiaire du nouveau client}.
+p382
+aVIch habe das \u005cHIDE{durch den neuen Kunden} erfahren.
+p383
+aa(lp384
+V\u005cBOLD{Sans votre aide précieuse}, nous n'aurions \u005cBOLD{pas avancé si vite}.
+p385
+aV\u005cHIDE{Ohne Ihre wertvolle Hilfe} wären wir nicht \u005cHIDE{so schnell vorwärts gekommen}.
+p386
+aa(lp387
+V\u005cBOLD{A l'occasion de la dernière assemblée générale}, les statuts de la société furent légèrement modifiés.
+p388
+aV\u005cHIDE{Angelegentlich der letzten Vollversammlung} wurde die Satzung der Gesellschaft leicht geändert.
+p389
+aa(lp390
+V\u005cBOLD{Mis à part l'installation} d'un dispositif vidéo-surveillance performant, la compagnie d'assurances exige la présence permanente de vigiles sur le site.
+p391
+aV\u005cHIDE{Außer der Einrichtung} einer leistungsfähigen Videoüberwachungs-Anlage fordert die Versicherungsgesellschaft die ständige Anwesendheit von Wachleuten auf dem Gelände.
+p392
+aa(lp393
+VNotre système de vidéo-surveillancè est équipé \u005cBOLD{de caméras performantes}.
+p394
+aVUnsere Videoüberwachungs-Anlage ist \u005cHIDE{mit leistungsfähigen Kameras} ausgerüstet.
+p395
+aa(lp396
+VDepuis quelque temps, certains pays du tiers-monde s'intéressent \u005cBOLD{à des questions touchant à l'environnement}.
+p397
+aVSeit einiger Zeit interessieren sich gewisser Länder der Dritten Welt \u005cHIDE{für Umweltfragen}.
+p398
+aa(lp399
+VDes lacunes dans cette documentation \u005cBOLD{nous empêchent de nous former} une opinion globale.
+p400
+aVGewisse Lücken in dieser Dokumentation \u005cHIDE{hindern mich daran, mir} eine umfassende Meinung \u005cHIDE{zu bilden}.
+p401
+aa(lp402
+V\u005cBOLD{Derrière le prétexte humanitaire} de l'opération se cachent des motifs économiques.
+p403
+aV\u005cHIDE{Hinter dem humanitären Vorwand} der Operation verbergen sich wirtsctiaftliche Motive.
+p404
+aa(lp405
+VJe dois insister \u005cBOLD{sur un point important} de l'affaire.
+p406
+aVIch muss \u005cHIDE{auf einen wichtigen Punkt} dieser Sache (ou Angelegenheit) besonders eingehen.
+p407
+aa(lp408
+VJe pense surtout \u005cBOLD{au gain de prestige} que cette opération nous apporte.
+p409
+aVIch denke vor allem \u005cHIDE{an den Prestigegewinn}, den uns diese Operation einbringt.
+p410
+aa(lp411
+VLe directeur technique voudrait revenir \u005cBOLD{sur la nécessité} de remplacer le parc de machines obsolète.
+p412
+aVDer technische Direktor würde gerne auf \u005cHIDE{die Notwendigkeit zurückkommen}, den übeholten Maschinenpark zu ersetzen.
+p413
+aa(lp414
+V\u005cBOLD{Dans sa situation}, il n'a pas d'autre choix que de démissionner.
+p415
+aV\u005cHIDE{In seiner Lage bleibt} ihm keine andere Wahl, als zurückzutreten.
+p416
+aa(lp417
+VJe me souviens \u005cBOLD{d'un cas semblable}.
+p418
+aVIch erinnere mich \u005cHIDE{an einen ähnlichen Fall}.
+p419
+aa(lp420
+VVotre nouvelle attitude vous ramènera \u005cBOLD{vers le droit chemin}.
+p421
+aVIhre neue Haltung wird Sie \u005cHIDE{zum rechten Weg} zurückführen.
+p422
+aa(lp423
+VDans votre position, vous devez croire \u005cBOLD{à l'avenir} de l'entreprise.
+p424
+aVIn Ihrer Stellung müssen Sie \u005cHIDE{an die Zukunft} des Unternehmens glauben.
+p425
+aa(lp426
+VDes panneaux bien visibles \u005cBOLD{indiquent la présence d'un virage dangereux}.
+p427
+aVGut sichtbare Schilder \u005cHIDE{weisen auf eine gefährliche Kurve hin}.
+p428
+aa(lp429
+VNous devrions nous orienter \u005cBOLD{d'après les nouvelles directives} de la Commission europeenne.
+p430
+aVWir sollten uns \u005cHIDE{nach den Richtlinien} der Europäischen Kommission orientieren.
+p431
+aa(lp432
+VToute son argumentation se base \u005cBOLD{sur ce point}.
+p433
+aVSeine ganze Argumentation basiert \u005cHIDE{auf diesem Punkt}.
+p434
+aa(lp435
+V\u005cBOLD{A part ce thème fâcheux}, nous aborderons des affaires plus plaisantes.
+p436
+aV\u005cHIDE{Neben diesem leidigen Thema} werden wir auch erfreulichere Sachen anschneiden.
+p437
+aa(lp438
+VQu'entendez-vous \u005cBOLD{par une solution raisonnable} ?
+p439
+aVWas verstehen Sie \u005cHIDE{unter einer vernünftigen Lösung} ?
+p440
+aa(lp441
+VJe me sens partagé \u005cBOLD{entre de prises de position contradictoires}.
+p442
+aVIch fühle mich \u005cHIDE{zwischen widersprüchlichen Stellungnahmen (dat. pluriel)} hin und hergerissen.
+p443
+aa(lp444
+VJ'arrive maintenant \u005cBOLD{à l'essentiel}.
+p445
+aVIch komme jetzt \u005cHIDE{zum Wesentlichen}.
+p446
+aa(lp447
+VEn France, le président de la République est \u005cBOLD{élu au suffrage universel}.
+p448
+aVIn Frankreich wird der Staatspräsident \u005cHIDE{in direkter Wahl gewählt}.
+p449
+aa(lp450
+VDans une semaine, il sera trop tard \u005cBOLD{pour faire quelque chose}.
+p451
+aVIn einer Woche wird es zu spät sein, \u005cHIDE{um noch etwas zu machen}.
+p452
+aa(lp453
+VDans une semaine, il sera trop tard \u005cBOLD{pour pouvoir faire quelque chose}.
+p454
+aVIn einer Woche wird es zu spät sein, \u005cHIDE{um noch etwas machen zu können}.
+p455
+aa(lp456
+VLa réforme des retraites \u005cBOLD{ne peut pas plaire à tout le monde}. Mais l'unanimité politique n'est pas possible.
+p457
+aVDie Rentenreform \u005cHIDE{kann nicht allen gefallen}. Aber politische Einstimmigkeit ist nicht möglich.
+p458
+aa(lp459
+VMais, dans ce domaine, \u005cBOLD{l'unanimité} n'est pas possible.
+p460
+aVAber auf diesem Gebiet ist \u005cHIDE{Einstimmigkeit} nicht möglich.
+p461
+aa(lp462
+VDepuis deux ans, \u005cBOLD{nous affrontons une situation difficile}.
+p463
+aVSeit zwei Jahren \u005cHIDE{stehen wir einer schwierigen Lage gegenüber}.
+p464
+aa(lp465
+VEt juste maintenant, notre client principal \u005cBOLD{se trouve en cessation de paiement}.
+p466
+aVUnd gerade jetzt \u005cHIDE{stellt unser Hauptkunde die Zahlungen ein}.
+p467
+aa(lp468
+V\u005cBOLD{Pour réussir à mes examens}, je dois travailler davantage.
+p469
+aV\u005cHIDE{Um meine Examen zu bestehen}, muss ich mehr arbeiten.
+p470
+aa(lp471
+VAujourd'hui, je n'ai pas eu le temps de réfléchir à ta dernière proposition.
+p472
+aVHeute habe ich keine Zeit gehabt, um über deinen letzten Vorschlag nachzudenken.
+p473
+aa(lp474
+VTu dois écouter la météo, car en Méditerranée, le temps peut \u005cBOLD{changer d'un moment à l'autre}.
+p475
+aVDu musst (dir) den Wetterbericht anhören, denn im Mittelmeer kann das Wetter \u005cBOLD{von einem Augenblick zum andern umschlagen}.
+p476
+aa(lp477
+VLa commission n'a pas pu se réunir, mais elle \u005cBOLD{reprendra ses travaux} probablement demain.
+p478
+aVDie Kommission hat sich nicht versammeln können, aber sie wird wahrscheinlich morgen \u005cHIDE{ihre Arbeit wieder aufnehmen}.
+p479
+aa(lp480
+VDepuis quelques années déjà, il n'est plus d'accord \u005cBOLD{avec les orientations de conseil d'administration}.
+p481
+aVSeit einigen Jahren schon ist er \u005cHIDE{mit den Orientierungen des Verwaltungsrates} nicht mehr einverstanden.
+p482
+aa(lp483
+VIls avaient \u005cBOLD{investi beaucoup argent} dans ce projet. Leur déception est \u005cBOLD{d'autant plus grande}.
+p484
+aVSie hatten in dieses Projekt \u005cHIDE{viel Geld hineingesteckt}. Ihre Enttäuschung \u005cHIDE{ist um so größer}.
+p485
+aa(lp486
+VJe dois aussi \u005cBOLD{prendre en considération l'avis de vos adversaires}.
+p487
+aVIch muss auch \u005cHIDE{auf die Meinung Ihrer Gegner eingehen}.
+p488
+aa(lp489
+VII m'est difficile de \u005cBOLD{prendre au sérieux ce genre de propos}.
+p490
+aVEs fällt mir schwer, \u005cHIDE{diese Sorte von Äußerungen ernst zu nehmen}.
+p491
+aa(lp492
+VMes parents vivent \u005cBOLD{depuis bientôt} dix ans en Norvège.
+p493
+aVMeine Eltern leben \u005cHIDE{seit bald} zehn Jahren in Norwegen.
+p494
+aa(lp495
+VMais ma mère \u005cBOLD{n'a toujours pas pu s'habituer} à la mentalité des Scandinaves.
+p496
+aVAber meine Mutter \u005cHIDE{hat} sich immer noch nicht an die Mentalität der Skandinavier \u005cHIDE{gewöhnen können}.
+p497
+aa(lp498
+V\u005cBOLD{Lui aussi} est considéré comme un expert compétent.
+p499
+aV\u005cHIDE{Auch er gilt} als kompetenter Sachverständiger.
+p500
+aa(lp501
+V\u005cBOLD{Il est} aussi considéré comme un expert compétent.
+p502
+aV\u005cHIDE{Auch gilt er} als kompetenter Sachverständiger.
+p503
+aa(lp504
+VJ'ai vu la catastrophe arriver. Mais personne \u005cBOLD{n'a voulu m'écouter}.
+p505
+aVIch habe die Katastrophe kommen sehen. Aber keiner (niemand) \u005cHIDE{hat mich anhören wollen}.
+p506
+aa(lp507
+VL'année dernière, il a eu raison d'être prudent, car la conjoncture économique \u005cBOLD{a en empiré}.
+p508
+aVLetztes Jahr hat er rechtgehabt, vorsichtig zu sein, denn die wirtschaftliche Konjunktur \u005cHIDE{hat sich verschlechtert}.
+p509
+aa(lp510
+VA mon avis, ce malentendu \u005cBOLD{aurait pu être évité}.
+p511
+aVMeiner Meinung nach \u005cHIDE{hätte} dieses Missverständnis \u005cHIDE{vermieden werden können}.
+p512
+aa(lp513
+VIl est temps d'entreprendre \u005cBOLD{quelque chose de constructif}.
+p514
+aVEs wird Zeit, \u005cHIDE{etwas Konstruktives} zu unternehmen.
+p515
+aa(lp516
+VNous devons d'abord \u005cBOLD{attendre la décision} du chef de service.
+p517
+aVWir müssen erst \u005cHIDE{die Entscheidung} des Abteilungsleiters \u005cHIDE{abwarten}.
+p518
+aa(lp519
+VMalgré leur droit et de vote, de nombreux citoyens \u005cBOLD{considèrent} notre démocratie \u005cBOLD{comme imparfaite}.
+p520
+aVTrotz ihres Wahlrechts \u005cHIDE{halten} viele Staatsbürger unsere Demokratie \u005cHIDE{für unvollkommen}.
+p521
+aa(lp522
+VJe ne suis pas venu pour \u005cBOLD{me disputer avec vous}.
+p523
+aVIch bin nicht gekommen, um \u005cHIDE{mich mit Ihnen zu streiten}.
+p524
+aa(lp525
+VCette affaire \u005cBOLD{est terminée} avant d'avoir commencé.
+p526
+aVDiese Angelegenheit \u005cHIDE{ist beendet}, bevor sie angefangen hat.
+p527
+aa(lp528
+VIl dit \u005cBOLD{qu'il arrive demain}.
+p529
+aVEr sagt, \u005cHIDE{er käme morgen}.
+p530
+aa(lp531
+VSi seulement \u005cBOLD{j'avais} mieux préparé mon examen, \u005cBOLD{je n'aurais pas} échoué.
+p532
+aV\u005cHIDE{Hätte ich} nur mein Examen besser vorbereitet, \u005cHIDE{ich wäre dann nicht} durchgefallen.
+p533
+aa(lp534
+V\u005cBOLD{Si la Pologne rejetait le traité simplifié de l'Union européenne}, cela signignifierait un nouvel échec pour la diplomatie française.
+p535
+aV\u005cHIDE{Polen den vereinfachten Vertrag der Europäischen Union ablehnen}, wäre das ein Fehlschlag für die französische Außenpolitik.
+p536
+aa(lp537
+VOui, \u005cBOLD{la situation est assez sérieuse}.
+p538
+aVJa, \u005cHIDE{die Lage ist ziemlich ernst}.
+p539
+aa(lp540
+VEn été, le travail saisonnier \u005cBOLD{entraîne} une baisse éphémère du chômage.
+p541
+aVIm Sommer \u005cHIDE{bewirkt} die Saisonarbeit einen vorrübergehenden Rückgang der Arbeitslosigkeit.
+p542
+aa(lp543
+V\u005cBOLD{Or, dès que l'automne arrive}, le nombre de chômeurs augmente à nouveau.
+p544
+aV\u005cHIDE{Doch kommt erst der Herbst}, dann steigt die Zahl der Arbeitslosen wieder an.
+p545
+aa(lp546
+V\u005cBOLD{Eh bien,} vous m'avez réellement déçu.
+p547
+aV\u005cHIDE{Nun,} Sie haben mich schwer enttäuscht.
+p548
+aa(lp549
+VSi j'avais l'argent nécessaire, \u005cBOLD{je serais capable} de le placer judicieusement.
+p550
+aVWenn ich das nötige Geld hätte, \u005cHIDE{wäre ich in der Lage}, es sinnvoll anzulegen.
+p551
+aa(lp552
+VDepuis le début des années 1980, l'économie \u005cBOLD{domine} une grande partie de notre pensée quotidienne.
+p553
+aVSeit Anfang der Achtzigerjahre \u005cHIDE{beherrscht} die Wirtschaft einen großen Teil unseres täglichen Denkens.
+p554
+aa(lp555
+VLes négociations avec les syndicats ont \u005cBOLD{à nouveau} échoué.
+p556
+aVDie Verhandlungen mit den Gewerkschaften sind \u005cHIDE{erneut} gescheitert.
+p557
+aa(lp558
+VIl n'est \u005cBOLD{pas toujours facile} de Je négocier avec les syndicats.
+p559
+aVEs ist nicht \u005cHIDE{immer einfach|leicht}, mit den Gewerkschaften zu verhandeln.
+p560
+aa(lp561
+VNous \u005cBOLD{devons au} progrès scientifique et technologique nos conditions de vie \u005cBOLD{particulièrement favorables}.
+p562
+aVWir \u005cHIDE{verdanken dem} wissenschaftlichen und technischen Fortschritt unsere \u005cHIDE{außerordentlich günstigen} Lebensbedingungen.
+p563
+aa(lp564
+V\u005cBOLD{Avec ce genre d'entreprise}, il n'est pas question de faire des affaires.
+p565
+aV\u005cHIDE{Mit dieser Sorte (von) Unternehmen} kommt es nicht in Frage, Geschäfte zu machen.
+p566
+aa(lp567
+VJe donne une dernière chance à l'ingénieur Mayer pour \u005cBOLD{redresser la situation}.
+p568
+aVIch gebe dem Ingenieur Mayer eine letzte Chance, \u005cHIDE{die Situation wieder in Ordnung zu bringen}.
+p569
+aa(lp570
+VJe \u005cBOLD{me consacre entièrement} à ma tâche de redresser les finances.
+p571
+aVIch \u005cHIDE{widme mich ganz} meiner Aufgabe, die Finanzen zu sanieren.
+p572
+aa(lp573
+VNous devons encore \u005cBOLD{soumettre} notre projet \u005cBOLD{au} ministère compétent.
+p574
+aVWir müssen noch unser Projekt \u005cHIDE{dem} zuständig\u005cHIDE{en} Ministerium \u005cHIDE{unterbreiten}.
+p575
+aa(lp576
+VA cause de la TVA, nous donnons tous les jours \u005cBOLD{une partie considérable} de notre argent à l'Etat.
+p577
+aVWegen der Mehrwertsteuer geben wir jeden Tag dem Staat \u005cHIDE{einen beträchtlichen Anteil} unseres Geldes.
+p578
+aa(lp579
+VJe participe à un congrès \u005cBOLD{au Portugal}.
+p580
+aVIch nehme an einem Kongress \u005cHIDE{in Portugal} teil.
+p581
+aa(lp582
+VAu Portugal, je participe à un congrès.
+p583
+aVIch nehme \u005cHIDE{in Portugal an einem Kongress} teil.
+p584
+aV\u005cHIDE{In Portugal} nehme ich \u005cHIDE{an einem Kongress} teil.
+p585
+aa(lp586
+VEn été, notre entreprise organise \u005cBOLD{surtout} des excursions à la montagne.
+p587
+aVIm Sommer organisiert unser unternehmen \u005cHIDE{vor allem} Ausflüge ins Gebirge.
+p588
+aa(lp589
+VMüller fait son possible pour \u005cBOLD{contrecarrer} les projets de Mayer.
+p590
+aVMüller tut sein Möglichstes, um Mayers Projekt \u005cHIDE{in die Quere zu kommen}.
+p591
+aa(lp592
+VLa direction de l'entreprise \u005cBOLD{qualifie} cette grève \u005cBOLD{d'irresponsabilité économique}.
+p593
+aVDie Unternehmensleitung \u005cHIDE{bezeichnet} diesen Streik \u005cHIDE{als wirtschaftliche Werantwortungslosigkeit}.
+p594
+aa(lp595
+VLes bananes \u005cBOLD{des Antilles} françaises sont subventionnées.
+p596
+aVDie Bananen \u005cHIDE{von den französischen Antillen} sind|werden subventioniert.
+p597
+aa(lp598
+VLa \u005cBOLD{faillite} de la société USW est ressentie \u005cBOLD{comme un échec pour} toute la branche.
+p599
+aVDer \u005cHIDE{Konkurs|die Pleite} der Firma USW wird \u005cBOLD{als Niederlage für\u005cHIDE{ die ganze Branche empfunden.} die ganze Branche empfunden.}als Niederlage für\u005cHIDE{ die ganze Branche empfunden.} die ganze Branche empfunden.
+p600
+aa(lp601
+VAvec une douzaine de logiciels inutiles, \u005cBOLD{l'ordinateur de Maria} est \u005cBOLD{suréquipé}.
+p602
+aVMit einem Dutzend unnötiger Softwareprogramme ist \u005cHIDE{Marias Computer} \u005cHIDE{übermäßig ausgestattet}.
+p603
+aa(lp604
+VAvec une douzaine de logiciels inutiles, \u005cBOLD{l'ordinateur de mon chef} est \u005cBOLD{suréquipé}.
+p605
+aVMit einem Dutzend unnötiger Softwareprogramme ist \u005cHIDE{der Computer meines Chefs} \u005cHIDE{übermäßig ausgestattet}.
+p606
+aa(lp607
+VDans la plupart des Etats occidentaux, \u005cBOLD{la fonction} de président de la République est surtout représentative.
+p608
+aVIn den meisten westlichen Staaten ist \u005cHIDE{das Amt} des Präsidenten vor allem repräsentativ.
+p609
+aa(lp610
+VMais le président \u005cBOLD{des Etats-Unis} dispose d'un pouvoir considérable.
+p611
+aVAber der Präsident \u005cHIDE{der Vereinigten Staaten} verfügt über eine bedeutende Macht.
+p612
+aa(lp613
+VUne année après \u005cBOLD{la catastrophe ferroviaire}, une plaque commémorative en marbre rouge fut \u005cBOLD{dévoilée}.
+p614
+aVEin Jahr nach \u005cHIDE{dem Eisenbahnunglück} wurde eine Gedenktafel aus rotem Marmor \u005cHIDE{enthüllt}.
+p615
+aa(lp616
+VLe siècle des Lumières \u005cBOLD{coïncide en partie} avec le règne de Louis XV.
+p617
+aVDie Aufklärung \u005cHIDE{fällt teilweise} mit der Regierungszeit Ludwigs des Sechzehnten \u005cHIDE{zusammen}.
+p618
+aa(lp619
+VJe dois d'abord m'informer \u005cBOLD{sur cette affaire}.
+p620
+aVIch muss mich erst \u005cHIDE{über diese Angelegenheit} informieren.
+p621
+aa(lp622
+VLe chef de service vous \u005cBOLD{fournira} toutes les informations nécessaires.
+p623
+aVDer Abteilungsleiter wird Ihnen alle nötigen Informationen \u005cHIDE{geben|übermitteln}.
+p624
+aa(lp625
+VLe secrétaire général nous rendra visite. Nous \u005cBOLD{faisons de notre mieux} pour le recevoir avec les honneurs.
+p626
+aVDer Generalsekretär wird uns besuchen. Wir \u005cHIDE{tun unser Bestes}, um ihn mit allen Ehren zu empfangen.
+p627
+aa(lp628
+VMalheureusement, nous ne pouvons pas \u005cBOLD{donner suite} à votre demande.
+p629
+aVLeider können wir Ihrem Gesuch nicht \u005cHIDE{stattgeben}.
+p630
+aa(lp631
+VIl n'est pas possible de \u005cBOLD{prendre une telle décision} si rapidement.
+p632
+aVEs ist nicht möglich, \u005cHIDE{eine solche Entscheidung} so schnell zu \u005cHIDE{treffen}.
+p633
+aa(lp634
+VAucun ordinateur ne peut être réparé \u005cBOLD{avec un marteau}.
+p635
+aVKein Computer kann \u005cHIDE{mit einem Hammer} repariert werden.
+p636
+aa(lp637
+VJe ne viendrai pas \u005cBOLD{à la réunion} du conseil de surveillance.
+p638
+aVIch werde nicht \u005cHIDE{an der Sitzung} des Aufsichtsrats teilnehmen.
+p639
+aa(lp640
+VIl ne veut pas \u005cBOLD{se faire remarquer} dans cet environnement hostile.
+p641
+aVEr will in dieser feindlichen Umgebung nicht \u005cHIDE{auffallen}.
+p642
+aa(lp643
+VIl fait des efforts pour ne pas \u005cBOLD{attirer l'attention} dans cet environnement \u005cBOLD{hostile}.
+p644
+aVEr bemüht sich, um in dieser \u005cHIDE{feindlichen} Umgebung nicht \u005cHIDE{aufzufallen}.
+p645
+aa(lp646
+VCe logiciel ne représente pas \u005cBOLD{non plus} la meilleure solution.
+p647
+aVDiese Software stellt \u005cHIDE{auch nicht} die beste Lösung dar.
+p648
+aa(lp649
+VLe nouvel ingénieur \u005cBOLD{n'est apparemment pas capable} de réorganiser son service.
+p650
+aVDer neue Ingenieur \u005cHIDE{ist anscheinend nicht fähig|in der Lage}, seine Abteilung neu zu organisieren.
+p651
+aa(lp652
+VIl \u005cBOLD{vaut mieux} que nous ne nous \u005cBOLD{engagions} pas dans cette histoire.
+p653
+aVWir \u005cHIDE{lassen} uns \u005cHIDE{am besten} nicht in diese Geschichte \u005cHIDE{ein}.
+p654
+aa(lp655
+VLa situation n'est pas encore \u005cBOLD{mûre} pour prendre une décision.
+p656
+aVDie Situation ist noch nicht \u005cHIDE{reif}, um eine Entscheidung zu treffen.
+p657
+aa(lp658
+VJe ne l'ai pas vu, \u005cBOLD{hier}.
+p659
+aVIch habe ihn \u005cHIDE{gestern} nicht gesehen.
+p660
+aa(lp661
+VCela ne peut pas \u005cBOLD{avoir eu lieu} hier.
+p662
+aVDas kann nicht gestern \u005cHIDE{stattgefunden haben}.
+p663
+aa(lp664
+VCeci n'est \u005cBOLD{certainement pas} la bonne solution.
+p665
+aVDas ist \u005cHIDE{sicher nicht} die gute Lösung.
+p666
+aa(lp667
+VMalgré sa nervosité, Mayer est un collaborateur \u005cBOLD{fiable}.
+p668
+aVTrotz seiner Nervosität ist Mayer ein \u005cHIDE{zuverlässiger} Mitarbeiter.
+p669
+aa(lp670
+VBien que ses chances de réussite ne \u005cBOLD{fussent pas très élevées}, il ne devrait pas se laisser décourager.
+p671
+aVObwohl seine Erfolgsaussichten nicht \u005cHIDE{sehr hoch stehen}, sollte er sich nicht ermutigen lassen.
+p672
+aa(lp673
+VC'est vraiment dommage \u005cBOLD{quil ait raté cette occasion unique} de se familiariser avec la culture d'entreprise de notre principal concurrent.
+p674
+aVEs ist wirklich schade, \u005cHIDE{dass er diese einmalige Gelegenheit verpasst hat}, sich mit der Unternehmenskultur unseres Hauptkonkurrenten vertraut zu machen.
+p675
+aa(lp676
+VElle est désespérée que son fils \u005cBOLD{ait échoué} pour la troisième fois au baccalauréat.
+p677
+aVSie ist verzweifelt, dass ihr Sohn zum dritten Mal beim Abitur \u005cHIDE{durchgefallen ist}.
+p678
+aa(lp679
+VJe savais \u005cBOLD{dès le début} que ce projet n'allait jamais aboutir \u005cBOLD{à quoi que ce soit}.
+p680
+aVIch wusste \u005cHIDE{von Anfang an}, dass dieses Projekt \u005cHIDE{niemals zu irgend etwas} führen würde.
+p681
+aa(lp682
+VDepuis qu'il \u005cBOLD{s'est retiré à la campagne}, il se plaît dans le rôle d'un protecteur de l'environnement.
+p683
+aVSeitdem er \u005cHIDE{sich aufs Land zurückgezogen hat}, gefällt er sich in der Rolle eines Umweltschützers.
+p684
+aa(lp685
+VPuisque le plus souvent \u005cBOLD{les bonnes résolutions} restent sans conséquences, je commence \u005cBOLD{à trouver ridicule d'en parler}.
+p686
+aVDa \u005cHIDE{gute Vorsätze} meistens ohne Folgen bleiben, fange ich an, \u005cHIDE{es lächerlich zu finden, davon zu sprechen}.
+p687
+aa(lp688
+VQuand j'ai voulu l'informer du changement de notre politique, il m'a répondu que de telles choses ne l'intéressaient plus depuis longtemps.
+p689
+aVAls ich ihn über die Änderung unserer Politik informieren wollte, hat er mir geantwortet dass ihn solche Sachen schon lange nicht mehr interessierten.
+p690
+aa(lp691
+VBien que dans ce domaine les opinions \u005cBOLD{divergent}, nous espérons que les discussions \u005cBOLD{se déroulent poliment}.
+p692
+aVObwohl auf diesem Gebiet die Meinungen \u005cHIDE{auseinandergehen}, hoffen wir, dass die Diskussionen \u005cHIDE{höflich verlaufen}.
+p693
+aa(lp694
+VIl prétend savoir de source sûre que la Banque centrale a décidé de baisser le taux d'intérêt de deux pour cent.
+p695
+aVEr gibt vor, \u005cHIDE{aus sicherer Quelle} zu wissen (ou dans un contexte de doute manifeste : Er \u005cHIDE{will aus sicherer Quelle} wissen), dass die Zentralbank beschlossen hat, den Zinssatz um zwei Prozent zu senken.
+p696
+aa(lp697
+VPuisque je n'ai pas pu venir à cette réunion, je ne me sens pas responsable \u005cBOLD{de ce que} vous avez décidé.
+p698
+aVDa ich an dieser Sitzung nicht habe teilnehmen können, fühle ich mich nicht verantwortlich \u005cHIDE{für das, was} Sie beschlossen haben.
+p699
+aa(lp700
+VSi vous voulez réellement que je termine cette tâche avant la fin de cette semaine, j'ai besoin de l'aide de trois collaborateurs qualifiés.
+p701
+aVWenn Sie wirklich wollen, dass ich diese Aufgabe (noch) vor Ende dieser Woche beende, dann benötige ich die Hilfe dreier qualifizierter Mitarbeiter.
+p702
+aa(lp703
+VNous savons que surtout dans les pays du tiers-monde, le fossé entre riches et pauvres \u005cBOLD{prend une ampleur particulièrement drastique}.
+p704
+aVWir wissen, dass vor allem in den Ländern der Dritten Welt die Kluft zwischen arm und reich \u005cHIDE{besonders drastische Ausmaße annimmt}.
+p705
+aa(lp706
+VAu début, il était si impressionné qu'il \u005cBOLD{osait à peine} le regarder.
+p707
+aVAnfangs war er so beeindruckt, dass er \u005cHIDE{kaum wagte}, ihn anzusehen.
+p708
+aa(lp709
+VQue ces articles se vendent maintenant beaucoup mieux est \u005cBOLD{une preuve de l'efficacité} de notre dernière campagne publicitaire.
+p710
+aVDass sich diese Artikel jetzt viel besser verkaufen, ist \u005cHIDE{ein Beweis für die Wirksamkeit} unserer letzten Werbekampagne.
+p711
+aa(lp712
+VA son avis, il faut mettre les pédophiles récidivistes à l'hôpital psychiatrique, \u005cBOLD{et non pas en prison}.
+p713
+aVEr ist der Meinung, dass man rückfällige Pädophile in eine psychiatrische Klinik, \u005cHIDE{und nicht ins Gefängnis stecken sollte}.
+p714
+aa(lp715
+VLes chances de succès de ce projet sont si minimes que j'ai vraiment du mal à comprendre \u005cBOLD{comment vous avez pu y investir une somme pareille}.
+p716
+aVDie Erfolgsaussichten für dieses Projekt sind so gering, dass es mir wirklich schwer fällt, zu verstehen, \u005cHIDE{wie Sie da eine solche Geldsumme hineinstecken haben können}.
+p717
+aa(lp718
+VLe président, dont le mandat touche à sa fin dans trois semaines, a peu de chances l'être réélu, puisque ceux qui avaient voté pour lui sont maintenant les premiers à le regretter.
+p719
+aVDer Präsident, dessen Amtszeit in drei Wochen abläuft, hat wenig Chancen, wiedergewählt zu werden, da die, die für ihn gestimmt hatten, jetzt sie ersten sind, die es bedauern.
+p720
+aa(lp721
+VJe n'ai jamais affirmé qu'il serait facile de convaincre le P-DG de la nécessité de \u005cBOLD{composer avec les syndicats}.
+p722
+aVIch habe nie(mals) behauptet, dass es leicht\u005cBOLD{einfach sei, den Generaldirektor von der Notwendigkeit zu überzeugen, sich mit den Gewerkschaften \u005cHIDE{gütlich zu einigen}.}einfach sei, den Generaldirektor von der Notwendigkeit zu überzeugen, sich mit den Gewerkschaften \u005cHIDE{gütlich zu einigen}.
+p723
+aa(lp724
+VSi j'avais le temps de m'occuper \u005cBOLD{de telles futilités}, je n'\u005cBOLD{hésiterais} pas à \u005cBOLD{adhérer} à votre club.
+p725
+aVWenn ich die Zeit hätte, mich \u005cHIDE{um solche Belanglosigkeiten} zu kümmern, \u005cHIDE{würde} ich nicht \u005cHIDE{zögern}, Ihrem Klub \u005cHIDE{beizutreten}.
+p726
+aa.

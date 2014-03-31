@@ -1,0 +1,260 @@
+erkennen \an+Dat\
+Ich habe sie sofort \an\ ihr\en\ root\en\ Haaren erkannt.
+
+leiden \an+Dat\
+Er leidet \an\ ein\er\ schwer\en\ Krankheit. 
+
+sterben \an+Dat\
+Mein Nachbar ist \an\ Krebs gestorben. 
+
+teilnehmen \an+Dat\
+Im Sommer nehme ich \an\ ein\em\ Deutschkurs teil. 
+
+zweifeln \an+Dat\
+Der Chef zweifelt \an\ d\er\ Kompetenz des Bewerbers. 
+
+denken \an+Akk\
+Ich denke oft \an\ mein\e\ Großmutter. 
+
+sich erinnern \an+Akk\ 
+Ich erinnere mich gern \an\ mein\e\ Kindheit. 
+
+sich gewöhnen \an+Akk\ 
+Wir haben uns \an\ \den\ Lärm der Großstadt gewöhnt.
+
+glauben \an+Akk\ 
+Sie glauben \an\ Gott.
+
+sich wenden \an+Akk\ 
+Bitte wenden Sie sich bei Fragen \an\ d\ie\ Rezeption.
+
+achten \auf+Akk\ 
+Bitte achte beim Autofahren auf d\ie\ Radfahrer. 
+
+ankommen \auf+Akk\
+Es kommt auf d\as\ Wetter an, ob wir segeln können. 
+
+antworten \auf+Akk\
+Der Schüler antwortet \auf\ d\ie\ Frage des Lehrers. 
+
+sich freuen \auf+Akk\
+Ich freue mich sehr \auf\ d\en\ Urlaub im Sommer. 
+
+hoffen \auf+Akk\
+Er hofft \auf\ dein\e\ Hilfe. 
+
+sich konzentrieren \auf+Akk\
+Sie konzentriert sich \auf\ ihr\ \Studium.
+
+sich verlassen \auf+Akk\
+Wir verlassen uns \auf\ eur\e\ Hilfe. 
+
+verzichten \auf+Akk\
+\Auf\ mein\ \Telefon möchte ich nicht verzichten. 
+
+sich vorbereiten \auf+Akk\
+Der Student bereitet sich \auf\ d\ie\ Prüfung vor. 
+
+warten \auf+Akk\
+Die Frau wartet \auf\ d\ie\ U-Bahn.
+
+bestehen \aus+Dat\
+Der Tisch besteht \aus\ massiv\em\ Holz. 
+
+übersetzen \aus+Dat\
+Der Roman wurde \aus\ d\em\ Englisch\en\ übersetzt.
+
+sich bedanken \für+Akk\
+Wir bedanken uns \für\ Ihr\e\ Hilfe. 
+
+danken \für+Akk\
+Ich danke dir \für\ dein\e\ Hilfe. 
+
+sich eignen \für+Akk\
+Das Medikament eignet sich auch \für\ Kinder.
+
+sich entscheiden \für+Akk\
+Ich kann mich \für\ kein\en\ der Kinofilme entscheiden.
+
+sich entschuldigen \für+Akk\
+Ich entschuldige mich \für\ die Störung. 
+
+halten \für+Akk\
+Sie hält ihre Tochter \für\ besonders intelligent. 
+
+sich interessieren \für+Akk\
+Er interessiert sich \für\ Politik.
+
+kämpfen \für+Akk\
+Die Frauen kämpfen \für\ ihr\e\ Gleichberechtigung. 
+
+sorgen \für+Akk\
+Die Eltern sorgen \für\ ihr\e\ Kinder.
+
+sich bedanken \bei+Dat\
+Er bedankte sich \bei\ sein\em\ Freund für die Hilfe. 
+
+sich beschweren \bei+Dat\
+Sie hat sich \beim\ Chef beschwert. 
+
+sich entschuldigen \bei+Dat\
+Du musst dich \bei\ i\hm\ entschuldigen.
+
+kämpfen \gegen+Akk\
+Wir müssen \gegen\ Diskriminierung kämpfen. 
+
+protestieren \gegen+Akk\
+Die Demonstranten protestieren \gegen\ d\ie\ Politik. 
+
+verstoßen \gegen+Akk\
+Der Mann hat \gegen\ d\as\ Gesetz verstoßen.
+
+bestehen \in+Dat\
+Seine Aufgabe besteht \in\ d\er\ Planung der Kurse. 
+
+sich irren \in+Dat\
+Ich habe mich \im\ Datum geirrt.
+
+sich erkundigen \nach+Dat\
+Der Tourist erkundigte sich \nach\ d\em\ Weg. 
+
+fragen \nach+Dat\
+Der Chef fragt \nach\ d\em\ krank\en\ Kollegen. 
+
+suchen \nach+Dat\ 
+Ich suche \nach\ ein\er\ Lösung für das Problem.
+
+anfangen \mit+Dat\
+Um acht Uhr fangen wir \mit\ d\er\ Arbeit an. 
+
+aufhören \mit+Dat\
+Im neuen Jahr will er \mit\ d\em\ Rauchen aufhören.
+
+beginnen \mit+Dat\
+Der Kurs beginnt \mit\ ein\er\ leicht\en\ Übung. 
+
+sich beschäftigen \mit+Dat\
+Der Student beschäftigt sich \mit\ Literatur. 
+
+vergleichen \mit+Dat\
+Man vergleicht ihn immer \mit\ sein\em\ älter\en\ Bruder. 
+
+verwechseln \mit+Dat\
+Ich habe ihn \mit\ sein\em\ Bruder verwechselt. 
+
+sich ärgern \über+Akk\
+Ich ärgere mich \über\ mein\en\ Fehler. 
+
+sich aufregen \über+Akk\
+Sie regt sich \über\ d\en\ Lärm im Nachbarhaus auf. 
+
+berichten \über+Akk\
+Die Zeitung berichtet \über\ d\as\ Festival. 
+
+sich beschweren \über+Akk\
+Sie beschwert sich \über\ d\ie\ laut\e\ Musik. 
+
+diskutieren \über+Akk\
+Wir haben lange \über\ Politik diskutiert. 
+
+sich freuen \über+Akk\
+Ich freue mich \über\ d\as\ Geschenk. 
+
+(sich) informieren \über+Akk\ 
+Wir informieren uns \über\ d\ie\ Veranstaltung. 
+
+klagen \über+Akk\
+Er klagt \über\ stark\e\ Kopfschmerzen. 
+
+lachen \über+Akk\
+Sie lachten laut \über\ d\en\ Witz. 
+
+nachdenken \über+Akk\
+Ich dachte lange \über\ d\as\ Problem nach.
+
+sprechen \über+Akk\
+Der Kollege hat \über\ sein\e\ Reise gesprochen. 
+
+sich unterhalt \über+Akk\
+Wir haben uns lange \über\ Politik unterhalten.
+
+sich wundern \über+Akk\
+Ich habe mich \über\ sein\e\ Reaktion gewundert.
+
+sich bemühen \um+Akk\
+Er bemüht sich \um\ gut\es\ Deutsch. 
+
+sich bewerben  \um+Akk\
+Sie bewirbt sich \um\ dies\e\ Stelle. 
+
+bitten \um+Akk\
+Ich bitte Sie \um\ Ihr\e\ Hilfe. 
+
+gehen \um+Akk\
+In dem Film geht es \um\ d\en\ Zweiten Weltkrieg. 
+
+sich handeln \um+Akk\
+Bei dem Verletzten handelt es sich \um\ ein\en\ Polen. 
+
+kämpfen \um+Akk\
+Die Kinder kämpfen \um\ d\en\ Ball. 
+
+sich kümmern \um+Akk\
+Sie kümmert sich \um\ ihr\en\ krank\en\ Vater. 
+
+weinen \um+Akk\
+Er weint \um\ d\en\ tot\en\ Großvater.
+
+abhängen \von+Dat\
+Ob unser Ausflug stattfindet, hängt \vom\ Wetter ab. 
+
+ausgehen \von+Dat\
+Ich gehe da\von\ aus, dass er pünktlich kommt. 
+
+sprechen \von+Dat\
+Manchmal spricht er \von\ sein\er\ Kindheit. 
+
+sich trennen \von+Dat\
+Frau Lindner hat sich \von\ ihr\em\ Mann getrennt. 
+
+sich unterscheiden \von+Dat\
+Er unterscheidet sich sehr \von\ sein\em\ Bruder.
+
+sich verabschieden \von+Dat\
+Wir verabschieden uns \von\ unser\en\ Freunden.
+
+fliehen \vor+Dat\
+Der Dieb flieht \vor\ d\er\ Polizei. 
+
+sich fürchten \vor+Dat\
+Der Junge fürchtet sich \vor\ d\er\ Dunkelheit. 
+
+(sich) schützen \vor+Dat\
+Die Urlauber schützen sich \vor\ d\er\ heiß\en\ Sonne. 
+
+warnen \vor+Dat\
+Er warnt die Frau \vor\ d\er\ Gefahr.
+
+beitragen \zu+Dat\
+Alle Kollegen tragen etwas \zum\ Projekt bei. 
+
+dienen \zu+Dat\
+Das Gerät dient \zum\ Senden von Faxen, 
+
+einladen \zu+Dat\
+Ich lade dich herzlich \zu\ mein\er\ Party ein. 
+
+sich entschließen \zu+Dat\
+Sie hat sich \zu\ ein\em\ Medizinstudium entschlossen. 
+
+gehören \zu+Dat\
+Die Balearischen Inseln gehören \zu\ Spanien. 
+
+gratulieren \zu+Dat\
+Wir gratulieren dir herzlich \zum\ Geburtstag. 
+
+überreden \zu+Dat\ 
+Er hat mich \zu\ dies\em\ Ausflug überredet. 
+
+zählen \zu+Dat\
+Heine zählt \zu\ d\en\ wichtigst\en\ deutsch\en\ Dichtern. 

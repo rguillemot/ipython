@@ -1,0 +1,312 @@
+(lp0
+(lp1
+Varm \u005cHIDE{an+Dat}
+p2
+aVDas Land ist arm \u005cHIDE{an} Bodenschätzen.
+p3
+aa(lp4
+Vinteressiert \u005cHIDE{an+Dat}
+p5
+aVEr ist \u005cHIDE{an} Politik interessiert.
+p6
+aa(lp7
+Vreich \u005cHIDE{an+Dat}
+p8
+aVDiese Speise ist reich \u005cHIDE{an} Fett.
+p9
+aa(lp10
+Vschuld \u005cHIDE{an+Dat}
+p11
+aVDer Mann ist schuld \u005cHIDE{an} d\u005cHIDE{em} Unfall.
+p12
+aa(lp13
+Vgewöhnt \u005cHIDE{an+Akk}
+p14
+aVIch bin \u005cHIDE{an} ein\u005cHIDE{e} ruhig\u005cHIDE{e} Arbeitsatmosphäre gewöhnt.
+p15
+aa(lp16
+Vangewiesen \u005cHIDE{auf+Akk}
+p17
+aVDer Student ist \u005cHIDE{auf} d\u005cHIDE{as} Stipendium angewiesen.
+p18
+aa(lp19
+Veifersüchtig \u005cHIDE{auf+Akk}
+p20
+aVDer Mann ist eifersüchtig \u005cHIDE{auf} d\u005cHIDE{en} nett\u005cHIDE{en} Kollegen seiner Frau.
+p21
+aa(lp22
+Vgespannt \u005cHIDE{auf+Akk}
+p23
+aVIch bin gespannt \u005cHIDE{auf} d\u005cHIDE{en} neu\u005cHIDE{en} Kinofilm.
+p24
+aa(lp25
+Vneidisch \u005cHIDE{auf+Akk}
+p26
+aVSie ist \u005cHIDE{auf} ihr\u005cHIDE{en} jünger\u005cHIDE{en} Bruder neidisch.
+p27
+aa(lp28
+Vneugierig \u005cHIDE{auf+Akk}
+p29
+aVIch bin neugierig \u005cHIDE{auf} d\u005cHIDE{as} Ende des Romans.
+p30
+aa(lp31
+Vstolz \u005cHIDE{auf+Akk}
+p32
+aVDie Mutter ist stolz \u005cHIDE{auf} ihr\u005cHIDE{ }Kind.
+p33
+aa(lp34
+Vwütend \u005cHIDE{auf+Akk}
+p35
+aVSie ist wütend \u005cHIDE{auf} ihr\u005cHIDE{en} unhöflich\u005cHIDE{en} Nachbarn.
+p36
+aa(lp37
+Vangesehen \u005cHIDE{bei+Dat}
+p38
+aVHerr Winter ist \u005cHIDE{bei} sein\u005cHIDE{en} Kollegen sehr angesehen.
+p39
+aa(lp40
+Vbehilflich \u005cHIDE{bei+Dat}
+p41
+aVKann ich Ihnen \u005cHIDE{beim} Tragen Ihres Gepäcks behilflich sein?
+p42
+aa(lp43
+Vbeliebt \u005cHIDE{bei+Dat}
+p44
+aVDer alte Lehrer war \u005cHIDE{bei} sein\u005cHIDE{en} Schülern sehr beliebt.
+p45
+aa(lp46
+Verfahren \u005cHIDE{in+Dat}
+p47
+aVEr ist sehr erfahren \u005cHIDE{in} sein\u005cHIDE{em} Beruf.
+p48
+aa(lp49
+Vgut \u005cHIDE{in+Dat}
+p50
+aVDer Schüler ist gut \u005cHIDE{in} Mathematik.
+p51
+aa(lp52
+Vüberlegen \u005cHIDE{in+Dat}
+p53
+aVSie ist ihrem Bruder \u005cHIDE{in} viel\u005cHIDE{en} Dingen überlegen.
+p54
+aa(lp55
+Vbefreundet \u005cHIDE{mit+Dat}
+p56
+aVIch bin seit vielen Jahren \u005cHIDE{mit} Anna befreundet.
+p57
+aa(lp58
+Vbeschäftigt \u005cHIDE{mit+Dat}
+p59
+aVEr ist \u005cHIDE{mit} sein\u005cHIDE{er} Arbeit und d\u005cHIDE{en} beid\u005cHIDE{en} Kinder\u005cHIDE{n} sehr beschäftigt.
+p60
+aa(lp61
+Veinverstanden \u005cHIDE{mit+Dat}
+p62
+aVDer Chef ist \u005cHIDE{mit} unser\u005cHIDE{em} Vorschlag einverstanden.
+p63
+aa(lp64
+Vfertig \u005cHIDE{mit+Dat}
+p65
+aVEr ist \u005cHIDE{mit} d\u005cHIDE{er} Arbeit fertig.
+p66
+aa(lp67
+Vvergleichbar \u005cHIDE{mit+Dat}
+p68
+aVPrag ist \u005cHIDE{mit} Wien vergleichbar.
+p69
+aa(lp70
+Vverheiratet \u005cHIDE{mit+Dat}
+p71
+aVSie ist \u005cHIDE{mit} ein\u005cHIDE{em} bekannt\u005cHIDE{en} Schauspieler verheiratet.
+p72
+aa(lp73
+Vverwandt \u005cHIDE{mit+Dat}
+p74
+aVPeter ist nicht \u005cHIDE{mit} d\u005cHIDE{em} Politiker verwandt.
+p75
+aa(lp76
+Vzufrieden \u005cHIDE{mit+Dat}
+p77
+aVWir sind \u005cHIDE{mit} d\u005cHIDE{er} Arbeit der neuen Kollegin zufrieden.
+p78
+aa(lp79
+Vberühmt \u005cHIDE{für+Akk}
+p80
+aVDie Stadt ist berühmt für ihr\u005cHIDE{e} viel\u005cHIDE{en} Brücken.
+p81
+aa(lp82
+Vbezeichnend \u005cHIDE{für+Akk}
+p83
+aVUnpünkflichkeit ist bezeichnend für \u005cHIDE{sie}.
+p84
+aa(lp85
+Vcharakteristisch \u005cHIDE{für+Akk}
+p86
+aVHeiße Tage und kalte Nächte sind charakteristisch \u005cHIDE{für} d\u005cHIDE{ie} Sahara.
+p87
+aa(lp88
+Vdankbar \u005cHIDE{für+Akk}
+p89
+aVIch bin dir \u005cHIDE{fur} dein\u005cHIDE{e} Hilfe dankbar.
+p90
+aa(lp91
+Vgeeignet \u005cHIDE{für+Akk}
+p92
+aVDieses Grammatikbuch ist \u005cHIDE{fur} d\u005cHIDE{ie} Grund- und Mittelstufe geeignet.
+p93
+aa(lp94
+Vinteressant \u005cHIDE{für+Akk}
+p95
+aVDieses Thema ist sehr interessant \u005cHIDE{für} m\u005cHIDE{ich}.
+p96
+aa(lp97
+Vleicht \u005cHIDE{für+Akk}
+p98
+aVDeutsch zu lernen ist \u005cHIDE{für} i\u005cHIDE{hn} nicht leicht.
+p99
+aa(lp100
+Vnützlich \u005cHIDE{für+Akk}
+p101
+aVDieses Buch ist nützlich \u005cHIDE{für} d\u005cHIDE{en} Unterricht.
+p102
+aa(lp103
+Vschädlich \u005cHIDE{für+Akk}
+p104
+aVRauchen ist schädlich \u005cHIDE{für} d\u005cHIDE{ie} Gesundheit.
+p105
+aa(lp106
+Vschwierig \u005cHIDE{für+Akk}
+p107
+aVDieser Text ist sehr schwierig \u005cHIDE{für} m\u005cHIDE{ich}.
+p108
+aa(lp109
+Vverantwortlich \u005cHIDE{für+Akk}
+p110
+aVEltern sind \u005cHIDE{für} ihr\u005cHIDE{e} Kinder verantwortlich.
+p111
+aa(lp112
+Vwichtig \u005cHIDE{für+Akk}
+p113
+aVDieser Auftrag ist \u005cHIDE{für} d\u005cHIDE{ie} Firma sehr wichtig.
+p114
+aa(lp115
+Vzuständig \u005cHIDE{für+Akk}
+p116
+aVMein Kollege ist \u005cHIDE{für} d\u005cHIDE{ie} Bewerbungen zuständig.
+p117
+aa(lp118
+Värgerlich \u005cHIDE{über+Akk}
+p119
+aVEr war sehr ärgerlich \u005cHIDE{über} seinen Fehler.
+p120
+aa(lp121
+Verfreut \u005cHIDE{über+Akk}
+p122
+aVMeine Großmutter war \u005cHIDE{über} unseren Besuch sehr erfreut.
+p123
+aa(lp124
+Verstaunt \u005cHIDE{über+Akk}
+p125
+aV\u005cHIDE{Über} dies\u005cHIDE{e} Nachricht war er sehr erstaunt.
+p126
+aa(lp127
+Vfroh \u005cHIDE{über+Akk}
+p128
+aVDie Eltern waren sehr froh \u005cHIDE{über} d\u005cHIDE{as} gut\u005cHIDE{e} Zeugnis ihrer Tochter.
+p129
+aa(lp130
+Vglücklich \u005cHIDE{über+Akk}
+p131
+aVAnna war sehr glücklich \u005cHIDE{über} d\u005cHIDE{en} Erfolg ihres Projektes.
+p132
+aa(lp133
+Vinformiert \u005cHIDE{über+Akk}
+p134
+aVDer Kollege ist \u005cHIDE{über} d\u005cHIDE{ie} Konferenz informiert.
+p135
+aa(lp136
+Vtraurig \u005cHIDE{über+Akk}
+p137
+aVPaul war sehr traurig \u005cHIDE{über} d\u005cHIDE{en} Tod seines Großvaters.
+p138
+aa(lp139
+Vverwundert \u005cHIDE{über+Akk}
+p140
+aVDer Autor war sehr verwundert \u005cHIDE{über} d\u005cHIDE{en} enorm\u005cHIDE{en} Erfolg seines Buches.
+p141
+aa(lp142
+Vverärgert \u005cHIDE{über+Akk}
+p143
+aV\u005cHIDE{Über} d\u005cHIDE{as} unhöflich\u005cHIDE{e} Verhalten meines Nachbarn bin ich verärgert.
+p144
+aa(lp145
+Vbemüht \u005cHIDE{um+Akk}
+p146
+aVWir sind \u005cHIDE{um} ein\u005cHIDE{e} schnell\u005cHIDE{e} Lösung des Problems bemüht.
+p147
+aa(lp148
+Vbesorgt \u005cHIDE{um+Akk}
+p149
+aVIch bin \u005cHIDE{um} mein\u005cHIDE{en} krank\u005cHIDE{en} Großvater besorgt.
+p150
+aa(lp151
+Vabhängig \u005cHIDE{von+Dat}
+p152
+aVDer Student ist finanziell abhängig \u005cHIDE{von} sein\u005cHIDE{en} Eltern.
+p153
+aa(lp154
+Vbegeistert \u005cHIDE{von+Dat}
+p155
+aV\u005cHIDE{Von} d\u005cHIDE{em} neu\u005cHIDE{en} Film war ich begeistert.
+p156
+aa(lp157
+Ventfernt \u005cHIDE{von+Dat}
+p158
+aVDer Strand ist ca. 200 m \u005cHIDE{vom} Hotel entfernt.
+p159
+aa(lp160
+Venttäuscht \u005cHIDE{von+Dat}
+p161
+aVIch war \u005cHIDE{von} dies\u005cHIDE{er} Theateraufführung sehr enttäuscht.
+p162
+aa(lp163
+Vfrei \u005cHIDE{von+Dat}
+p164
+aVDiese Lebensmittel sind frei \u005cHIDE{von} Konservierungsstoffen.
+p165
+aa(lp166
+Vmüde \u005cHIDE{von+Dat}
+p167
+aVSie ist noch müde \u005cHIDE{von} d\u005cHIDE{er} anstrengend\u005cHIDE{en} Reise.
+p168
+aa(lp169
+Vüberzeugt \u005cHIDE{von+Dat}
+p170
+aVIch bin \u005cHIDE{von} d\u005cHIDE{em} Erfolg seines Projektes überzeugt.
+p171
+aa(lp172
+Vbereit \u005cHIDE{zu+Dat}
+p173
+aVDer Politiker ist \u005cHIDE{zu} all\u005cHIDE{em} bereit.
+p174
+aa(lp175
+Ventschlossen \u005cHIDE{zu+Dat}
+p176
+aVEr ist \u005cHIDE{zu} hart\u005cHIDE{er} Arbeit entschlossen.
+p177
+aa(lp178
+Vfähig \u005cHIDE{zu+Dat}
+p179
+aV\u005cHIDE{Zu} ein\u005cHIDE{er} solch\u005cHIDE{en} Tat wäre ich nicht fähig.
+p180
+aa(lp181
+Vfreundlich \u005cHIDE{zu+Dat}
+p182
+aVMeine Nachbarin ist immer sehr freundlich \u005cHIDE{zu} m\u005cHIDE{ir}.
+p183
+aa(lp184
+Vhöflich \u005cHIDE{zu+Dat}
+p185
+aVTrotz ihres Ärgers war sie höflich \u005cHIDE{zu} d\u005cHIDE{em} unfreundlich\u005cHIDE{en} Kunden.
+p186
+aa.

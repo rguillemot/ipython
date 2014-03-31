@@ -1,0 +1,188 @@
+arm \an+Dat\
+Das Land ist arm \an\ Bodenschätzen. 
+
+interessiert \an+Dat\
+Er ist \an\ Politik interessiert.
+
+reich \an+Dat\
+Diese Speise ist reich \an\ Fett. 
+
+schuld \an+Dat\
+Der Mann ist schuld \an\ d\em\ Unfall.
+
+gewöhnt \an+Akk\
+Ich bin \an\ ein\e\ ruhig\e\ Arbeitsatmosphäre gewöhnt.
+
+angewiesen \auf+Akk\
+Der Student ist \auf\ d\as\ Stipendium angewiesen. 
+
+eifersüchtig \auf+Akk\
+Der Mann ist eifersüchtig \auf\ d\en\ nett\en\ Kollegen seiner Frau. 
+
+gespannt \auf+Akk\ 
+Ich bin gespannt \auf\ d\en\ neu\en\ Kinofilm. 
+
+neidisch \auf+Akk\
+Sie ist \auf\ ihr\en\ jünger\en\ Bruder neidisch.
+
+neugierig \auf+Akk\
+Ich bin neugierig \auf\ d\as\ Ende des Romans. 
+
+stolz \auf+Akk\
+Die Mutter ist stolz \auf\ ihr\ \Kind.
+
+wütend \auf+Akk\ 
+Sie ist wütend \auf\ ihr\en\ unhöflich\en\ Nachbarn.
+
+angesehen \bei+Dat\
+Herr Winter ist \bei\ sein\en\ Kollegen sehr angesehen. 
+
+behilflich \bei+Dat\
+Kann ich Ihnen \beim\ Tragen Ihres Gepäcks behilflich sein? 
+
+beliebt \bei+Dat\
+Der alte Lehrer war \bei\ sein\en\ Schülern sehr beliebt.
+
+erfahren \in+Dat\ 
+Er ist sehr erfahren \in\ sein\em\ Beruf. 
+
+gut \in+Dat\
+Der Schüler ist gut \in\ Mathematik. 
+
+überlegen \in+Dat\ 
+Sie ist ihrem Bruder \in\ viel\en\ Dingen überlegen.
+
+befreundet \mit+Dat\
+Ich bin seit vielen Jahren \mit\ Anna befreundet. 
+
+beschäftigt \mit+Dat\
+Er ist \mit\ sein\er\ Arbeit und d\en\ beid\en\ Kinder\n\ sehr beschäftigt.
+
+einverstanden \mit+Dat\
+Der Chef ist \mit\ unser\em\ Vorschlag einverstanden. 
+
+fertig \mit+Dat\
+Er ist \mit\ d\er\ Arbeit fertig. 
+
+vergleichbar \mit+Dat\
+Prag ist \mit\ Wien vergleichbar. 
+
+verheiratet \mit+Dat\
+Sie ist \mit\ ein\em\ bekannt\en\ Schauspieler verheiratet. 
+
+verwandt \mit+Dat\
+Peter ist nicht \mit\ d\em\ Politiker verwandt. 
+
+zufrieden \mit+Dat\
+Wir sind \mit\ d\er\ Arbeit der neuen Kollegin zufrieden.
+
+berühmt \für+Akk\
+Die Stadt ist berühmt für ihr\e\ viel\en\ Brücken. 
+
+bezeichnend \für+Akk\
+Unpünkflichkeit ist bezeichnend für \sie\. 
+
+charakteristisch \für+Akk\
+Heiße Tage und kalte Nächte sind charakteristisch \für\ d\ie\ Sahara. 
+
+dankbar \für+Akk\
+Ich bin dir \fur\ dein\e\ Hilfe dankbar. 
+
+geeignet \für+Akk\
+Dieses Grammatikbuch ist \fur\ d\ie\ Grund- und Mittelstufe geeignet.
+
+interessant \für+Akk\
+Dieses Thema ist sehr interessant \für\ m\ich\. 
+
+leicht \für+Akk\
+Deutsch zu lernen ist \für\ i\hn\ nicht leicht. 
+
+nützlich \für+Akk\
+Dieses Buch ist nützlich \für\ d\en\ Unterricht. 
+
+schädlich \für+Akk\
+Rauchen ist schädlich \für\ d\ie\ Gesundheit. 
+
+schwierig \für+Akk\
+Dieser Text ist sehr schwierig \für\ m\ich\. 
+
+verantwortlich \für+Akk\
+Eltern sind \für\ ihr\e\ Kinder verantwortlich.
+
+wichtig \für+Akk\
+Dieser Auftrag ist \für\ d\ie\ Firma sehr wichtig. 
+
+zuständig \für+Akk\
+Mein Kollege ist \für\ d\ie\ Bewerbungen zuständig.
+
+ärgerlich \über+Akk\
+Er war sehr ärgerlich \über\ seinen Fehler.
+
+erfreut \über+Akk\
+Meine Großmutter war \über\ unseren Besuch sehr erfreut. 
+
+erstaunt \über+Akk\
+\Über\ dies\e\ Nachricht war er sehr erstaunt. 
+
+froh \über+Akk\
+Die Eltern waren sehr froh \über\ d\as\ gut\e\ Zeugnis ihrer Tochter. 
+
+glücklich \über+Akk\
+Anna war sehr glücklich \über\ d\en\ Erfolg ihres Projektes. 
+
+informiert \über+Akk\
+Der Kollege ist \über\ d\ie\ Konferenz informiert. 
+
+traurig \über+Akk\
+Paul war sehr traurig \über\ d\en\ Tod seines Großvaters. 
+
+verwundert \über+Akk\
+Der Autor war sehr verwundert \über\ d\en\ enorm\en\ Erfolg seines Buches. 
+
+verärgert \über+Akk\
+\Über\ d\as\ unhöflich\e\ Verhalten meines Nachbarn bin ich verärgert.
+
+bemüht \um+Akk\ 
+Wir sind \um\ ein\e\ schnell\e\ Lösung des Problems bemüht. 
+
+besorgt \um+Akk\
+Ich bin \um\ mein\en\ krank\en\ Großvater besorgt.
+
+abhängig \von+Dat\
+Der Student ist finanziell abhängig \von\ sein\en\ Eltern. 
+
+begeistert \von+Dat\
+\Von\ d\em\ neu\en\ Film war ich begeistert. 
+
+entfernt \von+Dat\
+Der Strand ist ca. 200 m \vom\ Hotel entfernt. 
+
+enttäuscht \von+Dat\
+Ich war \von\ dies\er\ Theateraufführung sehr enttäuscht. 
+
+frei \von+Dat\
+Diese Lebensmittel sind frei \von\ Konservierungsstoffen. 
+
+müde \von+Dat\
+Sie ist noch müde \von\ d\er\ anstrengend\en\ Reise. 
+
+überzeugt \von+Dat\
+Ich bin \von\ d\em\ Erfolg seines Projektes überzeugt.
+
+bereit \zu+Dat\
+Der Politiker ist \zu\ all\em\ bereit. 
+
+entschlossen \zu+Dat\
+Er ist \zu\ hart\er\ Arbeit entschlossen. 
+
+fähig \zu+Dat\ 
+\Zu\ ein\er\ solch\en\ Tat wäre ich nicht fähig. 
+
+freundlich \zu+Dat\
+Meine Nachbarin ist immer sehr freundlich \zu\ m\ir\. 
+
+höflich \zu+Dat\
+Trotz ihres Ärgers war sie höflich \zu\ d\em\ unfreundlich\en\ Kunden.
+
+nett \zu+Dat\
+Sei nett \zu\ dein\em\ klein\en\ Bruder! 

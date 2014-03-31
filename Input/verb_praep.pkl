@@ -1,0 +1,432 @@
+(lp0
+(lp1
+Verkennen \u005cHIDE{an+Dat}
+p2
+aVIch habe sie sofort \u005cHIDE{an} ihr\u005cHIDE{en} root\u005cHIDE{en} Haaren erkannt.
+p3
+aa(lp4
+Vleiden \u005cHIDE{an+Dat}
+p5
+aVEr leidet \u005cHIDE{an} ein\u005cHIDE{er} schwer\u005cHIDE{en} Krankheit.
+p6
+aa(lp7
+Vsterben \u005cHIDE{an+Dat}
+p8
+aVMein Nachbar ist \u005cHIDE{an} Krebs gestorben.
+p9
+aa(lp10
+Vteilnehmen \u005cHIDE{an+Dat}
+p11
+aVIm Sommer nehme ich \u005cHIDE{an} ein\u005cHIDE{em} Deutschkurs teil.
+p12
+aa(lp13
+Vzweifeln \u005cHIDE{an+Dat}
+p14
+aVDer Chef zweifelt \u005cHIDE{an} d\u005cHIDE{er} Kompetenz des Bewerbers.
+p15
+aa(lp16
+Vdenken \u005cHIDE{an+Akk}
+p17
+aVIch denke oft \u005cHIDE{an} mein\u005cHIDE{e} Großmutter.
+p18
+aa(lp19
+Vsich erinnern \u005cHIDE{an+Akk}
+p20
+aVIch erinnere mich gern \u005cHIDE{an} mein\u005cHIDE{e} Kindheit.
+p21
+aa(lp22
+Vsich gewöhnen \u005cHIDE{an+Akk}
+p23
+aVWir haben uns \u005cHIDE{an} \u005cHIDE{den} Lärm der Großstadt gewöhnt.
+p24
+aa(lp25
+Vglauben \u005cHIDE{an+Akk}
+p26
+aVSie glauben \u005cHIDE{an} Gott.
+p27
+aa(lp28
+Vsich wenden \u005cHIDE{an+Akk}
+p29
+aVBitte wenden Sie sich bei Fragen \u005cHIDE{an} d\u005cHIDE{ie} Rezeption.
+p30
+aa(lp31
+Vachten \u005cHIDE{auf+Akk}
+p32
+aVBitte achte beim Autofahren auf d\u005cHIDE{ie} Radfahrer.
+p33
+aa(lp34
+Vankommen \u005cHIDE{auf+Akk}
+p35
+aVEs kommt auf d\u005cHIDE{as} Wetter an, ob wir segeln können.
+p36
+aa(lp37
+Vantworten \u005cHIDE{auf+Akk}
+p38
+aVDer Schüler antwortet \u005cHIDE{auf} d\u005cHIDE{ie} Frage des Lehrers.
+p39
+aa(lp40
+Vsich freuen \u005cHIDE{auf+Akk}
+p41
+aVIch freue mich sehr \u005cHIDE{auf} d\u005cHIDE{en} Urlaub im Sommer.
+p42
+aa(lp43
+Vhoffen \u005cHIDE{auf+Akk}
+p44
+aVEr hofft \u005cHIDE{auf} dein\u005cHIDE{e} Hilfe.
+p45
+aa(lp46
+Vsich konzentrieren \u005cHIDE{auf+Akk}
+p47
+aVSie konzentriert sich \u005cHIDE{auf} ihr\u005cHIDE{ }Studium.
+p48
+aa(lp49
+Vsich verlassen \u005cHIDE{auf+Akk}
+p50
+aVWir verlassen uns \u005cHIDE{auf} eur\u005cHIDE{e} Hilfe.
+p51
+aa(lp52
+Vverzichten \u005cHIDE{auf+Akk}
+p53
+aV\u005cHIDE{Auf} mein\u005cHIDE{ }Telefon möchte ich nicht verzichten.
+p54
+aa(lp55
+Vsich vorbereiten \u005cHIDE{auf+Akk}
+p56
+aVDer Student bereitet sich \u005cHIDE{auf} d\u005cHIDE{ie} Prüfung vor.
+p57
+aa(lp58
+Vwarten \u005cHIDE{auf+Akk}
+p59
+aVDie Frau wartet \u005cHIDE{auf} d\u005cHIDE{ie} U-Bahn.
+p60
+aa(lp61
+Vbestehen \u005cHIDE{aus+Dat}
+p62
+aVDer Tisch besteht \u005cHIDE{aus} massiv\u005cHIDE{em} Holz.
+p63
+aa(lp64
+Vübersetzen \u005cHIDE{aus+Dat}
+p65
+aVDer Roman wurde \u005cHIDE{aus} d\u005cHIDE{em} Englisch\u005cHIDE{en} übersetzt.
+p66
+aa(lp67
+Vsich bedanken \u005cHIDE{für+Akk}
+p68
+aVWir bedanken uns \u005cHIDE{für} Ihr\u005cHIDE{e} Hilfe.
+p69
+aa(lp70
+Vdanken \u005cHIDE{für+Akk}
+p71
+aVIch danke dir \u005cHIDE{für} dein\u005cHIDE{e} Hilfe.
+p72
+aa(lp73
+Vsich eignen \u005cHIDE{für+Akk}
+p74
+aVDas Medikament eignet sich auch \u005cHIDE{für} Kinder.
+p75
+aa(lp76
+Vsich entscheiden \u005cHIDE{für+Akk}
+p77
+aVIch kann mich \u005cHIDE{für} kein\u005cHIDE{en} der Kinofilme entscheiden.
+p78
+aa(lp79
+Vsich entschuldigen \u005cHIDE{für+Akk}
+p80
+aVIch entschuldige mich \u005cHIDE{für} die Störung.
+p81
+aa(lp82
+Vhalten \u005cHIDE{für+Akk}
+p83
+aVSie hält ihre Tochter \u005cHIDE{für} besonders intelligent.
+p84
+aa(lp85
+Vsich interessieren \u005cHIDE{für+Akk}
+p86
+aVEr interessiert sich \u005cHIDE{für} Politik.
+p87
+aa(lp88
+Vkämpfen \u005cHIDE{für+Akk}
+p89
+aVDie Frauen kämpfen \u005cHIDE{für} ihr\u005cHIDE{e} Gleichberechtigung.
+p90
+aa(lp91
+Vsorgen \u005cHIDE{für+Akk}
+p92
+aVDie Eltern sorgen \u005cHIDE{für} ihr\u005cHIDE{e} Kinder.
+p93
+aa(lp94
+Vsich bedanken \u005cHIDE{bei+Dat}
+p95
+aVEr bedankte sich \u005cHIDE{bei} sein\u005cHIDE{em} Freund für die Hilfe.
+p96
+aa(lp97
+Vsich beschweren \u005cHIDE{bei+Dat}
+p98
+aVSie hat sich \u005cHIDE{beim} Chef beschwert.
+p99
+aa(lp100
+Vsich entschuldigen \u005cHIDE{bei+Dat}
+p101
+aVDu musst dich \u005cHIDE{bei} i\u005cHIDE{hm} entschuldigen.
+p102
+aa(lp103
+Vkämpfen \u005cHIDE{gegen+Akk}
+p104
+aVWir müssen \u005cHIDE{gegen} Diskriminierung kämpfen.
+p105
+aa(lp106
+Vprotestieren \u005cHIDE{gegen+Akk}
+p107
+aVDie Demonstranten protestieren \u005cHIDE{gegen} d\u005cHIDE{ie} Politik.
+p108
+aa(lp109
+Vverstoßen \u005cHIDE{gegen+Akk}
+p110
+aVDer Mann hat \u005cHIDE{gegen} d\u005cHIDE{as} Gesetz verstoßen.
+p111
+aa(lp112
+Vbestehen \u005cHIDE{in+Dat}
+p113
+aVSeine Aufgabe besteht \u005cHIDE{in} d\u005cHIDE{er} Planung der Kurse.
+p114
+aa(lp115
+Vsich irren \u005cHIDE{in+Dat}
+p116
+aVIch habe mich \u005cHIDE{im} Datum geirrt.
+p117
+aa(lp118
+Vsich erkundigen \u005cHIDE{nach+Dat}
+p119
+aVDer Tourist erkundigte sich \u005cHIDE{nach} d\u005cHIDE{em} Weg.
+p120
+aa(lp121
+Vfragen \u005cHIDE{nach+Dat}
+p122
+aVDer Chef fragt \u005cHIDE{nach} d\u005cHIDE{em} krank\u005cHIDE{en} Kollegen.
+p123
+aa(lp124
+Vsuchen \u005cHIDE{nach+Dat}
+p125
+aVIch suche \u005cHIDE{nach} ein\u005cHIDE{er} Lösung für das Problem.
+p126
+aa(lp127
+Vanfangen \u005cHIDE{mit+Dat}
+p128
+aVUm acht Uhr fangen wir \u005cHIDE{mit} d\u005cHIDE{er} Arbeit an.
+p129
+aa(lp130
+Vaufhören \u005cHIDE{mit+Dat}
+p131
+aVIm neuen Jahr will er \u005cHIDE{mit} d\u005cHIDE{em} Rauchen aufhören.
+p132
+aa(lp133
+Vbeginnen \u005cHIDE{mit+Dat}
+p134
+aVDer Kurs beginnt \u005cHIDE{mit} ein\u005cHIDE{er} leicht\u005cHIDE{en} Übung.
+p135
+aa(lp136
+Vsich beschäftigen \u005cHIDE{mit+Dat}
+p137
+aVDer Student beschäftigt sich \u005cHIDE{mit} Literatur.
+p138
+aa(lp139
+Vvergleichen \u005cHIDE{mit+Dat}
+p140
+aVMan vergleicht ihn immer \u005cHIDE{mit} sein\u005cHIDE{em} älter\u005cHIDE{en} Bruder.
+p141
+aa(lp142
+Vverwechseln \u005cHIDE{mit+Dat}
+p143
+aVIch habe ihn \u005cHIDE{mit} sein\u005cHIDE{em} Bruder verwechselt.
+p144
+aa(lp145
+Vsich ärgern \u005cHIDE{über+Akk}
+p146
+aVIch ärgere mich \u005cHIDE{über} mein\u005cHIDE{en} Fehler.
+p147
+aa(lp148
+Vsich aufregen \u005cHIDE{über+Akk}
+p149
+aVSie regt sich \u005cHIDE{über} d\u005cHIDE{en} Lärm im Nachbarhaus auf.
+p150
+aa(lp151
+Vberichten \u005cHIDE{über+Akk}
+p152
+aVDie Zeitung berichtet \u005cHIDE{über} d\u005cHIDE{as} Festival.
+p153
+aa(lp154
+Vsich beschweren \u005cHIDE{über+Akk}
+p155
+aVSie beschwert sich \u005cHIDE{über} d\u005cHIDE{ie} laut\u005cHIDE{e} Musik.
+p156
+aa(lp157
+Vdiskutieren \u005cHIDE{über+Akk}
+p158
+aVWir haben lange \u005cHIDE{über} Politik diskutiert.
+p159
+aa(lp160
+Vsich freuen \u005cHIDE{über+Akk}
+p161
+aVIch freue mich \u005cHIDE{über} d\u005cHIDE{as} Geschenk.
+p162
+aa(lp163
+V(sich) informieren \u005cHIDE{über+Akk}
+p164
+aVWir informieren uns \u005cHIDE{über} d\u005cHIDE{ie} Veranstaltung.
+p165
+aa(lp166
+Vklagen \u005cHIDE{über+Akk}
+p167
+aVEr klagt \u005cHIDE{über} stark\u005cHIDE{e} Kopfschmerzen.
+p168
+aa(lp169
+Vlachen \u005cHIDE{über+Akk}
+p170
+aVSie lachten laut \u005cHIDE{über} d\u005cHIDE{en} Witz.
+p171
+aa(lp172
+Vnachdenken \u005cHIDE{über+Akk}
+p173
+aVIch dachte lange \u005cHIDE{über} d\u005cHIDE{as} Problem nach.
+p174
+aa(lp175
+Vsprechen \u005cHIDE{über+Akk}
+p176
+aVDer Kollege hat \u005cHIDE{über} sein\u005cHIDE{e} Reise gesprochen.
+p177
+aa(lp178
+Vsich unterhalt \u005cHIDE{über+Akk}
+p179
+aVWir haben uns lange \u005cHIDE{über} Politik unterhalten.
+p180
+aa(lp181
+Vsich wundern \u005cHIDE{über+Akk}
+p182
+aVIch habe mich \u005cHIDE{über} sein\u005cHIDE{e} Reaktion gewundert.
+p183
+aa(lp184
+Vsich bemühen \u005cHIDE{um+Akk}
+p185
+aVEr bemüht sich \u005cHIDE{um} gut\u005cHIDE{es} Deutsch.
+p186
+aa(lp187
+Vsich bewerben  \u005cHIDE{um+Akk}
+p188
+aVSie bewirbt sich \u005cHIDE{um} dies\u005cHIDE{e} Stelle.
+p189
+aa(lp190
+Vbitten \u005cHIDE{um+Akk}
+p191
+aVIch bitte Sie \u005cHIDE{um} Ihr\u005cHIDE{e} Hilfe.
+p192
+aa(lp193
+Vgehen \u005cHIDE{um+Akk}
+p194
+aVIn dem Film geht es \u005cHIDE{um} d\u005cHIDE{en} Zweiten Weltkrieg.
+p195
+aa(lp196
+Vsich handeln \u005cHIDE{um+Akk}
+p197
+aVBei dem Verletzten handelt es sich \u005cHIDE{um} ein\u005cHIDE{en} Polen.
+p198
+aa(lp199
+Vkämpfen \u005cHIDE{um+Akk}
+p200
+aVDie Kinder kämpfen \u005cHIDE{um} d\u005cHIDE{en} Ball.
+p201
+aa(lp202
+Vsich kümmern \u005cHIDE{um+Akk}
+p203
+aVSie kümmert sich \u005cHIDE{um} ihr\u005cHIDE{en} krank\u005cHIDE{en} Vater.
+p204
+aa(lp205
+Vweinen \u005cHIDE{um+Akk}
+p206
+aVEr weint \u005cHIDE{um} d\u005cHIDE{en} tot\u005cHIDE{en} Großvater.
+p207
+aa(lp208
+Vabhängen \u005cHIDE{von+Dat}
+p209
+aVOb unser Ausflug stattfindet, hängt \u005cHIDE{vom} Wetter ab.
+p210
+aa(lp211
+Vausgehen \u005cHIDE{von+Dat}
+p212
+aVIch gehe da\u005cHIDE{von} aus, dass er pünktlich kommt.
+p213
+aa(lp214
+Vsprechen \u005cHIDE{von+Dat}
+p215
+aVManchmal spricht er \u005cHIDE{von} sein\u005cHIDE{er} Kindheit.
+p216
+aa(lp217
+Vsich trennen \u005cHIDE{von+Dat}
+p218
+aVFrau Lindner hat sich \u005cHIDE{von} ihr\u005cHIDE{em} Mann getrennt.
+p219
+aa(lp220
+Vsich unterscheiden \u005cHIDE{von+Dat}
+p221
+aVEr unterscheidet sich sehr \u005cHIDE{von} sein\u005cHIDE{em} Bruder.
+p222
+aa(lp223
+Vsich verabschieden \u005cHIDE{von+Dat}
+p224
+aVWir verabschieden uns \u005cHIDE{von} unser\u005cHIDE{en} Freunden.
+p225
+aa(lp226
+Vfliehen \u005cHIDE{vor+Dat}
+p227
+aVDer Dieb flieht \u005cHIDE{vor} d\u005cHIDE{er} Polizei.
+p228
+aa(lp229
+Vsich fürchten \u005cHIDE{vor+Dat}
+p230
+aVDer Junge fürchtet sich \u005cHIDE{vor} d\u005cHIDE{er} Dunkelheit.
+p231
+aa(lp232
+V(sich) schützen \u005cHIDE{vor+Dat}
+p233
+aVDie Urlauber schützen sich \u005cHIDE{vor} d\u005cHIDE{er} heiß\u005cHIDE{en} Sonne.
+p234
+aa(lp235
+Vwarnen \u005cHIDE{vor+Dat}
+p236
+aVEr warnt die Frau \u005cHIDE{vor} d\u005cHIDE{er} Gefahr.
+p237
+aa(lp238
+Vbeitragen \u005cHIDE{zu+Dat}
+p239
+aVAlle Kollegen tragen etwas \u005cHIDE{zum} Projekt bei.
+p240
+aa(lp241
+Vdienen \u005cHIDE{zu+Dat}
+p242
+aVDas Gerät dient \u005cHIDE{zum} Senden von Faxen,
+p243
+aa(lp244
+Veinladen \u005cHIDE{zu+Dat}
+p245
+aVIch lade dich herzlich \u005cHIDE{zu} mein\u005cHIDE{er} Party ein.
+p246
+aa(lp247
+Vsich entschließen \u005cHIDE{zu+Dat}
+p248
+aVSie hat sich \u005cHIDE{zu} ein\u005cHIDE{em} Medizinstudium entschlossen.
+p249
+aa(lp250
+Vgehören \u005cHIDE{zu+Dat}
+p251
+aVDie Balearischen Inseln gehören \u005cHIDE{zu} Spanien.
+p252
+aa(lp253
+Vgratulieren \u005cHIDE{zu+Dat}
+p254
+aVWir gratulieren dir herzlich \u005cHIDE{zum} Geburtstag.
+p255
+aa(lp256
+Vüberreden \u005cHIDE{zu+Dat}
+p257
+aVEr hat mich \u005cHIDE{zu} dies\u005cHIDE{em} Ausflug überredet.
+p258
+aa.
