@@ -286,7 +286,7 @@ Ce château appartient /à un aristocrate ruiné/.
 Dieses Schloss gehört \einem ruinierten Adligen|Aristokraten\.
 
 Le président a félicité /le ministre des Affaires étrangères/. 
-Der Präsident hat \dem Außenminister\ gratuliert.
+Der Präsident hat /dem Außenminister/ gratuliert.
 
 La direction envisage de licencier /l'ingénieur Müller/.
 Die Direktion zieht in Betracht, \dem Ingenieur Mayer\ zu kündigen (ou \den Ingenieur Mayer\ zu entlassen).
@@ -468,11 +468,11 @@ Und gerade jetzt \stellt unser Hauptkunde die Zahlungen ein\.
 /Pour réussir à mes examens/, je dois travailler davantage. 
 \Um meine Examen zu bestehen\, muss ich mehr arbeiten.
 
-Aujourd'hui, je n'ai pas eu le temps de réfléchir /à ta dernière proposition/. 
-Heute habe ich keine Zeit gehabt, um \über deinen letzten Vorschlag\ nachzudenken.
+Aujourd'hui, je n'ai pas eu le temps de réfléchir à ta dernière proposition. 
+Heute habe ich keine Zeit gehabt, um über deinen letzten Vorschlag nachzudenken.
 
 Tu dois écouter la météo, car en Méditerranée, le temps peut /changer d'un moment à l'autre/. 
-Du musst (dir) den Wetterbericht anhören, denn im Mittelmeer kann das Wetter \von einem Augenblick zum andern umschlagen\.
+Du musst (dir) den Wetterbericht anhören, denn im Mittelmeer kann das Wetter /von einem Augenblick zum andern umschlagen/.
 
 La commission n'a pas pu se réunir, mais elle /reprendra ses travaux/ probablement demain. 
 Die Kommission hat sich nicht versammeln können, aber sie wird wahrscheinlich morgen \ihre Arbeit wieder aufnehmen\.
@@ -596,7 +596,7 @@ Les bananes /des Antilles/ françaises sont subventionnées.
 Die Bananen \von den französischen Antillen\ sind|werden subventioniert.
 
 La /faillite/ de la société USW est ressentie /comme un échec pour/ toute la branche. 
-Der \Konkurs|die Pleite\ der Firma USW wird \als Niederlage für\ die ganze Branche empfunden.
+Der \Konkurs|die Pleite\ der Firma USW wird /als Niederlage für\ die ganze Branche empfunden.
 
 Avec une douzaine de logiciels inutiles, /l'ordinateur de Maria/ est /suréquipé/. 
 Mit einem Dutzend unnötiger Softwareprogramme ist \Marias Computer\ \übermäßig ausgestattet\.
@@ -685,8 +685,8 @@ Seitdem er \sich aufs Land zurückgezogen hat\, gefällt er sich in der Rolle eine
 Puisque le plus souvent /les bonnes résolutions/ restent sans conséquences, je commence /à trouver ridicule d'en parler/.
 Da \gute Vorsätze\ meistens ohne Folgen bleiben, fange ich an, \es lächerlich zu finden, davon zu sprechen\.
 
-Quand j'ai voulu l'informer du changement de notre politique, il m'a répondu /que de telles choses ne l'intéressaient plus depuis longtemps/. 
-Als ich ihn über die Änderung unserer Politik informieren wollte, hat er mir geantwortet \dass ihn solche Sachen schon lange nicht mehr interessierten\.
+Quand j'ai voulu l'informer du changement de notre politique, il m'a répondu que de telles choses ne l'intéressaient plus depuis longtemps. 
+Als ich ihn über die Änderung unserer Politik informieren wollte, hat er mir geantwortet dass ihn solche Sachen schon lange nicht mehr interessierten.
 
 Bien que dans ce domaine les opinions /divergent/, nous espérons que les discussions /se déroulent poliment/. 
 Obwohl auf diesem Gebiet die Meinungen \auseinandergehen\, hoffen wir, dass die Diskussionen \höflich verlaufen\.
@@ -697,8 +697,8 @@ Er gibt vor, \aus sicherer Quelle\ zu wissen (ou dans un contexte de doute manif
 Puisque je n'ai pas pu venir à cette réunion, je ne me sens pas responsable /de ce que/ vous avez décidé.
 Da ich an dieser Sitzung nicht habe teilnehmen können, fühle ich mich nicht verantwortlich \für das, was\ Sie beschlossen haben.
 
-Si vous voulez réellement que je termine cette tâche avant la fin de cette semaine, /j'ai besoin de l'aide/ de trois collaborateurs qualifiés.
-Wenn Sie wirklich wollen, dass ich diese Aufgabe (noch) vor Ende dieser Woche beende, \dann benötige ich die Hilfe\ dreier qualifizierter Mitarbeiter.
+Si vous voulez réellement que je termine cette tâche avant la fin de cette semaine, j'ai besoin de l'aide de trois collaborateurs qualifiés.
+Wenn Sie wirklich wollen, dass ich diese Aufgabe (noch) vor Ende dieser Woche beende, dann benötige ich die Hilfe dreier qualifizierter Mitarbeiter.
 
 Nous savons que surtout dans les pays du tiers-monde, le fossé entre riches et pauvres /prend une ampleur particulièrement drastique/.
 Wir wissen, dass vor allem in den Ländern der Dritten Welt die Kluft zwischen arm und reich \besonders drastische Ausmaße annimmt\.
@@ -715,15 +715,80 @@ Er ist der Meinung, dass man rückfällige Pädophile in eine psychiatrische Klinik
 Les chances de succès de ce projet sont si minimes que j'ai vraiment du mal à comprendre /comment vous avez pu y investir une somme pareille/. 
 Die Erfolgsaussichten für dieses Projekt sind so gering, dass es mir wirklich schwer fällt, zu verstehen, \wie Sie da eine solche Geldsumme hineinstecken haben können\.
 
-Le président, /dont le mandat touche à sa fin dans trois semaines/, a peu de chances l'être réélu, puisque ceux qui avaient voté pour lui /sont maintenant les premiers à le regretter/.
-Der Präsident, \dessen Amtszeit in drei Wochen abläuft\, hat wenig Chancen, wiedergewählt zu werden, da die, die für ihn gestimmt hatten, \jetzt sie ersten sind, die es bedauern\.
+Le président, dont le mandat touche à sa fin dans trois semaines, a peu de chances l'être réélu, puisque ceux qui avaient voté pour lui sont maintenant les premiers à le regretter.
+Der Präsident, dessen Amtszeit in drei Wochen abläuft, hat wenig Chancen, wiedergewählt zu werden, da die, die für ihn gestimmt hatten, jetzt sie ersten sind, die es bedauern.
 
 Je n'ai jamais affirmé qu'il serait facile de convaincre le P-DG de la nécessité de /composer avec les syndicats/.
-Ich habe nie(mals) behauptet, dass es leicht|einfach sei, den Generaldirektor von der Notwendigkeit zu überzeugen, \sich mit den Gewerkschaften gütlich zu einigen\.
+Ich habe nie(mals) behauptet, dass es leicht/einfach sei, den Generaldirektor von der Notwendigkeit zu überzeugen, sich mit den Gewerkschaften \gütlich zu einigen\.
 
 Si j'avais le temps de m'occuper /de telles futilités/, je n'/hésiterais/ pas à /adhérer/ à votre club.
 Wenn ich die Zeit hätte, mich \um solche Belanglosigkeiten\ zu kümmern, \würde\ ich nicht \zögern\, Ihrem Klub \beizutreten\.
 
 On oublie trop souvent que nos /réserves pétrolières/ sont limitées.
 Man vergisst (all)zu oft, dass unsere \Erdölvorkommen\ begrenzt sind.
-  
+
+On ne doit jamais /se venter/ d'actes de mérite que d'autres /ont accomplis à sa place/.
+Man soll \sich\ niemals verdienstvoll\er\ Taten (\gen.\) \rühmen\, die andere \an unserer Stelle vollbracht haben\.
+
+Je /préfère attendre/ avant de signer ce contrat /certes avantageux en soi/, puisque nous n'avons pas encore pu /nous assurer de la fiabilité/ de la société USW.
+Ich \warte lieber ab\, bevor ich diesen \an sich zwar vorteilhaften\ Vertrag unterschreibe, da wir uns der Zuverlässigkeit der Gesellschaft USW noch nicht vergewissern haben können.
+
+Il /vise le rachat/ de cette entreprise pour des raisons économiques, mais aussi pour se venger /d'un vieux concurrent, pas toujours loyal/.
+Er \strebt den Aufkauf\ dieses Unternehmens aus wirtschaflichen Gründen \an\, aber auch um sich \an einem alten, nicht immer loyalen Konkurrenten\ zu rächen.
+
+/Conformément à ses souhaits/, il put s'emparer /de cette entreprise/.
+\Seiner Wünsche gemaß|Seinen Wünschen entsprechend|Wie er es sich gewünscht hatte\, konnte er sich \dieses Unternehmens (gen.)\ bemachtigen.
+
+Je /crains/ qu'il ne soit /pas apte/ pour ce poste.
+Ich \(be)fürchte\, dass er sich für diesen Posten (akk.) \nicht eignet\.
+
+Notre organisation pourrait /participer à votre projet/. Toutefois nous ne voulons pas /renoncer à nos activités en Afrique occidentale/.
+Unsere Organisation könnte \an Ihrem Prokekt mitwirken\. Jedoch wollen wir nicht \auf unsere Aktivitäten in Wesafrika verzichten\.
+
+Votre affirmation /repose sur/ des hypothèses incertaines.
+Ihre Behauptung \berüht auf\ unsicheren Hypothesen|Voraussetzungen.
+
+Contentons nous /de ce résultat/ qui depasse /nos prévisions les plus optimistes/.
+Benugen wir uns \mit diesem Ergebnis\, das \unsere optimistischsten Erwartungen\ übertrifft.
+
+Il travaille /à sa thèse/. C'est pourquoi il s'occupe /de thermodynamique/.
+Er arbeitet \an seiner Doktorarbeit\. Deshalb beschäftigt er sich \mit Thermodynamik\.
+
+Pour justifier /son verdict/, la cour /se réfère à/ un antécédent qui fait jurisprudence.
+Um \sein Urteil\ zu rechtfertigen, \beruft sich\ der Gerichtshof \auf\ einen Präzedenfall.
+
+Notre décision /dépend du/ développement de la conjoncture économique.
+Unsere Entscheidung \hängt von\ der Entwicklung der wirtschaftlichen Konjunktur \ab\.
+
+Dans les pays industrialisés /précisément/, des industries entières doivent se faire des soucis /quant à leur survie/.
+\Gerade\ in den industrialisierten Ländern, müssen sich ganze Industriezweige \um ihr Überleben\ sorgen.
+
+Nous avions l'impression /de mourir de froid/.
+Wir hatten den Eindruck\, vor Kälte zu sterben\.
+
+Dans son institut de recherche, il travaille /sur/ l'economie chinoise.
+In seinem Forschunginstitut, arbeitet er \über (akk.)\ die chinesische Wirtschaft.
+
+Je suis /conscient de ce fait/.
+Ich bin \mir dieser Tatsache (gen.) bewusst\.
+
+Comme d'habitude, nous nous disputons /à propos/ de politique.
+Wie üblich streiten wir uns \über (akk.)\ Politik.
+
+Plusieurs entreprises se disputent /ces parts de marché/.
+Mehrere Unternehmen streiten sich \um diese Marktanteile\.
+
+Cette affaire ne vaut pas /une dispute/.
+Diese Angelegenheit ist \keines Streits (gen.)\ wert.
+
+Des nouvelles recherches ont montré que les biocarburants sont eux aussi nuisible /à la nature/.
+Die neuere Forschunge hat gezeigt, dass auch Biokraftstoffe \der Natur\ schädlich sind.
+
+En Afrique, une grande partie de la population /souffre du/ SIDA.
+In Afrika, \leidet\ ein großer Teil der Bewölkerung \an (dat.)\ AIDS.
+
+En été, les personnes âgées souffrent /de la chaleur/.
+Im Sommer leiden die Senioren \unter (dat.) der Hitze\.
+
+Si l'on veut /préserver/ le Sahel /d'une catastrophe sans précédent/, on doit surtout résoudre le problème de l'eau.
+Wenn man die Sahelzone \vor einer beispiellosen Katastrophe bewahren will\, muss vor allem eine Lösung für das Wassersproblem gefunden werden. 
