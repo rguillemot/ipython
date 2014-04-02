@@ -1,0 +1,729 @@
+Le /nouveau/ ministre de la Défense est un /ancien/ général. 
+Der \neue\ Verteidigungsminister ist ein \ehemaliger\ General.
+
+L'opposition conteste /la nomination/ d'un ancien militaire. 
+Die Opposition beanstandet \die Ernennung\ eines ehemaligen Militärs.
+
+/Dans une démocratie/, la politique doit être séparée de l'armée. 
+\In einer Demokratie\ sollen Politik und Militär getrennt werden.
+
+Une /partie considérable/ des jeunes étudiants se sent désorientée. 
+Ein \beträchtlicher Anteil\ der jungen Studenten fühlt sich verunsichert.
+
+Nous voulons aussi écouter /nos collaborateurs inexpérimentés/.
+Wir wollen auch \unsere unerfahrenen Mitarbeiter\ anhören.
+
+/Ces jeunes/ politiciens se font manipuler. 
+\Diese jungen\ Politiker lassen sich manipulieren.
+
+/Quelques jeunes politiciens/ se font manipuler. 
+\Einige junge Politiker\ lassen sich manipulieren.
+
+Ce livre, /dont/ j'ai malheureusement oublié /le titre/, est absolument recommandable. 
+Dieses Buch, \dessen Titel\ ich leider vergessen habe, ist absolut empfehlenswert.
+
+Il fit un long discours /dont/ je n'ai pas saisi /le sens/. 
+Er hielt eine lange Rede, \deren Sinn\ ich nicht begriffen habe.
+
+L'ingénieur /avec lequel/ je collabore est absent demain. 
+Der Ingenieur, \mit dem\ ich zusammenarbeite, ist morgen abwesend.
+
+/Quel idiot/ a-t-il mis mon ordinateur sens dessus-dessous ? 
+\Welcher Idiot\ hat meinen Computer durcheinander gebracht?
+
+J'aimerais savoir de /quel genre/ il est. 
+Ich würde gerne wissen, \von welcher Art\ er ist.
+
+Je négocierai directement /avec lui/. 
+Ich werde \mit ihm\ direkt verhandeln.
+Je négocierai directement /avec eux/. 
+Ich werde \mit ihnen\ direkt verhandeln.
+
+/Dans trois jours/, je partirai avec elles. 
+\In drei Tagen\ werde ich mit ihnen verreisen.
+
+Je dois /les/ rencontrer /tous/ encore aujourd'hui. 
+Ich muss \sie alle\ heute noch treffen.
+
+Tu dois te demander si ta stratégie est /la bonne/.
+Du musst dich fragen, ob deine Strategie \die Richtige\ ist.
+
+Donnez la lettre \à ce monsieur\.
+Geben Sie \dem Herrn\ diesen Brief.
+
+L'opinion /de cet expert/ peut être contestée. 
+Die Meinung \dieses Experten\ kann beanstandet werden.
+
+La position /du prince de Monaco/ est /celle d'un/ monarque constititionnelle.
+Die Position \des Fürsten von Monako\ ist \die eines\ konstitutionellen Monarchen.
+
+Le pouvoir /du président de la RFA/ est restreint.  
+Die Macht \des Bundespräsidenten\ ist beschränkt.
+
+En ce domaine, la Constitution /de la France contemporaine/ fait figure d'exception.
+Auf diesem Gebiet stellt die Verfassung \des heutigen Frankreichs\ eine Ausnahme dar.
+
+Dans ce livre, il s'agit de l'infrastructure /du New York moderne/.
+In diesem Buch handelt es sich um die Infrastruktur \des modernen New York\.
+
+De nombreuses régions /de la Chine septentrionale/ sont menacées de désertification.
+Zahlreiche Gebiete \des nördlichen Chinas\ sind von der Versteppung bedroht. 
+
+Certains responsables italiens évoquent /le « problème du Mezzogiorno »/. 
+Gewisse Verantwortliche Italiens erwähnenen \das « Problem des Mezzogiorno »\. 
+
+La guerre de Troie fut déclenchée /par l'enlèvement d'Hélène/. 
+Der Krieg von Troja wurde \durch Helenas Entführung (ou durch die Entführung der Helena)\ ausgelöst. 
+
+L'Iliade est une oeuvre /d'Homère|du grand poète épique Homère/.
+Die Ilias ist ein Werk \Homers|des großen epischen Dichters Homer\. 
+
+La malheureuse Marie-Antoinette fut une fille /de Marie-Thérèse/. 
+Die unglückliche Marie-Antoinette war eine Tochter \Maria Theresias\.
+
+L oeuvre /de Maurice Ravel/ passe pour accessible. 
+Das Werk \des Franzosen Maurice Ravel\ gilt als zugänglich.
+
+La clinique /du docteur Hans Müller/ compte parmi les plus chères de la région. 
+Die Klinik \des Doktors Hans Müller\ zählt zu den teuersten der Gegend.
+
+La voiture /de Madame Baumann/ a été endommagée par des vandales.
+\Frau Baumanns\ Auto wurde von Wandalen (ou Vandalen) beschädigt.
+
+Le discours /de Monsieur Mayer/ n'a pas plu au directeur. 
+\Herrn Mayers\ Rede hat dem Direktor nicht gefallen.
+
+Mes relations /avec les voisins/ ne sont pas toujours faciles. 
+Meine Beziehungen \zu den Nachbarn\ sind nicht immer leicht.
+
+Nous redoutons tous la puissance économique /de la Chine future/. 
+Wir fürchten alle die wirtschaftliche Macht \des zukünftigen Chinas\. 
+
+L'invention /de l'ingénieur Joachim Mayer/ devient la propriété de notre entreprise.
+Die Erfindung \des Ingenieurs Joachim Mayer\ geht in den Besitz unserer Firma über.
+
+La largeur /du Rhin/ est impressionnante. 
+Die Breite \des Rheins\ ist beeindruckend.
+
+La largeur /du Mékong/ est impressionnante. 
+Die Breite \des Mekong\ ist beeindruckend. 
+
+/La vie de Marie Stuart/ se termina tragiquement. 
+\Maria Stuarts Leben (ou Das Leben der Maria Stuart)\ endete tragisch.
+
+Nous admirons les vestiges /de la Rome antique/. 
+Wir bewundern die Ruinen \des alten Roms\.
+
+Je me fais soigner par le successeur /du célèbre docteur Dupont/.
+Ich lasse mich vom Nachfolger \des berühmten Doktors Dupont\ behandeln.
+
+John Clark aimerait bien être /maire de New York/.
+John Clark wäre gern \New Yorks Bürgermeister\.
+
+Cet ordinateur était /un bon achat/. 
+Dieser Computer war \ein guter Kauf\.
+
+Hans Mayer passe /pour compétent et fiable/.
+Hans Mayer gilt \als kompetent und zuverlässig\.
+
+Hans Mayer est /un technicien compétent/. 
+Hans Mayer ist \ein kompetenter Techniker\.
+
+Heinrich Müller /devient de plus en plus connu/ dans les milieux de la recherche informatique.
+Heinrich Müller \wird immer bekannter\ in den Kreisen der Informatik-Forschung. 
+
+Je ne suis /pas un spécialiste/ de la Grèce antique.
+Ich bin \kein Spezialist\ des antiken Griechenlands. 
+
+Le résultat des opérations /est à peu près celui/ que nous avons prévu. 
+Das Resultat der Operationen ist \das, was\ wir erwartet haben. 
+
+Cette jeune dame /semble fatiguée/. 
+Diese junge Dame \scheint müde zu sein\.
+
+Ces difficultés /s'avèrent particulièrement sérieuses/. 
+Diese Schwierigkeiten \erweisen sich als besonders ernst\.
+
+Notre nouveau directeur /n'est pas un bon communicateur/, mais il passe pour un grand ingénieur. 
+Unser neuer Direktor \ist kein guter Manager\, gilt aber als großer Ingenieur 
+
+Vérone est /un noeud ferroviaire souvent saturé/. 
+Verona ist ein \oft (ou häufig) saturierter Eisenbahnknotenpunkt\. 
+
+La directrice du service marketing /me semble plutôt dynamique/. 
+Die Direktorin der Marketingabteilung \scheint mir dynamisch zu sein\.
+
+Notre époque est marquée /par une crise économique durable/. 
+Unsere Epoche ist \von einer dauerhaften Wirtschaftskrise\ geprägt. 
+
+L'esprit de notre époque est marqué /par le culte des apparences/.
+Unser Zeitgeist ist \vom Kult der Erscheinung\ geprägt.
+
+La vue est /sublime/.
+Die Aussicht \ist überwältigend\. 
+
+Je trouve cette affirmation /exagérée/.
+Ich finde diese Behauptung \übertrieben\.
+
+Le champ de compétences /du directeur commercial/ doit être mieux délimité.
+Der Kompetenzbereich \des kaufmännischen Direktors\ muss besser abgegrenzt werden.
+
+Ceci n'est pas compatible avec les principes /d'une constitution démocratique/. 
+Dies ist mit den Grundsätzen \einer demokratischen Verfassung\ unvereinbar. 
+
+/Un jour/, la situation explosera. 
+\Eines Tages\ wird die Situation explodieren.
+
+/Un beau matin/, Müller apprit que l'entreprise de son père était en faillite. 
+\Eines Morgens\ erfuhr Müller, dass die Firma seines Vaters pleite war. 
+
+Je préfère m'abstenir /de tout commentaire/. 
+Ich ziehe es vor, mich \jeden Kommentars\ zu enthalten. 
+
+Je veux bien m'occuper /de cette affaire délicate/. 
+Ich will mich gerne \dieser heiklen Sache\ annehmen.
+
+Ce n'est pas le rôle de notre banque d'avoir pitié /d'un client insolvable/.
+Es gehört nicht zur Rolle unserer Bank, sich \eines insolventen Kunden\ zu erbarmen. 
+
+Cette décision /du/ gouvernement sera contestée /par les/ syndicats. 
+Diese Entscheidung \der\ Regierung wird \von den\ Gewerkschaften beanstandet werden. 
+
+Nous sommes réunis ici pour commémorer /certains événements tragiques/. 
+Wir sind hier versammelt, um \gewisser tragischer Ereignisse\ zu gedenken.
+
+/Un soir/, il découvrit à la télévision le Musée d'art contemporain de Prague. 
+\Eines Abends\ entdeckte er im Fernsehen das Prager Museum für moderne Kunst.
+
+E. Hillary est considéré comme /le vainqueur du mont Everest/. 
+E. Hillary gilt als \der Bezwinger des Mount Everest\. 
+
+/Les ressources nécessaires/ nous manquent pour nous engager dans ce projet.
+Wir entbehren \der nötigen Mittel\, um uns für dieses Projekt zu engagieren. 
+
+Nous pouvons considérer son geste comme /un signe de gratitude/. 
+Wir können seine Geste als \Zeichen der Dankbarkeit\ auffassen (ou werten).
+
+Je me souviens /d'un cas semblable/. 
+Ich entsinne mich \eines ähnlichen Falles\. 
+
+L'opinion /de telles personnes/ ne nous intéresse pas.
+Die Meinung \solcher Leute\ interessiert uns nicht.
+
+Il travaille /chaque dimanche/. 
+Er arbeitet \jeden Sonntag\.
+
+En revanche, /chaque deuxième/ jeudi et /chaque troisième/ vendredi du mois, il est en congé.
+Dagegen hat er \jeden zweiten\ Donnerstag und \jeden dritten\ Freitag frei. 
+
+Il va /tous les jours/ au théâtre pour voir la même pièce. 
+Er geht \jeden Tag\ ins Theater, um das gleiche (selbe) Stück zu sehen.
+
+Il connaît /sans doute/ la pièce par coeur.
+\Ohne Zweifel\ kennt er das Stück auswendig.
+
+/Lundi/, il faisait chaud, comme /tout le mois de juillet/. 
+\(Am) Montag\ war es heiß, wie \den ganzen Juli\.
+
+Je déteste l'été, parce que /tous les jours/, il fait chaud. 
+Ich hasse den Sommer, weil es \jeden Tag\ heiß ist.
+
+Comme /tous les ans à cette période/, les lycéens et étudiants font grève. 
+Wie \jedes Jahr zu (!) dieser Zeit\ streiken die Gymnasiasten und Studenten. 
+
+/Ce mois-ci/, nous devons nous attendre à de nouvelles grèves. 
+\Diesen Monat\ müssen wir neue (weitere) Streiks erwarten. 
+
+(Datation d'une lettre) Paris, /le/ 31 août 2006. 
+Paris, \den 31.\ August 2006. 
+
+/Pendant un mois entier/, je me suis occupé de ce projet. 
+\Einen ganzen Monat (lang)\ habe ich mich um dieses Projekt gekümmert. 
+
+Ma mission dure environ /la moitié d'un mois/. 
+Meine Mission dauert ungefähr \einen halben Monat\. 
+
+Je ne vois pas de solution /à cette crise/. 
+Ich sehe keine Lösung \für diese Krise\. 
+
+Mayer peut réparer l'ordinateur /de manière provisoire/.
+Mayer kann den Computer \provisorisch\ reparieren.
+
+L'appareil fonctionnera alors /pendant deux mois/. 
+Der Apparat wird dann \zwei Monate (lang)\ funktionieren.
+
+/Pendant trois longues années/, nous étions absents. 
+\Drei lange Jahre\ waren wir abwesend. 
+
+/Le premier mois/, il avait du mal à s'habituer au climat. 
+\Den ersten Monat\ hatte er es schwer, sich an das Klima zu gewöhnen. 
+
+/Le premier mois/, vous suivrez un stage de communication. 
+\Den ersten Monat\ werden Sie einen Lehrgang in Kommunikation absolvieren.
+
+/Ce mois-ci/, nous nous reverrons. 
+\Diesen Monat\ werden wir uns wiedersehen.
+
+Nous nous reverrons /le mois prochain/. 
+Wir werden uns \nächsten Monat\ wiedersehen.
+
+Nous nous reverrons /le mois prochain/.
+Wir werden uns \nächsten Monat\ treffen. 
+
+Nous nous rencontrerons /lundi prochain/. 
+Wir werden uns \(am) Montag\ treffen. 
+
+Je ne peux pas /vous/ aider. 
+Ich kann \Ihnen\ nicht helfen.
+
+Mon oncle ressemble /au dernier/ empereur de Chine. 
+Mein Onkel ähnelt \dem letzten\ Kaiser von China.
+
+Devenir moine ou religieuse signifie renoncer /au monde/. 
+Mönch oder Nonne werden bedeutet \der Welt\ zu entsagen.
+
+Ce château appartient /à un aristocrate ruiné/. 
+Dieses Schloss gehört \einem ruinierten Adligen|Aristokraten\.
+
+Le président a félicité /le ministre des Affaires étrangères/. 
+Der Präsident hat \dem Außenminister\ gratuliert.
+
+La direction envisage de licencier /l'ingénieur Müller/.
+Die Direktion zieht in Betracht, \dem Ingenieur Mayer\ zu kündigen (ou \den Ingenieur Mayer\ zu entlassen).
+
+Nous avons échappé /à un grand désastre/.
+Wir sind \einem Desaster\ entkommen.
+
+Vous pouvez /me/ menacer autant que vous voulez, je ne /vous/ obéirai pas.
+Sie können \mir\ drohen, wie Sie wollen, ich gehorche \Ihnen\ nicht.
+
+Il est intéressant de regarder /ce spectacle/. 
+Es ist interessant, \diesem Schauspiel\ zuzusehen.
+
+Il est inutile de flatter /les incorruptibles/.
+Es ist zwecklos, \den (dat. pluriel) Unbestechlichen\ zu schmeicheln.
+
+Les faits contredisent /la théorie classique/ de l'inflation.
+Die Tatsachen widersprechen \der klassischen Theorie\ der Inflation.
+
+La commission d'enquête a approuvé /les comptes/ de l'entreprise.
+Die Untersuchungskommission hat \der Abrechnung\ des Unternehmens zugestimmt.
+
+La direction n'a pas suivi /les recommandations/ de la commission d'experts. 
+Die Direktion ist den Empfehlungen \der Sachverständigenkommission\ nicht gefolgt.
+
+Il est fatigant d'assister /à cette cérémonie interminable/. 
+Es ist ermüdend, \dieser endlosen Zeremonie\ beizuwohnen.
+
+De telles plaisanteries ne plaisent pas /à tout le monde/. 
+Solche Scherze gefallen nicht \jedem\.
+
+Nous /vous/ apportons une excellente nouvelle. 
+Wir bringen \Ihnen\ eine ausgezeichnete Nachricht.
+
+Grâce à un vice de forme, il a échappé /à la condamnation/.
+Dank eines Formfehlers entkam/entging er \der (dat.) Verurteilung\.
+
+Je /vous/ remercie de vos précieuses remarques. 
+Ich danke \Ihnen (dat.)\ für Ihre wertvollen Bemerkungen.
+
+Nous pensons souvent /à vous/ (forme de politesse, sing.). 
+Wir denken oft \an (!) Sie\.
+
+Il travaille /à un projet prometteur/. 
+Er arbeitet \an (!) einem vielversprechendem Projekt\.
+
+Vous devez aussi faire attention /à des petits détails/. 
+Sie müssen auch \auf kleine Einzelheiten\ Acht geben.
+
+Durant les négociations, des tensions entre les délégations chinoise et vietnamienne /ont percé au grand jour/. 
+Während der Verhandlungen sind Spannungen zwischen der chinesischen und der vietnamesischen Delegation \zum Vorschein gekommen\.
+
+Malgré la bonne volonté de la direction, les délégués du personnel refusent /pour l'instant/ tout compromis.
+Trotz des guten Willens der Unternehmensleitung verweigern der Betriebsrat \jeglichen\ Kompromiss.
+
+Tout cela est arrivé /à cause de la mauvaise organisation du congrès/.
+All das ist wegen \der schlechten Organisation des Kongresses\ passiert.
+
+Nous nous sommes suffisamment disputés /à propos de ce sujet pénible/.
+Wir haben uns \über dieses leidige Thema\ genug gestritten.
+
+Dans nos réunions, le directeur de la distribution est habituellement assis /en face du chef comptable/.
+Während unserer Konferenzen sitzt der Vertriebsdirektor meistens \dem Chefbuchhalter gegenüber\.
+
+Il s'agit non pas /de la perte/ de ce client, mais /de votre propre incompétence/.
+Es geht hier nicht \um den Verlust\ eines Kunden, sondern \um ihre eigene\ Unfähigkeit.
+
+Je ne suis pas contre ce projet /en soi/. Mais sans un minimum de mesures de précaution, l'échec est inévitable.
+Ich bin nicht gegen dieses Projekt \als solches\. Aber ohne ein Minimum von Vorsichtsmassnahmen wäre das Scheitern unvermeidlich.
+
+Le trésorier parlera /après le secrétaire général/.
+Der Schatzmeister wird \nach dem Generalsekretär\ sprechen.
+
+Je /n'ai jamais/ entendu parler /de/ cette entreprise. 
+Ich habe \noch nie etwas von\ diesem Unternehmen gehört.
+
+Il regrette sincèrement l'attitude qu'il est obligé d'observer /vis-à-vis de vous/. 
+Er bedauert aufrichtig die Haltung, die er \Ihnen gegenüber\ zeigen muss.
+
+/Plus qu'un ordinateur plus performant/, nous aurions besoin de collaborateurs motivés et Imaginatifs. 
+\Anstelle eines neuen, leistungsfähigeren Computers\ brauchen wir eher motivierte und einfallsreiche Mitarbeiter.
+
+Depuis notre fusion avec la société USW, les effectifs se montrent méfiants /à l'égard de la direction/.
+Seit unserer Fusion mit der Gesellschaft USW zeigt sich die Belegschaft \der Direktion gegenüber\ misstrauisch.
+
+Je ne sais pas si je peux collaborer /avec ce monsieur/. 
+Ich weiß nicht, ob ich \mit diesem Herrn\ zusammenarbeiten kann.
+
+Malgré des conditions atmosphériques défavorables, le syndicat des vignerons de la région s'attend /à une année extraordinaire/.
+Trotz \ungünstiger Wetterbedingungen\ verspricht sich der Winzerverband der Gegend \einen guten Jahrgang\.
+ 
+Je l'ai appris /par l'intermédiaire du nouveau client/. 
+Ich habe das \durch den neuen Kunden\ erfahren.
+
+/Sans votre aide précieuse/, nous n'aurions /pas avancé si vite/.
+\Ohne Ihre wertvolle Hilfe\ wären wir nicht \so schnell vorwärts gekommen\.
+
+/A l'occasion de la dernière assemblée générale/, les statuts de la société furent légèrement modifiés.
+\Angelegentlich der letzten Vollversammlung\ wurde die Satzung der Gesellschaft leicht geändert.
+
+/Mis à part l'installation/ d'un dispositif vidéo-surveillance performant, la compagnie d'assurances exige la présence permanente de vigiles sur le site.
+\Außer der Einrichtung\ einer leistungsfähigen Videoüberwachungs-Anlage fordert die Versicherungsgesellschaft die ständige Anwesendheit von Wachleuten auf dem Gelände.
+
+Notre système de vidéo-surveillancè est équipé /de caméras performantes/.
+Unsere Videoüberwachungs-Anlage ist \mit leistungsfähigen Kameras\ ausgerüstet.
+
+Depuis quelque temps, certains pays du tiers-monde s'intéressent /à des questions touchant à l'environnement/.
+Seit einiger Zeit interessieren sich gewisser Länder der Dritten Welt \für Umweltfragen\.
+
+Des lacunes dans cette documentation /nous empêchent de nous former/ une opinion globale.
+Gewisse Lücken in dieser Dokumentation \hindern mich daran, mir\ eine umfassende Meinung \zu bilden\.
+
+/Derrière le prétexte humanitaire/ de l'opération se cachent des motifs économiques.
+\Hinter dem humanitären Vorwand\ der Operation verbergen sich wirtsctiaftliche Motive.
+
+Je dois insister /sur un point important/ de l'affaire.
+Ich muss \auf einen wichtigen Punkt\ dieser Sache (ou Angelegenheit) besonders eingehen.
+
+Je pense surtout /au gain de prestige/ que cette opération nous apporte.
+Ich denke vor allem \an den Prestigegewinn\, den uns diese Operation einbringt.
+
+Le directeur technique voudrait revenir /sur la nécessité/ de remplacer le parc de machines obsolète.
+Der technische Direktor würde gerne auf \die Notwendigkeit zurückkommen\, den übeholten Maschinenpark zu ersetzen.
+
+/Dans sa situation/, il n'a pas d'autre choix que de démissionner. 
+\In seiner Lage bleibt\ ihm keine andere Wahl, als zurückzutreten.
+
+Je me souviens /d'un cas semblable/. 
+Ich erinnere mich \an einen ähnlichen Fall\.
+
+Votre nouvelle attitude vous ramènera /vers le droit chemin/.
+Ihre neue Haltung wird Sie \zum rechten Weg\ zurückführen.
+
+Dans votre position, vous devez croire /à l'avenir/ de l'entreprise.
+In Ihrer Stellung müssen Sie \an die Zukunft\ des Unternehmens glauben.
+
+Des panneaux bien visibles /indiquent la présence d'un virage dangereux/. 
+Gut sichtbare Schilder \weisen auf eine gefährliche Kurve hin\.
+
+Nous devrions nous orienter /d'après les nouvelles directives/ de la Commission europeenne.
+Wir sollten uns \nach den Richtlinien\ der Europäischen Kommission orientieren.
+
+Toute son argumentation se base /sur ce point/.
+Seine ganze Argumentation basiert \auf diesem Punkt\.
+
+/A part ce thème fâcheux/, nous aborderons des affaires plus plaisantes.
+\Neben diesem leidigen Thema\ werden wir auch erfreulichere Sachen anschneiden.
+
+Qu'entendez-vous /par une solution raisonnable/ ?
+Was verstehen Sie \unter einer vernünftigen Lösung\ ?
+
+Je me sens partagé /entre de prises de position contradictoires/.
+Ich fühle mich \zwischen widersprüchlichen Stellungnahmen (dat. pluriel)\ hin und hergerissen.
+
+J'arrive maintenant /à l'essentiel/.
+Ich komme jetzt \zum Wesentlichen\.
+
+En France, le président de la République est /élu au suffrage universel/. 
+In Frankreich wird der Staatspräsident \in direkter Wahl gewählt\.
+
+Dans une semaine, il sera trop tard /pour faire quelque chose/. 
+In einer Woche wird es zu spät sein, \um noch etwas zu machen\.
+
+Dans une semaine, il sera trop tard /pour pouvoir faire quelque chose/. 
+In einer Woche wird es zu spät sein, \um noch etwas machen zu können\.
+
+La réforme des retraites /ne peut pas plaire à tout le monde/. Mais l'unanimité politique n'est pas possible. 
+Die Rentenreform \kann nicht allen gefallen\. Aber politische Einstimmigkeit ist nicht möglich.
+
+Mais, dans ce domaine, /l'unanimité/ n'est pas possible. 
+Aber auf diesem Gebiet ist \Einstimmigkeit\ nicht möglich.
+
+Depuis deux ans, /nous affrontons une situation difficile/. 
+Seit zwei Jahren \stehen wir einer schwierigen Lage gegenüber\. 
+
+Et juste maintenant, notre client principal /se trouve en cessation de paiement/.
+Und gerade jetzt \stellt unser Hauptkunde die Zahlungen ein\.
+
+/Pour réussir à mes examens/, je dois travailler davantage. 
+\Um meine Examen zu bestehen\, muss ich mehr arbeiten.
+
+Aujourd'hui, je n'ai pas eu le temps de réfléchir /à ta dernière proposition/. 
+Heute habe ich keine Zeit gehabt, um \über deinen letzten Vorschlag\ nachzudenken.
+
+Tu dois écouter la météo, car en Méditerranée, le temps peut /changer d'un moment à l'autre/. 
+Du musst (dir) den Wetterbericht anhören, denn im Mittelmeer kann das Wetter \von einem Augenblick zum andern umschlagen\.
+
+La commission n'a pas pu se réunir, mais elle /reprendra ses travaux/ probablement demain. 
+Die Kommission hat sich nicht versammeln können, aber sie wird wahrscheinlich morgen \ihre Arbeit wieder aufnehmen\.
+
+Depuis quelques années déjà, il n'est plus d'accord /avec les orientations de conseil d'administration/. 
+Seit einigen Jahren schon ist er \mit den Orientierungen des Verwaltungsrates\ nicht mehr einverstanden.
+
+Ils avaient /investi beaucoup argent/ dans ce projet. Leur déception est /d'autant plus grande/. 
+Sie hatten in dieses Projekt \viel Geld hineingesteckt\. Ihre Enttäuschung \ist um so größer\.
+
+Je dois aussi /prendre en considération l'avis de vos adversaires/. 
+Ich muss auch \auf die Meinung Ihrer Gegner eingehen\.
+
+II m'est difficile de /prendre au sérieux ce genre de propos/.
+Es fällt mir schwer, \diese Sorte von Äußerungen ernst zu nehmen\.
+
+Mes parents vivent /depuis bientôt/ dix ans en Norvège.
+Meine Eltern leben \seit bald\ zehn Jahren in Norwegen. 
+
+Mais ma mère /n'a toujours pas pu s'habituer/ à la mentalité des Scandinaves.
+Aber meine Mutter \hat\ sich immer noch nicht an die Mentalität der Skandinavier \gewöhnen können\.
+
+/Lui aussi/ est considéré comme un expert compétent. 
+\Auch er gilt\ als kompetenter Sachverständiger.
+
+/Il est/ aussi considéré comme un expert compétent.
+\Auch gilt er\ als kompetenter Sachverständiger.
+
+J'ai vu la catastrophe arriver. Mais personne /n'a voulu m'écouter/.
+Ich habe die Katastrophe kommen sehen. Aber keiner (niemand) \hat mich anhören wollen\. 
+
+L'année dernière, il a eu raison d'être prudent, car la conjoncture économique /a en empiré/.
+Letztes Jahr hat er rechtgehabt, vorsichtig zu sein, denn die wirtschaftliche Konjunktur \hat sich verschlechtert\.
+
+A mon avis, ce malentendu /aurait pu être évité/. 
+Meiner Meinung nach \hätte\ dieses Missverständnis \vermieden werden können\.
+
+Il est temps d'entreprendre /quelque chose de constructif/.
+Es wird Zeit, \etwas Konstruktives\ zu unternehmen.
+
+Nous devons d'abord /attendre la décision/ du chef de service. 
+Wir müssen erst \die Entscheidung\ des Abteilungsleiters \abwarten\.
+
+Malgré leur droit et de vote, de nombreux citoyens /considèrent/ notre démocratie /comme imparfaite/.
+Trotz ihres Wahlrechts \halten\ viele Staatsbürger unsere Demokratie \für unvollkommen\.
+
+Je ne suis pas venu pour /me disputer avec vous/.
+Ich bin nicht gekommen, um \mich mit Ihnen zu streiten\.
+
+Cette affaire /est terminée/ avant d'avoir commencé.
+Diese Angelegenheit \ist beendet\, bevor sie angefangen hat.
+
+Il dit /qu'il arrive demain/. 
+Er sagt, \er käme morgen\.
+
+Si seulement /j'avais/ mieux préparé mon examen, /je n'aurais pas/ échoué.
+\Hätte ich\ nur mein Examen besser vorbereitet, \ich wäre dann nicht\ durchgefallen.
+
+/Si la Pologne rejetait le traité simplifié de l'Union européenne/, cela signignifierait un nouvel échec pour la diplomatie française.
+\Polen den vereinfachten Vertrag der Europäischen Union ablehnen\, wäre das ein Fehlschlag für die französische Außenpolitik.
+
+Oui, /la situation est assez sérieuse/.
+Ja, \die Lage ist ziemlich ernst\.
+
+En été, le travail saisonnier /entraîne/ une baisse éphémère du chômage.
+Im Sommer \bewirkt\ die Saisonarbeit einen vorrübergehenden Rückgang der Arbeitslosigkeit. 
+
+/Or, dès que l'automne arrive/, le nombre de chômeurs augmente à nouveau.
+\Doch kommt erst der Herbst\, dann steigt die Zahl der Arbeitslosen wieder an.
+
+/Eh bien,/ vous m'avez réellement déçu.
+\Nun,\ Sie haben mich schwer enttäuscht.
+
+Si j'avais l'argent nécessaire, /je serais capable/ de le placer judicieusement.
+Wenn ich das nötige Geld hätte, \wäre ich in der Lage\, es sinnvoll anzulegen.
+
+Depuis le début des années 1980, l'économie /domine/ une grande partie de notre pensée quotidienne.
+Seit Anfang der Achtzigerjahre \beherrscht\ die Wirtschaft einen großen Teil unseres täglichen Denkens.
+
+Les négociations avec les syndicats ont /à nouveau/ échoué. 
+Die Verhandlungen mit den Gewerkschaften sind \erneut\ gescheitert.
+
+Il n'est /pas toujours facile/ de Je négocier avec les syndicats.
+Es ist nicht \immer einfach|leicht\, mit den Gewerkschaften zu verhandeln.
+
+Nous /devons au/ progrès scientifique et technologique nos conditions de vie /particulièrement favorables/.
+Wir \verdanken dem\ wissenschaftlichen und technischen Fortschritt unsere \außerordentlich günstigen\ Lebensbedingungen.
+
+/Avec ce genre d'entreprise/, il n'est pas question de faire des affaires. 
+\Mit dieser Sorte (von) Unternehmen\ kommt es nicht in Frage, Geschäfte zu machen.
+
+Je donne une dernière chance à l'ingénieur Mayer pour /redresser la situation/. 
+Ich gebe dem Ingenieur Mayer eine letzte Chance, \die Situation wieder in Ordnung zu bringen\.
+
+Je /me consacre entièrement/ à ma tâche de redresser les finances. 
+Ich \widme mich ganz\ meiner Aufgabe, die Finanzen zu sanieren.
+
+Nous devons encore /soumettre/ notre projet /au/ ministère compétent.
+Wir müssen noch unser Projekt \dem\ zuständig\en\ Ministerium \unterbreiten\.
+
+A cause de la TVA, nous donnons tous les jours /une partie considérable/ de notre argent à l'Etat.
+Wegen der Mehrwertsteuer geben wir jeden Tag dem Staat \einen beträchtlichen Anteil\ unseres Geldes.
+
+Je participe à un congrès /au Portugal/. 
+Ich nehme an einem Kongress \in Portugal\ teil.
+
+Au Portugal, je participe à un congrès. 
+Ich nehme \in Portugal an einem Kongress\ teil.
+\In Portugal\ nehme ich \an einem Kongress\ teil.
+
+En été, notre entreprise organise /surtout/ des excursions à la montagne. 
+Im Sommer organisiert unser unternehmen \vor allem\ Ausflüge ins Gebirge.
+
+Müller fait son possible pour /contrecarrer/ les projets de Mayer. 
+Müller tut sein Möglichstes, um Mayers Projekt \in die Quere zu kommen\.
+
+La direction de l'entreprise /qualifie/ cette grève /d'irresponsabilité économique/. 
+Die Unternehmensleitung \bezeichnet\ diesen Streik \als wirtschaftliche Werantwortungslosigkeit\.
+
+Les bananes /des Antilles/ françaises sont subventionnées. 
+Die Bananen \von den französischen Antillen\ sind|werden subventioniert.
+
+La /faillite/ de la société USW est ressentie /comme un échec pour/ toute la branche. 
+Der \Konkurs|die Pleite\ der Firma USW wird \als Niederlage für\ die ganze Branche empfunden.
+
+Avec une douzaine de logiciels inutiles, /l'ordinateur de Maria/ est /suréquipé/. 
+Mit einem Dutzend unnötiger Softwareprogramme ist \Marias Computer\ \übermäßig ausgestattet\.
+
+Avec une douzaine de logiciels inutiles, /l'ordinateur de mon chef/ est /suréquipé/.
+Mit einem Dutzend unnötiger Softwareprogramme ist \der Computer meines Chefs\ \übermäßig ausgestattet\.
+
+Dans la plupart des Etats occidentaux, /la fonction/ de président de la République est surtout représentative.
+In den meisten westlichen Staaten ist \das Amt\ des Präsidenten vor allem repräsentativ.
+
+Mais le président /des Etats-Unis/ dispose d'un pouvoir considérable.
+Aber der Präsident \der Vereinigten Staaten\ verfügt über eine bedeutende Macht.
+
+Une année après /la catastrophe ferroviaire/, une plaque commémorative en marbre rouge fut /dévoilée/.
+Ein Jahr nach \dem Eisenbahnunglück\ wurde eine Gedenktafel aus rotem Marmor \enthüllt\.
+
+Le siècle des Lumières /coïncide en partie/ avec le règne de Louis XV.
+Die Aufklärung \fällt teilweise\ mit der Regierungszeit Ludwigs des Sechzehnten \zusammen\.
+
+Je dois d'abord m'informer /sur cette affaire/. 
+Ich muss mich erst \über diese Angelegenheit\ informieren.
+
+Le chef de service vous /fournira/ toutes les informations nécessaires. 
+Der Abteilungsleiter wird Ihnen alle nötigen Informationen \geben|übermitteln\.
+
+Le secrétaire général nous rendra visite. Nous /faisons de notre mieux/ pour le recevoir avec les honneurs.
+Der Generalsekretär wird uns besuchen. Wir \tun unser Bestes\, um ihn mit allen Ehren zu empfangen.
+
+Malheureusement, nous ne pouvons pas /donner suite/ à votre demande.
+Leider können wir Ihrem Gesuch nicht \stattgeben\.
+
+Il n'est pas possible de /prendre une telle décision/ si rapidement. 
+Es ist nicht möglich, \eine solche Entscheidung\ so schnell zu \treffen\.
+
+Aucun ordinateur ne peut être réparé /avec un marteau/. 
+Kein Computer kann \mit einem Hammer\ repariert werden.
+
+Je ne viendrai pas /à la réunion/ du conseil de surveillance. 
+Ich werde nicht \an der Sitzung\ des Aufsichtsrats teilnehmen.
+
+Il ne veut pas /se faire remarquer/ dans cet environnement hostile. 
+Er will in dieser feindlichen Umgebung nicht \auffallen\.
+
+Il fait des efforts pour ne pas /attirer l'attention/ dans cet environnement /hostile/. 
+Er bemüht sich, um in dieser \feindlichen\ Umgebung nicht \aufzufallen\.
+
+Ce logiciel ne représente pas /non plus/ la meilleure solution. 
+Diese Software stellt \auch nicht\ die beste Lösung dar.
+
+Le nouvel ingénieur /n'est apparemment pas capable/ de réorganiser son service. 
+Der neue Ingenieur \ist anscheinend nicht fähig|in der Lage\, seine Abteilung neu zu organisieren.
+
+Il /vaut mieux/ que nous ne nous /engagions/ pas dans cette histoire. 
+Wir \lassen\ uns \am besten\ nicht in diese Geschichte \ein\.
+
+La situation n'est pas encore /mûre/ pour prendre une décision. 
+Die Situation ist noch nicht \reif\, um eine Entscheidung zu treffen.
+
+Je ne l'ai pas vu, /hier/. 
+Ich habe ihn \gestern\ nicht gesehen.
+
+Cela ne peut pas /avoir eu lieu/ hier. 
+Das kann nicht gestern \stattgefunden haben\.
+
+Ceci n'est /certainement pas/ la bonne solution. 
+Das ist \sicher nicht\ die gute Lösung.
+
+Malgré sa nervosité, Mayer est un collaborateur /fiable/.
+Trotz seiner Nervosität ist Mayer ein \zuverlässiger\ Mitarbeiter.
+
+Bien que ses chances de réussite ne /fussent pas très élevées/, il ne devrait pas se laisser décourager.
+Obwohl seine Erfolgsaussichten nicht \sehr hoch stehen\, sollte er sich nicht ermutigen lassen.
+
+C'est vraiment dommage /quil ait raté cette occasion unique/ de se familiariser avec la culture d'entreprise de notre principal concurrent.
+Es ist wirklich schade, \dass er diese einmalige Gelegenheit verpasst hat\, sich mit der Unternehmenskultur unseres Hauptkonkurrenten vertraut zu machen.
+
+Elle est désespérée que son fils /ait échoué/ pour la troisième fois au baccalauréat. 
+Sie ist verzweifelt, dass ihr Sohn zum dritten Mal beim Abitur \durchgefallen ist\.
+
+Je savais /dès le début/ que ce projet n'allait jamais aboutir /à quoi que ce soit/. 
+Ich wusste \von Anfang an\, dass dieses Projekt \niemals zu irgend etwas\ führen würde.
+
+Depuis qu'il /s'est retiré à la campagne/, il se plaît dans le rôle d'un protecteur de l'environnement.
+Seitdem er \sich aufs Land zurückgezogen hat\, gefällt er sich in der Rolle eines Umweltschützers.
+
+Puisque le plus souvent /les bonnes résolutions/ restent sans conséquences, je commence /à trouver ridicule d'en parler/.
+Da \gute Vorsätze\ meistens ohne Folgen bleiben, fange ich an, \es lächerlich zu finden, davon zu sprechen\.
+
+Quand j'ai voulu l'informer du changement de notre politique, il m'a répondu /que de telles choses ne l'intéressaient plus depuis longtemps/. 
+Als ich ihn über die Änderung unserer Politik informieren wollte, hat er mir geantwortet \dass ihn solche Sachen schon lange nicht mehr interessierten\.
+
+Bien que dans ce domaine les opinions /divergent/, nous espérons que les discussions /se déroulent poliment/. 
+Obwohl auf diesem Gebiet die Meinungen \auseinandergehen\, hoffen wir, dass die Diskussionen \höflich verlaufen\.
+
+Il prétend savoir de source sûre que la Banque centrale a décidé de baisser le taux d'intérêt de deux pour cent.
+Er gibt vor, \aus sicherer Quelle\ zu wissen (ou dans un contexte de doute manifeste : Er \will aus sicherer Quelle\ wissen), dass die Zentralbank beschlossen hat, den Zinssatz um zwei Prozent zu senken.
+
+Puisque je n'ai pas pu venir à cette réunion, je ne me sens pas responsable /de ce que/ vous avez décidé.
+Da ich an dieser Sitzung nicht habe teilnehmen können, fühle ich mich nicht verantwortlich \für das, was\ Sie beschlossen haben.
+
+Si vous voulez réellement que je termine cette tâche avant la fin de cette semaine, /j'ai besoin de l'aide/ de trois collaborateurs qualifiés.
+Wenn Sie wirklich wollen, dass ich diese Aufgabe (noch) vor Ende dieser Woche beende, \dann benötige ich die Hilfe\ dreier qualifizierter Mitarbeiter.
+
+Nous savons que surtout dans les pays du tiers-monde, le fossé entre riches et pauvres /prend une ampleur particulièrement drastique/.
+Wir wissen, dass vor allem in den Ländern der Dritten Welt die Kluft zwischen arm und reich \besonders drastische Ausmaße annimmt\.
+
+Au début, il était si impressionné qu'il /osait à peine/ le regarder.
+Anfangs war er so beeindruckt, dass er \kaum wagte\, ihn anzusehen. 
+
+Que ces articles se vendent maintenant beaucoup mieux est /une preuve de l'efficacité/ de notre dernière campagne publicitaire.
+Dass sich diese Artikel jetzt viel besser verkaufen, ist \ein Beweis für die Wirksamkeit\ unserer letzten Werbekampagne.
+
+A son avis, il faut mettre les pédophiles récidivistes à l'hôpital psychiatrique, /et non pas en prison/. 
+Er ist der Meinung, dass man rückfällige Pädophile in eine psychiatrische Klinik, \und nicht ins Gefängnis stecken sollte\.
+
+Les chances de succès de ce projet sont si minimes que j'ai vraiment du mal à comprendre /comment vous avez pu y investir une somme pareille/. 
+Die Erfolgsaussichten für dieses Projekt sind so gering, dass es mir wirklich schwer fällt, zu verstehen, \wie Sie da eine solche Geldsumme hineinstecken haben können\.
+
+Le président, /dont le mandat touche à sa fin dans trois semaines/, a peu de chances l'être réélu, puisque ceux qui avaient voté pour lui /sont maintenant les premiers à le regretter/.
+Der Präsident, \dessen Amtszeit in drei Wochen abläuft\, hat wenig Chancen, wiedergewählt zu werden, da die, die für ihn gestimmt hatten, \jetzt sie ersten sind, die es bedauern\.
+
+Je n'ai jamais affirmé qu'il serait facile de convaincre le P-DG de la nécessité de /composer avec les syndicats/.
+Ich habe nie(mals) behauptet, dass es leicht|einfach sei, den Generaldirektor von der Notwendigkeit zu überzeugen, \sich mit den Gewerkschaften gütlich zu einigen\.
+
+Si j'avais le temps de m'occuper /de telles futilités/, je n'/hésiterais/ pas à /adhérer/ à votre club.
+Wenn ich die Zeit hätte, mich \um solche Belanglosigkeiten\ zu kümmern, \würde\ ich nicht \zögern\, Ihrem Klub \beizutreten\.
+
+On oublie trop souvent que nos /réserves pétrolières/ sont limitées.
+Man vergisst (all)zu oft, dass unsere \Erdölvorkommen\ begrenzt sind.
+  

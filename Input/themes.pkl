@@ -481,7 +481,7 @@ p287
 aa(lp288
 VLe président a félicité \u005cBOLD{le ministre des Affaires étrangères}.
 p289
-aVDer Präsident hat \u005cBOLD{dem Außenminister} gratuliert.
+aVDer Präsident hat \u005cHIDE{dem Außenminister} gratuliert.
 p290
 aa(lp291
 VLa direction envisage de licencier \u005cBOLD{l'ingénieur Müller}.
@@ -784,14 +784,14 @@ p469
 aV\u005cHIDE{Um meine Examen zu bestehen}, muss ich mehr arbeiten.
 p470
 aa(lp471
-VAujourd'hui, je n'ai pas eu le temps de réfléchir à ta dernière proposition.
+VAujourd'hui, je n'ai pas eu le temps de réfléchir \u005cBOLD{à ta dernière proposition}.
 p472
-aVHeute habe ich keine Zeit gehabt, um über deinen letzten Vorschlag nachzudenken.
+aVHeute habe ich keine Zeit gehabt, um \u005cHIDE{über deinen letzten Vorschlag} nachzudenken.
 p473
 aa(lp474
 VTu dois écouter la météo, car en Méditerranée, le temps peut \u005cBOLD{changer d'un moment à l'autre}.
 p475
-aVDu musst (dir) den Wetterbericht anhören, denn im Mittelmeer kann das Wetter \u005cBOLD{von einem Augenblick zum andern umschlagen}.
+aVDu musst (dir) den Wetterbericht anhören, denn im Mittelmeer kann das Wetter \u005cHIDE{von einem Augenblick zum andern umschlagen}.
 p476
 aa(lp477
 VLa commission n'a pas pu se réunir, mais elle \u005cBOLD{reprendra ses travaux} probablement demain.
@@ -998,7 +998,7 @@ p597
 aa(lp598
 VLa \u005cBOLD{faillite} de la société USW est ressentie \u005cBOLD{comme un échec pour} toute la branche.
 p599
-aVDer \u005cHIDE{Konkurs|die Pleite} der Firma USW wird \u005cBOLD{als Niederlage für\u005cHIDE{ die ganze Branche empfunden.} die ganze Branche empfunden.}als Niederlage für\u005cHIDE{ die ganze Branche empfunden.} die ganze Branche empfunden.
+aVDer \u005cHIDE{Konkurs|die Pleite} der Firma USW wird \u005cHIDE{als Niederlage für} die ganze Branche empfunden.
 p600
 aa(lp601
 VAvec une douzaine de logiciels inutiles, \u005cBOLD{l'ordinateur de Maria} est \u005cBOLD{suréquipé}.
@@ -1146,9 +1146,9 @@ p686
 aVDa \u005cHIDE{gute Vorsätze} meistens ohne Folgen bleiben, fange ich an, \u005cHIDE{es lächerlich zu finden, davon zu sprechen}.
 p687
 aa(lp688
-VQuand j'ai voulu l'informer du changement de notre politique, il m'a répondu que de telles choses ne l'intéressaient plus depuis longtemps.
+VQuand j'ai voulu l'informer du changement de notre politique, il m'a répondu \u005cBOLD{que de telles choses ne l'intéressaient plus depuis longtemps}.
 p689
-aVAls ich ihn über die Änderung unserer Politik informieren wollte, hat er mir geantwortet dass ihn solche Sachen schon lange nicht mehr interessierten.
+aVAls ich ihn über die Änderung unserer Politik informieren wollte, hat er mir geantwortet \u005cHIDE{dass ihn solche Sachen schon lange nicht mehr interessierten}.
 p690
 aa(lp691
 VBien que dans ce domaine les opinions \u005cBOLD{divergent}, nous espérons que les discussions \u005cBOLD{se déroulent poliment}.
@@ -1166,9 +1166,9 @@ p698
 aVDa ich an dieser Sitzung nicht habe teilnehmen können, fühle ich mich nicht verantwortlich \u005cHIDE{für das, was} Sie beschlossen haben.
 p699
 aa(lp700
-VSi vous voulez réellement que je termine cette tâche avant la fin de cette semaine, j'ai besoin de l'aide de trois collaborateurs qualifiés.
+VSi vous voulez réellement que je termine cette tâche avant la fin de cette semaine, \u005cBOLD{j'ai besoin de l'aide} de trois collaborateurs qualifiés.
 p701
-aVWenn Sie wirklich wollen, dass ich diese Aufgabe (noch) vor Ende dieser Woche beende, dann benötige ich die Hilfe dreier qualifizierter Mitarbeiter.
+aVWenn Sie wirklich wollen, dass ich diese Aufgabe (noch) vor Ende dieser Woche beende, \u005cHIDE{dann benötige ich die Hilfe} dreier qualifizierter Mitarbeiter.
 p702
 aa(lp703
 VNous savons que surtout dans les pays du tiers-monde, le fossé entre riches et pauvres \u005cBOLD{prend une ampleur particulièrement drastique}.
@@ -1196,18 +1196,23 @@ p716
 aVDie Erfolgsaussichten für dieses Projekt sind so gering, dass es mir wirklich schwer fällt, zu verstehen, \u005cHIDE{wie Sie da eine solche Geldsumme hineinstecken haben können}.
 p717
 aa(lp718
-VLe président, dont le mandat touche à sa fin dans trois semaines, a peu de chances l'être réélu, puisque ceux qui avaient voté pour lui sont maintenant les premiers à le regretter.
+VLe président, \u005cBOLD{dont le mandat touche à sa fin dans trois semaines}, a peu de chances l'être réélu, puisque ceux qui avaient voté pour lui \u005cBOLD{sont maintenant les premiers à le regretter}.
 p719
-aVDer Präsident, dessen Amtszeit in drei Wochen abläuft, hat wenig Chancen, wiedergewählt zu werden, da die, die für ihn gestimmt hatten, jetzt sie ersten sind, die es bedauern.
+aVDer Präsident, \u005cHIDE{dessen Amtszeit in drei Wochen abläuft}, hat wenig Chancen, wiedergewählt zu werden, da die, die für ihn gestimmt hatten, \u005cHIDE{jetzt sie ersten sind, die es bedauern}.
 p720
 aa(lp721
 VJe n'ai jamais affirmé qu'il serait facile de convaincre le P-DG de la nécessité de \u005cBOLD{composer avec les syndicats}.
 p722
-aVIch habe nie(mals) behauptet, dass es leicht\u005cBOLD{einfach sei, den Generaldirektor von der Notwendigkeit zu überzeugen, sich mit den Gewerkschaften \u005cHIDE{gütlich zu einigen}.}einfach sei, den Generaldirektor von der Notwendigkeit zu überzeugen, sich mit den Gewerkschaften \u005cHIDE{gütlich zu einigen}.
+aVIch habe nie(mals) behauptet, dass es leicht|einfach sei, den Generaldirektor von der Notwendigkeit zu überzeugen, \u005cHIDE{sich mit den Gewerkschaften gütlich zu einigen}.
 p723
 aa(lp724
 VSi j'avais le temps de m'occuper \u005cBOLD{de telles futilités}, je n'\u005cBOLD{hésiterais} pas à \u005cBOLD{adhérer} à votre club.
 p725
 aVWenn ich die Zeit hätte, mich \u005cHIDE{um solche Belanglosigkeiten} zu kümmern, \u005cHIDE{würde} ich nicht \u005cHIDE{zögern}, Ihrem Klub \u005cHIDE{beizutreten}.
 p726
+aa(lp727
+VOn oublie trop souvent que nos \u005cBOLD{réserves pétrolières} sont limitées.
+p728
+aVMan vergisst (all)zu oft, dass unsere \u005cHIDE{Erdölvorkommen} begrenzt sind.
+p729
 aa.
