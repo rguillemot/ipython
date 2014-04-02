@@ -725,4 +725,70 @@ Si j'avais le temps de m'occuper /de telles futilités/, je n'/hésiterais/ pas à 
 Wenn ich die Zeit hätte, mich \um solche Belanglosigkeiten\ zu kümmern, \würde\ ich nicht \zögern\, Ihrem Klub \beizutreten\.
 
 On oublie trop souvent que nos /réserves pétrolières/ sont limitées.
-Man vergisst (all)zu oft, dass unsere \Erdölvorkommen\ begrenzt sind.  
+Man vergisst (all)zu oft, dass unsere \Erdölvorkommen\ begrenzt sind.
+
+On ne doit jamais /se venter/ d'actes de mérite que d'autres /ont accomplis à sa place/.
+Man soll \sich\ niemals verdienstvoll\er\ Taten (\gen.\) \rühmen\, die andere \an unserer Stelle vollbracht haben\.
+
+Je /préfère attendre/ avant de signer ce contrat /certes avantageux en soi/, puisque nous n'avons pas encore pu /nous assurer de la fiabilité/ de la société USW.
+Ich \warte lieber ab\, bevor ich diesen \an sich zwar vorteilhaften\ Vertrag unterschreibe, da wir uns der Zuverlässigkeit der Gesellschaft USW noch nicht vergewissern haben können.
+
+Il /vise le rachat/ de cette entreprise pour des raisons économiques, mais aussi pour se venger /d'un vieux concurrent, pas toujours loyal/.
+Er \strebt den Aufkauf\ dieses Unternehmens aus wirtschaflichen Gründen \an\, aber auch um sich \an einem alten, nicht immer loyalen Konkurrenten\ zu rächen.
+
+/Conformément à ses souhaits/, il put s'emparer /de cette entreprise/.
+\Seiner Wünsche gemaß|Seinen Wünschen entsprechend|Wie er es sich gewünscht hatte\, konnte er sich \dieses Unternehmens (gen.)\ bemachtigen.
+
+Je /crains/ qu'il ne soit /pas apte/ pour ce poste.
+Ich \(be)fürchte\, dass er sich für diesen Posten (akk.) \nicht eignet\.
+
+Notre organisation pourrait /participer à votre projet/. Toutefois nous ne voulons pas /renoncer à nos activités en Afrique occidentale/.
+Unsere Organisation könnte \an Ihrem Prokekt mitwirken\. Jedoch wollen wir nicht \auf unsere Aktivitäten in Wesafrika verzichten\.
+
+Votre affirmation /repose sur/ des hypothèses incertaines.
+Ihre Behauptung \berüht auf\ unsicheren Hypothesen|Voraussetzungen.
+
+Contentons nous /de ce résultat/ qui depasse /nos prévisions les plus optimistes/.
+Benugen wir uns \mit diesem Ergebnis\, das \unsere optimistischsten Erwartungen\ übertrifft.
+
+Il travaille /à sa thèse/. C'est pourquoi il s'occupe /de thermodynamique/.
+Er arbeitet \an seiner Doktorarbeit\. Deshalb beschäftigt er sich \mit Thermodynamik\.
+
+Pour justifier /son verdict/, la cour /se réfère à/ un antécédent qui fait jurisprudence.
+Um \sein Urteil\ zu rechtfertigen, \beruft sich\ der Gerichtshof \auf\ einen Präzedenfall.
+
+Notre décision /dépend du/ développement de la conjoncture économique.
+Unsere Entscheidung \hängt von\ der Entwicklung der wirtschaftlichen Konjunktur \ab\.
+
+Dans les pays industrialisés /précisément/, des industries entières doivent se faire des soucis /quant à leur survie/.
+\Gerade\ in den industrialisierten Ländern, müssen sich ganze Industriezweige \um ihr Überleben\ sorgen.
+
+Nous avions l'impression /de mourir de froid/.
+Wir hatten den Eindruck\, vor Kälte zu sterben\.
+
+Dans son institut de recherche, il travaille /sur/ l'economie chinoise.
+In seinem Forschunginstitut, arbeitet er \über (akk.)\ die chinesische Wirtschaft.
+
+Je suis /conscient de ce fait/.
+Ich bin \mir dieser Tatsache (gen.) bewusst\.
+
+Comme d'habitude, nous nous disputons /à propos/ de politique.
+Wie üblich streiten wir uns \über (akk.)\ Politik.
+
+Plusieurs entreprises se disputent /ces parts de marché/.
+Mehrere Unternehmen streiten sich \um diese Marktanteile\.
+
+Cette affaire ne vaut pas /une dispute/.
+Diese Angelegenheit ist \keines Streits (gen.)\ wert.
+
+Des nouvelles recherches ont montré que les biocarburants sont eux aussi nuisible /à la nature/.
+Die neuere Forschunge hat gezeigt, dass auch Biokraftstoffe \der Natur\ schädlich sind.
+
+En Afrique, une grande partie de la population /souffre du/ SIDA.
+In Afrika, \leidet\ ein großer Teil der Bewölkerung \an (dat.)\ AIDS.
+
+En été, les personnes âgées souffrent /de la chaleur/.
+Im Sommer leiden die Senioren \unter (dat.) der Hitze\.
+
+Si l'on veut /préserver/ le Sahel /d'une catastrophe sans précédent/, on doit surtout résoudre le problème de l'eau.
+Wenn man die Sahelzone \vor einer beispiellosen Katastrophe bewahren will\, muss vor allem eine Lösung für das Wassersproblem gefunden werden. 
