@@ -746,7 +746,7 @@ Notre organisation pourrait /participer à votre projet/. Toutefois nous ne voulo
 Unsere Organisation könnte \an Ihrem Prokekt mitwirken\. Jedoch wollen wir nicht \auf unsere Aktivitäten in Wesafrika verzichten\.
 
 Votre affirmation /repose sur/ des hypothèses incertaines.
-Ihre Behauptung \berüht auf\ unsicheren Hypothesen|Voraussetzungen.
+Ihre Behauptung \beruht auf (dat.)\ unsicheren Hypothesen|Voraussetzungen.
 
 Contentons nous /de ce résultat/ qui depasse /nos prévisions les plus optimistes/.
 Benugen wir uns \mit diesem Ergebnis\, das \unsere optimistischsten Erwartungen\ übertrifft.
@@ -791,4 +791,76 @@ En été, les personnes âgées souffrent /de la chaleur/.
 Im Sommer leiden die Senioren \unter (dat.) der Hitze\.
 
 Si l'on veut /préserver/ le Sahel /d'une catastrophe sans précédent/, on doit surtout résoudre le problème de l'eau.
-Wenn man die Sahelzone \vor einer beispiellosen Katastrophe bewahren will\, muss vor allem eine Lösung für das Wassersproblem gefunden werden. 
+Wenn man die Sahelzone \vor einer beispiellosen Katastrophe bewahren will\, muss vor allem eine Lösung für das Wassersproblem gefunden werden.
+
+Cette plaisanterie /m'/a coûté une jolie somme d'argent.
+Dieser Spass hat \mich\ eine schöne|hübsche GeldSumme gekostet.
+
+Je me demande si notre comité d'entreprise /sert à quelque chose/.
+Ich frage mich, ob unser Betriebsrat \zu (dat.) etwas dient|nutzt\.
+
+Je n'ai pas besoin /de votre aide/, car je /me débrouille/ très bien /tout seul/.
+Ich bedarf nicht \Ihrer Hilfe (gen.)\, da ich sehr gut \allein zurechtkomme\.
+
+Mais je /vous/ pardonne votre arogance.
+Aber verziehe ich \(dat. )Ihnen\ Ihre Arroganz.
+
+Nous ne sommes pas ici pour assister /à un spectacle/.
+Wir sind nicht hier, um \einem Schauspiel (dat.)\ zuzuschauen.
+
+Ne vous rejouissez pas /de son échec/, car nous /sommes dans le même bateau/.
+Freuen Sie sich nicht \an seiner Niederlage\, denn wir \sitzen im gleichen Boot\.
+
+Si seulement il le pouvait, il aimerait bien se débarrasser /de cet adversaire/.
+Er würde sich gerne \dieses Gegners (gen.)\ entledigen, wenn er es nur könnte.
+
+Je /ne suis pas sous vos ordres/, alors ne me parlez pas sur ce ton.
+Ich \unterstehe Ihnen nicht\, also spechen Sie nicht mit mir in diesem Ton.
+
+/Il me vient à l'esprit/ que cette affaire n'est toujours pas réglée.
+\Es fällt mir ein\, dass diese Angelegenheit immer noch nicht gereglt ist.
+
+Je ne comprends pas /à quel cas/ vous faites allusion.
+Ich verstehe nicht, \auf welchen Fall (akk.)\ Sie anspielen.
+
+Nous devons faire attention /aux fluctuations/ du marché pétrolier.
+Wir mussen \auf die Schwankungen (akk.)\ des Erdölemarktes aufpassen.
+
+Vous pouvez /comptez sur ce nouveau collaborateur très fiable/.
+Sie können \auf diesen neuen, sehr zuverlässigen Mitarbeiter (akk.) zählen|rechnen|verlassen\.
+
+Nous n'avons pas d'autre solution qu'espérer /en l'amélioration/ de la conjoncture.
+Es bleibt uns keine andere Lösung, als \auf eine Besserung (akk.)\ der Konjunktur zu hoffen.
+
+Le gouvernement doit /s'attendre à/ de nouvelles difficultés /de la part/ des syndicats.
+Die Regierung muss \mit\ neuen Schwierigkeiten \von Seiten\ der Gewerkschaften \rechnen\.
+
+Dans une célèbre pièce de Samuel Becket, Wladimir et Estragon /attendent un homme/ qui s'appelle Godot.
+In einmem berühmten Theraterstück von Samuel Becket warten Wladimir und Estragon \auf irgend einen Mann|Mensch\, der Godot heißt.
+
+Ramses régna /sur l'Egypte et sur une partie de la Nubie/.
+Ramses herrschte \über Ägypten und einen Teil der Nubiens (akk.)\.
+
+De nombreux citoyens, qui /pestent contre/ le gouvernement, ne sont pas allés votés.
+Viele Staatbürger, die \auf die (akk.)\ Regierung \schimpfen\, sind nicht wählen gegangen.
+
+Il est étrange qu'aucun journal n'ait évoqué /cette histoire/.
+Es ist befremdend, dass keine Zeitung \über diese Geschichte (akk.)\ berichtet hat.
+
+Manifestement, ces deux administrations ne sont pas en mesure de se mettre d'accord /sur la délimitation/ de leurs compétences.
+Diese beiden Verwaltungen sind nicht in der Lage, sich \über die Abgrenzung (akk.)\ ihrer Kompetenzbereiche nicht einigen.
+
+Nous vous informons que l'ingénieur Mayer n'appartient plus /aux effectifs/ de notre entreprise.
+Wir informieren Sie, dass der Ingenieur Mayer \zur Belegschaft\ unserer Firma nicht mehr gehört.
+
+Même les membres de son propre parti /se détournent de lui/.
+Selbst die Mitglieder seiner eigenen Partei \wenden sich von ihm ab\.
+
+Nous pouvons /faire abstraction de ce petit détail/.
+Wir können \von diesem kleinen Detail absehen\.
+
+Je suis prêt à réfléchir /à votre proposition/.
+Ich bin (dazu) bereit, \über Ihren Vorschlag\ nachzudenken.
+
+
+

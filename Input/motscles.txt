@@ -1,0 +1,101 @@
+\stellen : mettre\
+Vous pouvez /mettre/ votre dans le garage souterrain.
+Sie können Ihren Wagen in die Tiefgarage \stellen\.
+
+\an|stellen : employer\
+Elle est /employée/ dans cette entreprise depuis 15 ans.
+Sie ist seit fünfzehn Jahren bei dieser Firma \angestellt\.
+
+\an|stellen : allumer\
+/Allumez/ la radio, s'il vous plait, j'aimerai écouter les informations.
+\Stellen\ Sie bitte das Radio \an\, ich möchte die Nachrichten hören.
+
+\an|stellen : faire des bêtises\
+Qu'est ce que vous /avez/ encore /fait/. Vos main sont sales !
+Was habt ihr schon wieder \angestellt\. Ihre Hände sind ganz schmutzig.
+
+\sich an|stellen : faire la queue\
+Désolé mais il faut /faire la queue/ comme tout le monde.
+Es tut mir leid, aber Sie müssen \sich anstellen\, wie die anderen auch.
+
+\sich an|stellen : faire des manières\
+Ne /fait pas de manière/, l'eau n'est pas si froide.
+\Stell dich\ nicht so \an\, das Wasser ist gar nicht so kalt.
+
+\auf|stellen : mettre debout\
+Nous devons /remettre/ le panneau qui est est tombé à cause du vent.
+Wir müssen das Schild wieder \aufstellen\, das durch den Wind gefallen ist.
+
+\auf|stellen : installer\
+Les travaux peuvent commencer, quand l'échafaudage est /installé/.
+Wenn das Gerüst \aufgestellt\ ist, könne die Bauarbeiten beginnen.
+
+\aus|stellen : exposer\
+Pour la première fois, les tableaux du jeune peintre ont été /exposés/ dans une gallerie d'art.
+Zum ersten Mal, wurdn die Gemälde des jungen Malers in einer Kunstgalerie \ausgestellt\.
+
+\bestellen : commander\
+Nous pourrions /commander/ une pizza et rester à la maison.
+Wir könnten eine Pizza \bestellen\ und heute Abend zu Hause bleiben.
+
+\durch|stellen : passer\
+Oui le docteur encore là, je vous le /passe/ tout de suite.
+Ja der Herr Doktor ist noch da, Ich werde Sie sofort \durchstellen\.
+
+\ein|stellen : employer\
+Grâce au commandes de la chine, l'entreprise familiale a dû /embaucher/ de nouveaux employés.
+Dank der Aufträge von China, müsste der Familienbetrieb neue Mitarbeiter \einstellen\.
+
+\ein|stellen : arrêter\
+Le travaux ont du être /arrêtés/ à cause du mauvais temps.
+Wegen des schlechten Wetters, mussten die Bauarbeiten \eingestellt\ werden.
+
+\entstellen : defigurer\
+Après l'accident, son visage a été complètement /défiguré/.
+Nach dem Unfall, war sein Gesicht total \entstellt\.
+
+\erstellen : établir\
+Pourriez vous m'/établir/ un devis s'il vous plaît.
+Könnten Sie mir bitten einen Kostenvoranschlag \erstellen\.
+
+\nach|stellen : poursuivre\
+Il l'avait /poursuivi/ pendant pendant 3 mois, et il avait maintenant les preuves nécessaires.
+Er hatte ihr 3 Monate \durchgestellt\, dann hatte er jetzt den notigen Beweis.
+
+\umstellen : encercler\
+Sortez, la banque est encerclée!
+Kommen Sie heraus, die Bank ist umgestellt!
+
+\um|stellen : déplacer\
+Tu as encore /déplacé/ la canapé.
+Du hast ja schon wieder die Couch \umgestellt\.
+
+\um|stellen : changer l'heure\
+N'oublie pas que l'on /change/ l'heure demain.
+Vergiss nicht, dass morgen die Uhren \umgestellt\ werden.
+
+\sich um|stellen: s'adapter\
+A son âge ce n'était pas facile de se réadapter à un nouveau travail.
+In seinem Alter, war es nicht leicht, sich auf eine neue Arbeit umzustellen.
+
+\jm etwas unterstellen: accuser\
+Il m'a carrément /accusé/ d'avoir bu la bouteille de whisky.
+Et hat mir doch tatsächlich \unterstellt\, ich hätte die Flasche Whisky getrunken.
+
+\sich unter|stellen: se mettre à l'abris\
+Viens on /va se mettre/ ici /à l'abris/ cinq minute, le temps que la pluie passe.
+Komm, wir \stellen uns\ hier fünf Minuten \unter\ bis der Regen vorbei ist.
+
+\verstellen : déréglé\
+Quelqu'un a encore /déréglé/ mon réveil!
+Irgenwer hat schon wieder meinen Wecker \verstellt\!
+
+\sich verstellen: jouer la comédie\
+Je ne crois pas qu'il a mal au ventre. Il /joue la comédie/ parce qu'il ne veut pas aller à l'école.
+Ich glaube nicht, dass er Bauschmertzen hat. Er \verstellt sich\, weil er nicht in die Schule gehen will.
+
+\sich vorstellen: se présente\
+Avant de commencer, je voudrais que chacun /se présente/ brièvement.
+Bevor wir beginnen, möchte ich, dass \sich\ jeder kurz \vorstellt\.
+
+
